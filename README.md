@@ -1,7 +1,11 @@
 # Food Data Central API project
 
-## Description
-This project focuses on:
-- collecting data containing nutritional information about various (foundational, minimally processed) food products
-- examining the data in search of valuable insights
-- visualizing the results
+## Problem definiton
+People need to supply various nutrients, such as vitamins, minerals, proteins and others in order to retain good health. This goal can be achieved through a balanced diet. Sometimes our habits make us uncounsciously supply less of certain nutrients, than we should, though. This can lead to emergence of deficiencies. This project focuses on four key elements (among many others) needed to ensure human well-being - vitamin A, vitamin D (D3, cholecalciferol), magnesium and calcium. The goal is to find natural products that contain highest amounts of these nutrients and could be easily incorporated into everyday diet. 
+
+## Project description
+Project consists of 3 stages:
+1. Data acquisition from Food Data Central (Department of Agriculture, USA) and inital data processing
+2. Data exploration in search of valuable insights
+3. Data visualization and presentation of the results
+
