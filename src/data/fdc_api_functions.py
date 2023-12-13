@@ -1,5 +1,5 @@
 '''
-Module contains functions for fetching FDC data
+The module contains functions for fetching FDC data
 '''
 
 import re
