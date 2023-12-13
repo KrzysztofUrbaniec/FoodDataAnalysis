@@ -152,17 +152,3 @@ def get_food_info(foods: dict, nutrients_list: list) -> pd.DataFrame:
 
     return df
 
-def list_nutrients_and_units(food_entry):
-    print(food_entry['description'])
-    for nutrient in food_entry['foodNutrients']:
-        print(f"{nutrient.get('nutrientName','')} : {nutrient.get('value',np.nan)} : {nutrient.get('unitName',np.nan)}")
-
-def remove_unnecessary_nutrients(nutrients_list,nutrients_to_remove):
-    nutrients_list_copy = nutrients_list.copy()
-    for element in nutrients_to_remove:
-        if element in nutrients_list_copy:
-            nutrients_list_copy.remove(element)
-        else:
-            print(f"{element} not found in the list")
-        
-    return nutrients_list_copy
