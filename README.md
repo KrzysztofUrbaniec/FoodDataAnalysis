@@ -1,7 +1,7 @@
 # Food Data Central API project
 
 ## Problem definiton
-People need to supply various nutrients, such as vitamins, minerals, proteins and others in order to retain good health. This goal can be achieved through a balanced diet. Sometimes our habits make us uncounsciously supply less of certain nutrients, than we should, though. This can lead to emergence of deficiencies. This project focuses on four key elements (among many others) needed to ensure human well-being - vitamin A, vitamin D (D3, cholecalciferol), magnesium and calcium. The goal is to find natural products that contain highest amounts of these nutrients and could be easily incorporated into everyday diet. 
+People need to supply various nutrients, such as vitamins, minerals, proteins and others in order to retain good health. This goal can be achieved through a balanced diet. Sometimes our habits make us uncounsciously supply less of certain nutrients, than we should, though. This can lead to emergence of deficiencies. This project focuses on three key elements (among many others) needed to ensure human well-being - calcium, magnesium and potassium. The goal is to find natural products that contain highest amounts of these nutrients and could be easily incorporated into everyday diet. 
 
 ## Project description
 Project consists of 3 stages:
