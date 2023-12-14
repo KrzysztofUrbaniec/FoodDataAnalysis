@@ -1,12 +1,12 @@
-Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Vitamin A, RAE",Vitamin D3 (cholecalciferol),"Calcium, Ca","Magnesium, Mg"
-"Restaurant, Chinese, fried rice, without meat",174,3.84,3.19,32.5,22.0,0.0,11.0,9.7
-"Beef, ground, 80% lean meat / 20% fat, raw",243,17.5,19.4,0.0,,,6.89,16.4
-"Beef, ground, 90% lean meat / 10% fat, raw",185,18.2,12.8,0.0,,,7.14,16.5
-"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",156,23.9,5.95,0.0,7.0,0.1,12.0,22.4
-"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",166,32.1,3.24,0.0,,,6.0,32.0
-"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",106,16.7,3.73,0.27,,,5.0,18.8
-"Frankfurter, beef, unheated",314,11.7,28.0,2.89,3.0,,15.0,11.5
-"Sausage, breakfast sausage, beef, pre-cooked, unprepared",328,13.3,28.7,3.37,18.0,,35.0,19.7
-"Sausage, Italian, pork, mild, cooked, pan-fried",322,18.2,26.2,2.15,22.0,,12.0,18.6
-"Sausage, pork, chorizo, link or ground, cooked, pan-fried",346,19.3,28.1,2.63,0.0,,37.0,30.1
-"Sausage, turkey, breakfast links, mild, raw",169,16.7,10.4,0.93,,,32.0,18.9
+Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg"
+"Restaurant, Chinese, fried rice, without meat",174,3.84,3.19,32.5,69.0,11.0,9.7
+"Beef, ground, 80% lean meat / 20% fat, raw",243,17.5,19.4,0.0,273.0,6.89,16.4
+"Beef, ground, 90% lean meat / 10% fat, raw",185,18.2,12.8,0.0,281.0,7.14,16.5
+"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",156,23.9,5.95,0.0,239.0,12.0,22.4
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",166,32.1,3.24,0.0,343.0,6.0,32.0
+"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",106,16.7,3.73,0.27,425.0,5.0,18.8
+"Frankfurter, beef, unheated",314,11.7,28.0,2.89,343.0,15.0,11.5
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",328,13.3,28.7,3.37,263.0,35.0,19.7
+"Sausage, Italian, pork, mild, cooked, pan-fried",322,18.2,26.2,2.15,310.0,12.0,18.6
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",346,19.3,28.1,2.63,435.0,37.0,30.1
+"Sausage, turkey, breakfast links, mild, raw",169,16.7,10.4,0.93,310.0,32.0,18.9
