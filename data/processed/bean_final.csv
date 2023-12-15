@@ -1,0 +1,114 @@
+,Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg",Category
+0,"Beans, liquid from stewed kidney beans",47.0,1.8,3.2,2.8,408.0,13.0,37.0,bean
+3,"Beans, baked, canned, with beef",121.0,6.38,3.45,16.9,320.0,45.0,25.0,bean
+4,"Beans, baked, canned, with franks",142.0,6.75,6.57,15.4,235.0,48.0,28.0,bean
+5,"Beans, baked, canned, with pork",106.0,5.19,1.55,20.0,309.0,53.0,34.0,bean
+6,"Beans, baked, home prepared",155.0,5.54,5.15,21.6,358.0,61.0,43.0,bean
+7,"Beans, fava, in pod, raw",88.0,7.92,0.73,17.6,332.0,37.0,33.0,bean
+8,"Beans, snap, green, microwaved",33.0,2.31,0.5,6.41,323.0,55.0,28.0,bean
+9,"Beans, snap, green, raw",31.0,1.83,0.22,6.97,211.0,37.0,25.0,bean
+10,"Beans, snap, yellow, raw",31.0,1.82,0.12,7.13,209.0,37.0,25.0,bean
+27,"Beans, adzuki, mature seeds, raw",329.0,19.9,0.53,62.9,1250.0,66.0,127.0,bean
+28,"Beans, baked, canned, no salt added",105.0,4.8,0.4,20.5,296.0,50.0,32.0,bean
+29,"Beans, baked, canned, plain or vegetarian",94.0,4.75,0.37,21.1,224.0,34.0,27.0,bean
+30,"Beans, black, mature seeds, raw",341.0,21.6,1.42,62.4,1480.0,123.0,171.0,bean
+31,"Beans, french, mature seeds, raw",343.0,18.8,2.02,64.1,1320.0,186.0,188.0,bean
+32,"Beans, navy, mature seeds, canned",113.0,7.53,0.43,20.4,288.0,47.0,47.0,bean
+33,"Beans, navy, mature seeds, raw",337.0,22.3,1.5,60.8,1180.0,147.0,175.0,bean
+34,"Beans, pink, mature seeds, raw",343.0,21.0,1.13,64.2,1460.0,130.0,182.0,bean
+35,"Beans, pinto, canned, drained solids",114.0,6.99,0.9,20.2,274.0,63.0,32.0,bean
+36,"Beans, shellie, canned, solids and liquids",30.0,1.76,0.19,6.19,109.0,29.0,15.0,bean
+37,"Beans, white, mature seeds, canned",114.0,7.26,0.29,21.2,454.0,73.0,51.0,bean
+38,"Beans, white, mature seeds, raw",333.0,23.4,0.85,60.3,1800.0,240.0,190.0,bean
+39,"Beans, yellow, mature seeds, raw",345.0,22.0,2.6,60.7,1040.0,166.0,222.0,bean
+58,"Beans, adzuki, mature seeds, canned, sweetened",237.0,3.8,0.03,55.0,119.0,22.0,31.0,bean
+59,"Beans, baked, canned, with pork and sweet sauce",105.0,4.52,0.89,21.6,231.0,39.0,30.0,bean
+60,"Beans, baked, canned, with pork and tomato sauce",94.0,5.15,0.93,18.7,295.0,56.0,34.0,bean
+61,"Beans, black turtle, mature seeds, canned",91.0,6.03,0.29,16.6,308.0,35.0,35.0,bean
+62,"Beans, black turtle, mature seeds, raw",339.0,21.2,0.9,63.2,1500.0,160.0,160.0,bean
+63,"Beans, chili, barbecue, ranch style, cooked",97.0,5.0,1.0,16.9,450.0,31.0,45.0,bean
+64,"Beans, cranberry (roman), mature seeds, canned",83.0,5.54,0.28,15.1,260.0,34.0,32.0,bean
+65,"Beans, cranberry (roman), mature seeds, raw",335.0,23.0,1.23,60.0,1330.0,127.0,156.0,bean
+66,"Beans, great northern, mature seeds, canned",114.0,7.37,0.39,21.0,351.0,53.0,51.0,bean
+67,"Beans, kidney, mature seeds, sprouted, raw",29.0,4.2,0.5,4.1,187.0,17.0,21.0,bean
+68,"Beans, kidney, red, mature seeds, raw",337.0,22.5,1.06,61.3,1360.0,83.0,138.0,bean
+69,"Beans, navy, mature seeds, sprouted, raw",67.0,6.15,0.7,13.0,307.0,15.0,101.0,bean
+70,"Beans, pinto, immature seeds, frozen, unprepared",170.0,9.8,0.5,32.5,756.0,58.0,60.0,bean
+71,"Beans, pinto, mature seeds, sprouted, raw",62.0,5.25,0.9,11.6,307.0,43.0,53.0,bean
+72,"Beans, small white, mature seeds, raw",336.0,21.1,1.18,62.2,1540.0,173.0,183.0,bean
+87,"Beans, adzuki, mature seed, cooked, boiled, with salt",128.0,7.52,0.1,24.8,532.0,28.0,52.0,bean
+88,"Beans, black, mature seeds, canned, low sodium",91.0,6.03,0.29,16.6,308.0,35.0,35.0,bean
+89,"Beans, black, mature seeds, cooked, boiled, with salt",132.0,8.86,0.54,23.7,355.0,27.0,70.0,bean
+90,"Beans, french, mature seeds, cooked, boiled, with salt",129.0,7.05,0.76,24.0,370.0,63.0,56.0,bean
+91,"Beans, kidney, all types, mature seeds, canned",84.0,5.22,0.6,14.5,237.0,34.0,27.0,bean
+92,"Beans, kidney, all types, mature seeds, raw",333.0,23.6,0.83,60.0,1410.0,143.0,140.0,bean
+93,"Beans, kidney, california red, mature seeds, raw",330.0,24.4,0.25,59.8,1490.0,195.0,160.0,bean
+94,"Beans, kidney, royal red, mature seeds, raw",329.0,25.3,0.45,58.3,1350.0,131.0,138.0,bean
+95,"Beans, navy, mature seeds, cooked, boiled, with salt",140.0,8.23,0.62,26.0,389.0,69.0,53.0,bean
+96,"Beans, pink, mature seeds, cooked, boiled, with salt",149.0,9.06,0.49,27.9,508.0,52.0,65.0,bean
+97,"Beans, pinto, mature seeds, canned, solids and liquids",82.0,4.6,0.56,15.2,276.0,47.0,33.0,bean
+98,"Beans, pinto, mature seeds, cooked, boiled, with salt",143.0,9.01,0.65,26.2,436.0,46.0,50.0,bean
+99,"Beans, snap, green, cooked, boiled, drained, with salt",35.0,1.89,0.28,7.88,146.0,44.0,18.0,bean
+100,"Beans, snap, green, frozen, all styles, microwaved",33.0,1.98,0.41,6.98,237.0,61.0,29.0,bean
+101,"Beans, snap, yellow, cooked, boiled, drained, with salt",35.0,1.89,0.28,7.88,299.0,46.0,25.0,bean
+102,"Beans, snap, yellow, frozen, all styles, unprepared",33.0,1.8,0.21,7.58,186.0,42.0,22.0,bean
+103,"Beans, white, mature seeds, cooked, boiled, with salt",139.0,9.73,0.35,25.1,561.0,90.0,63.0,bean
+104,"Beans, yellow, mature seeds, cooked, boiled, with salt",144.0,9.16,1.08,25.3,325.0,62.0,74.0,bean
+116,"Beans, adzuki, mature seeds, cooked, boiled, without salt",128.0,7.52,0.1,24.8,532.0,28.0,52.0,bean
+117,"Beans, black turtle, mature seeds, cooked, boiled, with salt",130.0,8.18,0.35,24.4,433.0,55.0,49.0,bean
+118,"Beans, black, mature seeds, cooked, boiled, without salt",132.0,8.86,0.54,23.7,355.0,27.0,70.0,bean
+119,"Beans, cranberry (roman), mature seeds, cooked, boiled, with salt",136.0,9.34,0.46,24.5,387.0,50.0,50.0,bean
+120,"Beans, french, mature seeds, cooked, boiled, without salt",129.0,7.05,0.76,24.0,370.0,63.0,56.0,bean
+121,"Beans, great northern, mature seeds, canned, low sodium",114.0,7.37,0.39,21.0,351.0,53.0,51.0,bean
+122,"Beans, great northern, mature seeds, cooked, boiled, with salt",118.0,8.33,0.45,21.1,391.0,68.0,50.0,bean
+123,"Beans, kidney, red, mature seeds, canned, drained solids",124.0,7.98,1.05,21.5,277.0,57.0,30.0,bean
+124,"Beans, kidney, red, mature seeds, canned, solids and liquids",81.0,5.22,0.36,14.8,260.0,29.0,30.0,bean
+125,"Beans, kidney, red, mature seeds, cooked, boiled, with salt",127.0,8.67,0.5,22.8,403.0,28.0,45.0,bean
+126,"Beans, mung, mature seeds, sprouted, canned, drained solids",12.0,1.4,0.06,2.14,27.0,14.0,9.0,bean
+127,"Beans, navy, mature seeds, cooked, boiled, without salt",140.0,8.23,0.62,26.0,389.0,69.0,53.0,bean
+128,"Beans, pink, mature seeds, cooked, boiled, without salt",149.0,9.06,0.49,27.9,508.0,52.0,65.0,bean
+129,"Beans, pinto, mature seeds, cooked, boiled, without salt",143.0,9.01,0.65,26.2,436.0,46.0,50.0,bean
+130,"Beans, small white, mature seeds, cooked, boiled, with salt",142.0,8.97,0.64,25.8,463.0,73.0,68.0,bean
+131,"Beans, snap, canned, all styles, seasoned, solids and liquids",16.0,0.83,0.2,3.49,93.0,22.0,13.0,bean
+132,"Beans, snap, green, canned, no salt added, drained solids",22.0,1.12,0.46,4.32,96.0,38.0,13.0,bean
+133,"Beans, snap, green, canned, no salt added, solids and liquids",15.0,0.8,0.1,3.5,92.0,24.0,13.0,bean
+134,"Beans, snap, green, canned, regular pack, drained solids",21.0,1.05,0.41,4.19,96.0,37.0,13.0,bean
+135,"Beans, snap, green, canned, regular pack, solids and liquids",15.0,0.72,0.17,3.27,92.0,29.0,13.0,bean
+136,"Beans, snap, green, cooked, boiled, drained, without salt",35.0,1.89,0.28,7.88,146.0,44.0,18.0,bean
+137,"Beans, snap, green, frozen, cooked, boiled, drained, with salt",28.0,1.49,0.17,6.45,159.0,42.0,19.0,bean
+138,"Beans, snap, yellow, canned, no salt added, drained solids",20.0,1.15,0.1,4.5,109.0,26.0,13.0,bean
+139,"Beans, snap, yellow, canned, no salt added, solids and liquids",15.0,0.8,0.1,3.5,98.0,24.0,13.0,bean
+140,"Beans, snap, yellow, canned, regular pack, drained solids",20.0,1.15,0.1,4.5,109.0,26.0,13.0,bean
+141,"Beans, snap, yellow, canned, regular pack, solids and liquids",15.0,0.8,0.1,3.5,98.0,24.0,13.0,bean
+142,"Beans, snap, yellow, cooked, boiled, drained, without salt",35.0,1.89,0.28,7.88,299.0,46.0,25.0,bean
+143,"Beans, snap, yellow, frozen, cooked, boiled, drained, with salt",28.0,1.49,0.17,6.45,126.0,49.0,24.0,bean
+144,"Beans, white, mature seeds, cooked, boiled, without salt",139.0,9.73,0.35,25.1,561.0,90.0,63.0,bean
+145,"Beans, yellow, mature seeds, cooked, boiled, without salt",144.0,9.16,1.08,25.3,325.0,62.0,74.0,bean
+164,"Beans, black turtle, mature seeds, cooked, boiled, without salt",130.0,8.18,0.35,24.4,433.0,55.0,49.0,bean
+165,"Beans, cranberry (roman), mature seeds, cooked, boiled, without salt",136.0,9.34,0.46,24.5,387.0,50.0,50.0,bean
+166,"Beans, great northern, mature seeds, cooked, boiled, without salt",118.0,8.33,0.45,21.1,391.0,68.0,50.0,bean
+167,"Beans, kidney, all types, mature seeds, cooked, boiled, with salt",127.0,8.67,0.5,22.8,403.0,28.0,45.0,bean
+168,"Beans, kidney, california red, mature seeds, cooked, boiled, with salt",124.0,9.13,0.09,22.4,419.0,66.0,48.0,bean
+169,"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, with salt",33.0,4.83,0.58,4.72,194.0,19.0,23.0,bean
+170,"Beans, kidney, red, mature seeds, cooked, boiled, without salt",127.0,8.67,0.5,22.8,403.0,28.0,45.0,bean
+171,"Beans, kidney, royal red, mature seeds, cooked, boiled with salt",123.0,9.49,0.17,21.8,378.0,44.0,42.0,bean
+172,"Beans, navy, mature seeds, sprouted, cooked, boiled, drained, with salt",78.0,7.07,0.81,15.0,317.0,16.0,111.0,bean
+173,"Beans, pinto, immature seeds, frozen, cooked, boiled, drained, with salt",162.0,9.31,0.48,30.9,646.0,52.0,54.0,bean
+174,"Beans, pinto, mature seeds, canned, solids and liquids, low sodium",82.0,4.6,0.56,15.2,276.0,47.0,33.0,bean
+175,"Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, with salt",20.0,1.86,0.32,3.5,98.0,15.0,18.0,bean
+176,"Beans, small white, mature seeds, cooked, boiled, without salt",142.0,8.97,0.64,25.8,463.0,73.0,68.0,bean
+177,"Beans, snap, green, frozen, cooked, boiled, drained without salt",28.0,1.49,0.17,6.45,159.0,42.0,19.0,bean
+178,"Beans, snap, yellow, frozen, cooked, boiled, drained, without salt",28.0,1.49,0.17,6.45,126.0,49.0,24.0,bean
+187,"Beans, kidney, all types, mature seeds, cooked, boiled, without salt",127.0,8.67,0.5,22.8,405.0,35.0,42.0,bean
+188,"Beans, kidney, california red, mature seeds, cooked, boiled, without salt",124.0,9.13,0.09,22.4,419.0,66.0,48.0,bean
+189,"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, without salt",33.0,4.83,0.58,4.72,194.0,19.0,23.0,bean
+190,"Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",81.0,5.22,0.36,14.8,260.0,29.0,30.0,bean
+191,"Beans, kidney, royal red, mature seeds, cooked, boiled, without salt",123.0,9.49,0.17,21.8,378.0,44.0,42.0,bean
+192,"Beans, navy, mature seeds, sprouted, cooked, boiled, drained, without salt",78.0,7.07,0.81,15.0,317.0,16.0,111.0,bean
+193,"Beans, pinto, immature seeds, frozen, cooked, boiled, drained, without salt",162.0,9.31,0.48,30.9,646.0,52.0,54.0,bean
+194,"Beans, pinto, mature seeds, canned, drained solids, rinsed in tap water",117.0,7.04,0.97,20.8,234.0,64.0,30.0,bean
+195,"Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, without salt",22.0,1.86,0.32,4.1,98.0,15.0,18.0,bean
+204,"Beans, kidney, red, mature seeds, canned, drained solids, rinsed in tap water",121.0,8.12,0.93,20.8,250.0,58.0,29.0,bean
+205,"Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program)",347.0,21.4,1.23,62.6,1390.0,113.0,176.0,bean
+210,"Beans, great northern, mature seeds, raw (Includes foods for USDA's Food Distribution Program)",339.0,21.9,1.14,62.4,1390.0,175.0,189.0,bean
+213,"Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)",33.0,1.79,0.21,7.54,186.0,42.0,22.0,bean

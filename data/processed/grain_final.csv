@@ -1,0 +1,93 @@
+,Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg",Category
+8,"Cornmeal, whole-grain, white",362.0,8.12,3.59,76.9,287.0,6.0,127.0,grain
+9,"Cornmeal, whole-grain, yellow",362.0,8.12,3.59,76.9,287.0,6.0,127.0,grain
+19,"Rice, white, medium-grain, cooked, unenriched",130.0,2.38,0.21,28.6,29.0,3.0,13.0,grain
+20,"Rice, white, medium-grain, enriched, cooked",130.0,2.38,0.21,28.6,29.0,3.0,13.0,grain
+21,"Rice, white, medium-grain, raw, enriched",360.0,6.61,0.58,79.3,86.0,9.0,35.0,grain
+22,"Rice, white, medium-grain, raw, unenriched",360.0,6.61,0.58,79.3,86.0,9.0,35.0,grain
+23,"Rice, white, short-grain, cooked, unenriched",130.0,2.36,0.19,28.7,26.0,1.0,8.0,grain
+24,"Rice, white, short-grain, enriched, cooked",130.0,2.36,0.19,28.7,26.0,1.0,8.0,grain
+25,"Rice, white, short-grain, enriched, uncooked",358.0,6.5,0.52,79.2,76.0,3.0,23.0,grain
+26,"Rice, white, short-grain, raw, unenriched",358.0,6.5,0.52,79.2,76.0,3.0,23.0,grain
+27,"Wheat flour, whole-grain, soft wheat",332.0,9.61,1.95,74.5,394.0,33.0,117.0,grain
+30,"Rice, white, long-grain, parboiled, enriched, cooked",123.0,2.91,0.37,26.0,56.0,19.0,9.0,grain
+31,"Rice, white, long-grain, parboiled, enriched, dry",374.0,7.51,1.03,80.9,174.0,71.0,27.0,grain
+32,"Rice, white, long-grain, parboiled, unenriched, cooked",123.0,2.91,0.37,26.0,56.0,19.0,9.0,grain
+33,"Rice, white, long-grain, parboiled, unenriched, dry",374.0,7.51,1.03,80.9,174.0,71.0,27.0,grain
+34,"Rice, white, long-grain, regular, enriched, cooked",130.0,2.69,0.28,28.2,35.0,10.0,12.0,grain
+35,"Rice, white, long-grain, regular, raw, enriched",365.0,7.13,0.66,80.0,115.0,28.0,25.0,grain
+36,"Rice, white, long-grain, regular, raw, unenriched",365.0,7.13,0.66,80.0,115.0,28.0,25.0,grain
+45,"Rice, white, long-grain, precooked or instant, enriched, dry",380.0,7.82,0.94,82.3,27.0,22.0,14.0,grain
+46,"Rice, white, long-grain, precooked or instant, enriched, prepared",124.0,2.18,0.5,26.8,9.0,8.0,5.0,grain
+47,"Rice, white, long-grain, regular, cooked, enriched, with salt",130.0,2.69,0.28,28.2,35.0,10.0,12.0,grain
+48,"Rice, white, long-grain, regular, cooked, unenriched, with salt",130.0,2.69,0.28,28.2,35.0,10.0,12.0,grain
+56,"Rice, white, long-grain, regular, unenriched, cooked without salt",130.0,2.69,0.28,28.2,35.0,10.0,12.0,grain
+63,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",340.0,13.2,2.5,72.0,363.0,34.0,137.0,grain
+67,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",123.0,2.74,0.97,25.6,86.0,3.0,39.0,grain
+68,"Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",367.0,7.54,3.2,76.2,250.0,9.0,116.0,grain
+69,"Rice, brown, medium-grain, cooked (Includes foods for USDA's Food Distribution Program)",112.0,2.32,0.83,23.5,79.0,10.0,44.0,grain
+70,"Rice, brown, medium-grain, raw (Includes foods for USDA's Food Distribution Program)",362.0,7.5,2.68,76.2,268.0,33.0,143.0,grain
+106,"Cornmeal, degermed, enriched, white",370.0,7.11,1.75,79.4,142.0,3.0,32.0,grain
+107,"Cornmeal, degermed, enriched, yellow",370.0,7.11,1.75,79.4,142.0,3.0,32.0,grain
+108,"Cornmeal, degermed, unenriched, white",370.0,7.11,1.75,79.4,142.0,3.0,32.0,grain
+109,"Cornmeal, degermed, unenriched, yellow",370.0,7.11,1.75,79.4,142.0,3.0,32.0,grain
+110,"Cornmeal, white, self-rising, bolted, plain, enriched",334.0,8.28,3.4,70.3,255.0,361.0,86.0,grain
+111,"Cornmeal, white, self-rising, bolted, with wheat flour added, enriched",348.0,8.41,2.85,73.4,207.0,299.0,54.0,grain
+112,"Cornmeal, white, self-rising, degermed, enriched",355.0,8.41,1.72,74.8,170.0,350.0,49.0,grain
+113,"Cornmeal, yellow, self-rising, bolted, plain, enriched",334.0,8.28,3.4,70.3,255.0,361.0,86.0,grain
+114,"Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched",348.0,8.41,2.85,73.4,207.0,299.0,54.0,grain
+115,"Cornmeal, yellow, self-rising, degermed, enriched",355.0,8.41,1.72,74.8,170.0,350.0,49.0,grain
+126,"Noodles, chinese, chow mein",471.0,10.9,21.2,63.6,103.0,0.0,19.0,grain
+127,"Noodles, egg, cooked, enriched, with added salt",138.0,4.54,2.07,25.2,38.0,12.0,21.0,grain
+128,"Noodles, egg, cooked, unenriched, with added salt",138.0,4.54,2.07,25.2,38.0,12.0,21.0,grain
+129,"Noodles, egg, dry, enriched",384.0,14.2,4.44,71.3,244.0,35.0,58.0,grain
+130,"Noodles, egg, dry, unenriched",384.0,14.2,4.44,71.3,244.0,35.0,58.0,grain
+131,"Noodles, egg, enriched, cooked",138.0,4.54,2.07,25.2,38.0,12.0,21.0,grain
+132,"Noodles, egg, spinach, enriched, cooked",132.0,5.04,1.57,24.2,37.0,19.0,24.0,grain
+133,"Noodles, egg, spinach, enriched, dry",382.0,14.6,4.55,70.3,355.0,56.0,82.0,grain
+134,"Noodles, egg, unenriched, cooked, without added salt",138.0,4.54,2.07,25.2,38.0,12.0,21.0,grain
+135,"Noodles, japanese, soba, cooked",99.0,5.06,0.1,21.4,35.0,4.0,9.0,grain
+136,"Noodles, japanese, soba, dry",336.0,14.4,0.71,74.6,252.0,35.0,95.0,grain
+137,"Noodles, japanese, somen, cooked",131.0,4.0,0.18,27.5,29.0,8.0,2.0,grain
+138,"Noodles, japanese, somen, dry",356.0,11.4,0.81,74.1,164.0,23.0,28.0,grain
+165,"Rice bran, crude",316.0,13.4,20.8,49.7,1480.0,57.0,781.0,grain
+166,"Rice flour, brown",363.0,7.23,2.78,76.5,289.0,11.0,112.0,grain
+167,"Rice flour, white, unenriched",366.0,5.95,1.42,80.1,76.0,10.0,35.0,grain
+168,"Rice noodles, cooked",108.0,1.79,0.2,24.0,4.0,4.0,3.0,grain
+169,"Rice noodles, dry",364.0,5.95,0.56,80.2,30.0,18.0,12.0,grain
+170,"Rice, brown, parboiled, cooked, UNCLE BENS",147.0,3.09,0.85,31.3,61.0,3.0,39.0,grain
+171,"Rice, brown, parboiled, dry, UNCLE BEN'S",370.0,7.6,2.75,78.7,219.0,8.0,98.0,grain
+172,"Rice, white, glutinous, unenriched, cooked",97.0,2.02,0.19,21.1,10.0,2.0,5.0,grain
+173,"Rice, white, glutinous, unenriched, uncooked",370.0,6.81,0.55,81.7,77.0,11.0,23.0,grain
+191,"Wheat bran, crude",216.0,15.6,4.25,64.5,1180.0,73.0,611.0,grain
+192,"Wheat flour, white (industrial), 10% protein, bleached, enriched",366.0,9.71,1.48,76.2,149.0,20.0,25.0,grain
+193,"Wheat flour, white (industrial), 10% protein, bleached, unenriched",366.0,9.71,1.48,76.2,149.0,20.0,25.0,grain
+194,"Wheat flour, white (industrial), 10% protein, unbleached, enriched",366.0,9.71,1.48,76.2,149.0,20.0,25.0,grain
+195,"Wheat flour, white (industrial), 11.5% protein, bleached, enriched",363.0,11.5,1.45,73.8,138.0,20.0,30.0,grain
+196,"Wheat flour, white (industrial), 11.5% protein, bleached, unenriched",363.0,11.5,1.45,73.8,138.0,20.0,30.0,grain
+197,"Wheat flour, white (industrial), 11.5% protein, unbleached, enriched",363.0,11.5,1.45,73.8,138.0,20.0,30.0,grain
+198,"Wheat flour, white (industrial), 13% protein, bleached, enriched",362.0,13.1,1.38,72.2,128.0,24.0,35.0,grain
+199,"Wheat flour, white (industrial), 13% protein, bleached, unenriched",362.0,13.1,1.38,72.2,128.0,24.0,35.0,grain
+200,"Wheat flour, white (industrial), 15% protein, bleached, enriched",362.0,15.3,1.41,69.9,120.0,17.0,38.0,grain
+201,"Wheat flour, white (industrial), 15% protein, bleached, unenriched",362.0,15.3,1.41,69.9,120.0,17.0,38.0,grain
+202,"Wheat flour, white (industrial), 9% protein, bleached, enriched",367.0,8.89,1.43,77.3,131.0,20.0,20.0,grain
+203,"Wheat flour, white (industrial), 9% protein, bleached, unenriched",367.0,8.89,1.43,77.3,131.0,20.0,20.0,grain
+204,"Wheat flour, white, all-purpose, enriched, bleached",364.0,10.3,0.98,76.3,107.0,15.0,22.0,grain
+205,"Wheat flour, white, all-purpose, enriched, calcium-fortified",364.0,10.3,0.98,76.3,107.0,252.0,22.0,grain
+206,"Wheat flour, white, all-purpose, enriched, unbleached",364.0,10.3,0.98,76.3,107.0,15.0,22.0,grain
+207,"Wheat flour, white, all-purpose, self-rising, enriched",354.0,9.89,0.97,74.2,124.0,338.0,19.0,grain
+208,"Wheat flour, white, all-purpose, unenriched",364.0,10.3,0.98,76.3,107.0,15.0,22.0,grain
+209,"Wheat flour, white, bread, enriched",361.0,12.0,1.66,72.5,100.0,15.0,25.0,grain
+210,"Wheat flour, white, cake, enriched",362.0,8.2,0.86,78.0,105.0,14.0,16.0,grain
+211,"Wheat flour, white, tortilla mix, enriched",405.0,9.66,10.6,67.1,100.0,205.0,21.0,grain
+212,"Wheat flours, bread, unenriched",361.0,12.0,1.66,72.5,100.0,15.0,25.0,grain
+213,"Wheat germ, crude",360.0,23.2,9.72,51.8,892.0,39.0,239.0,grain
+214,"Wheat, durum",339.0,13.7,2.47,71.1,431.0,34.0,144.0,grain
+215,"Wheat, hard red spring",329.0,15.4,1.92,68.0,340.0,25.0,124.0,grain
+216,"Wheat, hard red winter",327.0,12.6,1.54,71.2,363.0,29.0,126.0,grain
+217,"Wheat, hard white",342.0,11.3,1.71,75.9,432.0,32.0,93.0,grain
+218,"Wheat, KAMUT khorasan, cooked",132.0,5.71,0.83,27.6,164.0,9.0,48.0,grain
+219,"Wheat, KAMUT khorasan, uncooked",337.0,14.5,2.13,70.6,403.0,22.0,130.0,grain
+220,"Wheat, soft red winter",331.0,10.4,1.56,74.2,397.0,27.0,126.0,grain
+221,"Wheat, soft white",340.0,10.7,1.99,75.4,435.0,34.0,90.0,grain
+222,"Wheat, sprouted",198.0,7.49,1.27,42.5,169.0,28.0,82.0,grain

@@ -1,0 +1,88 @@
+,Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg",Category
+0,"Nuts, cashew nuts, raw",553.0,18.2,43.8,30.2,660.0,37.0,292.0,nut
+1,"Nuts, ginkgo nuts, canned",111.0,2.29,1.62,22.1,180.0,4.0,16.0,nut
+2,"Nuts, ginkgo nuts, dried",348.0,10.4,2.0,72.4,998.0,20.0,53.0,nut
+3,"Nuts, ginkgo nuts, raw",182.0,4.32,1.68,37.6,510.0,2.0,27.0,nut
+4,"Nuts, macadamia nuts, raw",718.0,7.91,75.8,13.8,368.0,85.0,130.0,nut
+5,"Nuts, pine nuts, dried",673.0,13.7,68.4,13.1,597.0,16.0,251.0,nut
+6,"Nuts, pistachio nuts, raw",560.0,20.2,45.3,27.2,1020.0,105.0,121.0,nut
+7,"Nuts, pine nuts, pinyon, dried",629.0,11.6,61.0,19.3,628.0,8.0,234.0,nut
+8,"Nuts, almonds",579.0,21.2,49.9,21.6,733.0,269.0,270.0,nut
+9,"Nuts, pecans",691.0,9.17,72.0,13.9,410.0,70.0,121.0,nut
+10,"Nuts, cashew nuts, dry roasted, with salt added",574.0,15.3,46.4,32.7,565.0,45.0,260.0,nut
+11,"Nuts, cashew nuts, oil roasted, with salt added",581.0,16.8,47.8,30.2,632.0,43.0,273.0,nut
+12,"Nuts, macadamia nuts, dry roasted, with salt added",716.0,7.79,76.1,12.8,363.0,70.0,118.0,nut
+13,"Nuts, pistachio nuts, dry roasted, with salt added",569.0,21.0,45.8,27.6,1010.0,107.0,109.0,nut
+14,"Nuts, acorns, dried",509.0,8.1,31.4,53.7,709.0,54.0,82.0,nut
+15,"Nuts, acorns, raw",387.0,6.15,23.9,40.8,539.0,41.0,62.0,nut
+16,"Nuts, almond paste",458.0,9.0,27.7,47.8,314.0,172.0,130.0,nut
+17,"Nuts, almonds, blanched",590.0,21.4,52.5,18.7,659.0,236.0,268.0,nut
+18,"Nuts, beechnuts, dried",576.0,6.2,50.0,33.5,1020.0,1.0,0.0,nut
+19,"Nuts, butternuts, dried",612.0,24.9,57.0,12.0,421.0,53.0,237.0,nut
+20,"Nuts, hazelnuts or filberts",628.0,15.0,60.8,16.7,680.0,114.0,163.0,nut
+21,"Nuts, hickorynuts, dried",657.0,12.7,64.4,18.2,436.0,61.0,173.0,nut
+22,"Nuts, pilinuts, dried",719.0,10.8,79.6,3.98,507.0,145.0,302.0,nut
+23,"Nuts, walnuts, english",654.0,15.2,65.2,13.7,441.0,98.0,158.0,nut
+24,"Nuts, walnuts, glazed",500.0,8.28,35.7,47.6,232.0,71.0,,nut
+26,"Nuts, cashew nuts, dry roasted, without salt added",574.0,15.3,46.4,32.7,565.0,45.0,260.0,nut
+27,"Nuts, cashew nuts, oil roasted, without salt added",580.0,16.8,47.8,29.9,632.0,43.0,273.0,nut
+28,"Nuts, macadamia nuts, dry roasted, without salt added",718.0,7.79,76.1,13.4,363.0,70.0,118.0,nut
+29,"Nuts, mixed nuts, dry roasted, with peanuts, with salt added",594.0,17.3,51.4,25.4,693.0,70.0,225.0,nut
+30,"Nuts, mixed nuts, oil roasted, with peanuts, lightly salted",607.0,20.0,54.0,21.0,632.0,117.0,229.0,nut
+31,"Nuts, mixed nuts, oil roasted, with peanuts, with salt added",607.0,20.0,54.0,21.0,632.0,117.0,229.0,nut
+32,"Nuts, pistachio nuts, dry roasted, without salt added",572.0,21.0,45.8,28.3,1010.0,107.0,109.0,nut
+33,"Nuts, brazilnuts, dried, unblanched",659.0,14.3,67.1,11.7,659.0,160.0,376.0,nut
+34,"Nuts, mixed nuts, dry roasted, with peanuts, without salt added",607.0,19.5,53.5,22.4,643.0,87.0,227.0,nut
+35,"Nuts, mixed nuts, oil roasted, with peanuts, without salt added",607.0,20.0,54.0,21.0,632.0,117.0,229.0,nut
+36,"Nuts, mixed nuts, oil roasted, without peanuts, lightly salted",607.0,17.9,50.0,25.0,714.0,130.0,275.0,nut
+37,"Nuts, mixed nuts, oil roasted, without peanuts, with salt added",615.0,15.5,56.2,22.3,544.0,106.0,251.0,nut
+39,"Nuts, chestnuts, chinese, dried",363.0,6.82,1.81,79.8,726.0,29.0,137.0,nut
+40,"Nuts, chestnuts, chinese, raw",224.0,4.2,1.11,49.1,447.0,18.0,84.0,nut
+41,"Nuts, chestnuts, chinese, roasted",239.0,4.48,1.19,52.4,477.0,19.0,90.0,nut
+42,"Nuts, chestnuts, european, roasted",245.0,3.17,2.2,53.0,592.0,29.0,33.0,nut
+43,"Nuts, chestnuts, japanese, dried",360.0,5.25,1.24,81.4,768.0,72.0,115.0,nut
+44,"Nuts, chestnuts, japanese, raw",154.0,2.25,0.53,34.9,329.0,31.0,49.0,nut
+45,"Nuts, chestnuts, japanese, roasted",201.0,2.97,0.8,45.1,427.0,35.0,64.0,nut
+46,"Nuts, coconut meat, raw",354.0,3.33,33.5,15.2,356.0,14.0,32.0,nut
+47,"Nuts, hazelnuts or filberts, blanched",629.0,13.7,61.2,17.0,658.0,149.0,160.0,nut
+48,"Nuts, walnuts, black, dried",619.0,24.1,59.3,9.58,523.0,61.0,201.0,nut
+51,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, CHOSEN ROASTER",608.0,18.0,53.2,24.6,585.0,106.0,202.0,nut
+52,"Nuts, mixed nuts, oil roasted, without peanuts, without salt added",615.0,15.5,56.2,22.3,544.0,106.0,251.0,nut
+53,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend",572.0,23.3,47.5,23.1,758.0,129.0,209.0,nut
+54,"Nuts, acorn flour, full fat",501.0,7.49,30.2,54.6,712.0,43.0,110.0,nut
+55,"Nuts, almonds, honey roasted, unblanched",594.0,18.2,49.9,27.9,560.0,263.0,240.0,nut
+56,"Nuts, chestnuts, chinese, boiled and steamed",153.0,2.88,0.76,33.6,306.0,12.0,58.0,nut
+57,"Nuts, chestnuts, european, boiled and steamed",131.0,2.0,1.38,27.8,715.0,46.0,54.0,nut
+58,"Nuts, chestnuts, european, dried, peeled",369.0,5.01,3.91,78.4,991.0,64.0,74.0,nut
+59,"Nuts, chestnuts, european, dried, unpeeled",374.0,6.39,4.45,77.3,986.0,67.0,74.0,nut
+60,"Nuts, chestnuts, european, raw, peeled",196.0,1.63,1.25,44.2,484.0,19.0,30.0,nut
+61,"Nuts, chestnuts, european, raw, unpeeled",213.0,2.42,2.26,45.5,518.0,27.0,32.0,nut
+62,"Nuts, chestnuts, japanese, boiled and steamed",56.0,0.82,0.19,12.6,119.0,11.0,18.0,nut
+63,"Nuts, coconut cream, canned, sweetened",357.0,1.17,16.3,53.2,101.0,4.0,17.0,nut
+69,"Nuts, almond butter, plain, with salt added",614.0,21.0,55.5,18.8,748.0,347.0,279.0,nut
+70,"Nuts, almonds, dry roasted, with salt added",598.0,21.0,52.5,21.0,713.0,268.0,279.0,nut
+71,"Nuts, almonds, oil roasted, lightly salted",607.0,21.2,55.2,17.7,699.0,291.0,274.0,nut
+72,"Nuts, almonds, oil roasted, with salt added",607.0,21.2,55.2,17.7,699.0,291.0,274.0,nut
+73,"Nuts, cashew butter, plain, with salt added",609.0,12.1,53.0,30.3,447.0,61.0,206.0,nut
+74,"Nuts, coconut meat, dried (desiccated), creamed",684.0,5.3,69.1,21.5,551.0,26.0,92.0,nut
+75,"Nuts, coconut meat, dried (desiccated), not sweetened",660.0,6.88,64.5,23.6,543.0,26.0,90.0,nut
+76,"Nuts, coconut meat, dried (desiccated), toasted",592.0,5.3,47.0,44.4,554.0,27.0,92.0,nut
+77,"Nuts, coconut water (liquid from coconuts)",19.0,0.72,0.2,3.71,250.0,24.0,25.0,nut
+78,"Nuts, pecans, dry roasted, with salt added",710.0,9.5,74.3,13.6,424.0,72.0,132.0,nut
+79,"Nuts, pecans, oil roasted, with salt added",715.0,9.2,75.2,13.0,392.0,67.0,121.0,nut
+80,"Nuts, walnuts, dry roasted, with salt added",643.0,14.3,60.7,17.9,459.0,71.0,151.0,nut
+83,"Nuts, almond butter, plain, without salt added",614.0,21.0,55.5,18.8,748.0,347.0,279.0,nut
+84,"Nuts, almonds, dry roasted, without salt added",598.0,21.0,52.5,21.0,713.0,268.0,279.0,nut
+85,"Nuts, almonds, oil roasted, without salt added",607.0,21.2,55.2,17.7,699.0,291.0,274.0,nut
+86,"Nuts, cashew butter, plain, without salt added",587.0,17.6,49.4,27.6,546.0,43.0,258.0,nut
+87,"Nuts, coconut meat, dried (desiccated), sweetened, shredded",501.0,2.88,35.5,47.7,337.0,15.0,50.0,nut
+89,"Nuts, pecans, dry roasted, without salt added",710.0,9.5,74.3,13.6,424.0,72.0,132.0,nut
+90,"Nuts, pecans, oil roasted, without salt added",715.0,9.2,75.2,13.0,392.0,67.0,121.0,nut
+96,"Nuts, almonds, oil roasted, with salt added, smoke flavor",607.0,21.4,55.9,17.9,679.0,286.0,286.0,nut
+97,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, canned",443.0,3.35,31.7,40.9,324.0,14.0,49.0,nut
+98,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",456.0,3.13,28.0,51.8,361.0,11.0,51.0,nut
+99,"Nuts, hazelnuts or filberts, dry roasted, without salt added",646.0,15.0,62.4,17.6,755.0,123.0,173.0,nut
+102,"Nuts, coconut cream, raw (liquid expressed from grated meat)",330.0,3.63,34.7,6.65,325.0,11.0,28.0,nut
+109,"Nuts, coconut milk, canned (liquid expressed from grated meat and water)",197.0,2.02,21.3,2.81,220.0,18.0,46.0,nut
+110,"Nuts, coconut milk, frozen (liquid expressed from grated meat and water)",202.0,1.61,20.8,5.58,232.0,4.0,32.0,nut
+111,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",230.0,2.29,23.8,5.54,263.0,16.0,37.0,nut
