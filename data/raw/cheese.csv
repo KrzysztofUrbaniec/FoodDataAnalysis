@@ -1,20 +1,260 @@
 Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg"
-"Cheese, cheddar",408.0,23.3,34.0,2.44,77.0,707.0,26.8
-"Cheese, swiss",393.0,27.0,31.0,1.44,71.0,890.0,33.4
-"Cheese, American, restaurant",375.0,17.5,31.1,6.35,173.0,508.0,25.0
-"Cheese, cotija, solid",351.0,23.8,27.2,2.72,117.0,700.0,29.9
-"Cheese, oaxaca, solid",297.0,22.1,22.1,2.4,80.7,532.0,21.6
-"Cheese, parmesan, grated",421.0,29.6,28.0,12.4,184.0,884.0,34.9
-"Cheese, provolone, sliced",357.0,23.5,28.1,2.45,94.8,749.0,29.5
-"Cheese, pasteurized process cheese food or product, American, singles",310.0,15.6,23.9,8.19,212.0,1500.0,34.6
-"Cheese, monterey jack, solid",392.0,22.6,32.6,1.9,82.9,715.0,29.6
-"Cheese, parmesan, grated, refrigerated",403.0,30.1,29.5,4.33,74.0,950.0,35.4
-"Cheese, queso fresco, solid",298.0,18.9,23.4,2.96,126.0,602.0,27.6
-"Cheese, ricotta, whole milk",157.0,7.81,11.0,6.86,230.0,224.0,19.7
-"Cheese, cottage, lowfat, 2% milkfat",84.0,11.0,2.3,4.31,120.0,103.0,8.9
-"Cheese, dry white, queso seco",326.0,24.5,24.3,2.07,116.0,661.0,26.7
-"Cheese, feta, whole milk, crumbled",273.0,19.7,19.1,5.58,105.0,371.0,17.7
-"Cream cheese, full fat, block",343.0,5.79,33.5,4.56,125.0,97.1,8.91
-"Cheese, mozzarella, low moisture, part-skim",298.0,23.7,20.4,4.44,116.0,693.0,27.2
-"Cheese, pasteurized process, American, vitamin D fortified",366.0,18.0,30.6,5.27,149.0,866.0,25.1
-"Cottage cheese, full fat, large or small curd",103.0,11.6,4.22,4.6,124.0,88.3,9.19
+"Cheese spread, cream cheese base",295.0,7.1,28.6,3.5,112.0,71.0,6.0
+"Bread, cheese",408.0,10.4,20.8,44.8,84.0,90.0,17.0
+"Cheese, blue",353.0,21.4,28.7,2.34,256.0,528.0,23.0
+"Cheese, brick",371.0,23.2,29.7,2.79,136.0,674.0,24.0
+"Cheese, brie",334.0,20.8,27.7,0.45,152.0,184.0,20.0
+"Cheese, camembert",300.0,19.8,24.3,0.46,187.0,388.0,20.0
+"Cheese, caraway",376.0,25.2,29.2,3.06,93.0,673.0,22.0
+"Cheese, cheshire",387.0,23.4,30.6,4.78,95.0,643.0,21.0
+"Cheese, colby",394.0,23.8,32.1,2.57,127.0,685.0,26.0
+"Cheese, cream",350.0,6.15,34.4,5.52,132.0,97.0,9.0
+"Cheese, edam",357.0,25.0,28.6,1.43,188.0,731.0,30.0
+"Cheese, feta",265.0,14.2,21.5,3.88,62.0,493.0,19.0
+"Cheese, fontina",389.0,25.6,31.1,1.55,64.0,550.0,14.0
+"Cheese, gjetost",466.0,9.65,29.5,42.6,1410.0,400.0,70.0
+"Cheese, gouda",356.0,24.9,27.4,2.22,121.0,700.0,29.0
+"Cheese, gruyere",413.0,29.8,32.3,0.36,81.0,1010.0,36.0
+"Cheese, limburger",327.0,20.0,27.2,0.49,128.0,497.0,21.0
+"Cheese, monterey",373.0,24.5,30.3,0.68,81.0,746.0,27.0
+"Cheese, muenster",368.0,23.4,30.0,1.12,134.0,717.0,27.0
+"Cheese, neufchatel",253.0,9.15,22.8,3.59,152.0,117.0,10.0
+"Cheese, provolone",351.0,25.6,26.6,2.14,138.0,756.0,28.0
+"Cheese, romano",387.0,31.8,26.9,3.63,86.0,1060.0,41.0
+"Cheese, roquefort",369.0,21.5,30.6,2.0,91.0,662.0,30.0
+"Cheese, swiss",393.0,27.0,31.0,1.44,72.0,890.0,33.0
+"Cheese, tilsit",340.0,24.4,26.0,1.88,65.0,700.0,13.0
+"Croissants, cheese",414.0,9.2,20.9,47.0,132.0,53.0,24.0
+"Crackers, cheese, sandwich-type with cheese filling",490.0,8.92,24.4,58.8,295.0,89.0,28.0
+"Macaroni and cheese, box mix with cheese sauce, prepared",164.0,6.68,4.99,23.1,80.0,85.0,15.0
+"Macaroni and cheese, box mix with cheese sauce, unprepared",334.0,12.7,10.7,46.7,197.0,145.0,34.0
+"Cake, coffeecake, cheese",339.0,7.0,15.2,44.3,289.0,59.0,15.0
+"Cheese substitute, mozzarella",248.0,11.5,12.2,23.7,455.0,610.0,41.0
+"Cheese, cottage, with vegetables",95.0,10.9,4.2,3.0,86.0,56.0,4.0
+"Cheese, Mexican blend",384.0,23.5,32.1,0.13,85.0,659.0,25.0
+"Cheese, mozzarella, nonfat",141.0,31.7,0.0,3.5,106.0,961.0,33.0
+"Cheese, parmesan, grated",420.0,28.4,27.8,13.9,180.0,853.0,34.0
+"Cheese, parmesan, hard",392.0,35.8,25.0,3.22,92.0,1180.0,44.0
+"Cheese, parmesan, shredded",415.0,37.9,27.3,3.41,97.0,1250.0,51.0
+"Crackers, cheese, regular",489.0,10.9,22.7,59.4,156.0,136.0,25.0
+"Danish pastry, cheese",374.0,8.0,21.9,37.2,98.0,35.0,15.0
+Ham and cheese spread,245.0,16.2,18.5,2.28,162.0,217.0,18.0
+"Liver cheese, pork",304.0,15.2,25.6,2.1,226.0,8.0,12.0
+"Soybean, curd cheese",151.0,12.5,8.1,6.9,199.0,188.0,228.0
+"Sweet rolls, cheese",360.0,7.1,18.3,43.7,137.0,118.0,19.0
+"Cheese spread, American or Cheddar cheese base, reduced fat",176.0,13.4,8.88,10.7,250.0,557.0,27.0
+"DIGIORNO Pizza, cheese topping, cheese stuffed crust, frozen, baked",279.0,13.5,11.7,29.9,185.0,235.0,27.0
+"Babyfood, macaroni and cheese, toddler",82.0,3.5,2.6,11.2,18.0,102.0,9.0
+"BURGER KING, WHOPPER, no cheese",233.0,10.7,12.8,18.6,169.0,39.0,18.0
+"BURGER KING, WHOPPER, with cheese",250.0,11.2,15.3,16.7,169.0,82.0,18.0
+"Burrito, bean and cheese, frozen",221.0,7.07,6.3,34.0,210.0,52.0,31.0
+"Cheese, american cheddar, imitation",239.0,16.7,14.0,11.6,242.0,562.0,29.0
+"Cheese, cheddar, sharp, sliced",410.0,24.2,33.8,2.13,76.0,711.0,27.0
+"Cheese, cottage, creamed, with fruit",97.0,10.7,3.85,4.61,90.0,53.0,7.0
+"Cheese, cream, fat free",105.0,15.7,1.0,7.66,278.0,351.0,22.0
+"Cheese, cream, low fat",208.0,7.85,16.7,6.73,247.0,148.0,8.0
+"Cheese, fresh, queso fresco",299.0,18.1,23.8,2.98,129.0,566.0,24.0
+"Cheese, goat, hard type",452.0,30.5,35.6,2.17,48.0,895.0,54.0
+"Cheese, goat, semisoft type",364.0,21.6,29.8,0.12,158.0,298.0,29.0
+"Cheese, goat, soft type",264.0,18.5,21.1,0.0,26.0,140.0,16.0
+"Cheese, mexican, queso anejo",373.0,21.4,30.0,4.63,87.0,680.0,28.0
+"Cheese, mexican, queso asadero",356.0,22.6,25.0,4.13,86.0,661.0,26.0
+"Cheese, mexican, queso chihuahua",374.0,21.6,29.7,5.56,52.0,651.0,23.0
+"Cheese, mexican, queso cotija",366.0,20.0,30.0,3.97,125.0,800.0,38.0
+"Cheese, monterey, low fat",313.0,28.2,21.6,0.7,81.0,705.0,27.0
+"Cheese, mozzarella, low sodium",280.0,27.5,17.1,3.1,95.0,731.0,26.0
+"Cheese, mozzarella, whole milk",299.0,22.2,22.1,2.4,76.0,505.0,20.0
+"Cheese, muenster, low fat",271.0,24.7,17.6,3.5,134.0,529.0,27.0
+"Cheese, parmesan, low sodium",451.0,41.6,30.0,3.7,107.0,800.0,51.0
+"Cheese, pasteurized process, pimento",375.0,22.1,31.2,1.73,162.0,614.0,22.0
+"Cheese, pasteurized process, swiss",334.0,24.7,25.0,2.1,216.0,772.0,29.0
+"Cheese, port de salut",352.0,23.8,28.2,0.57,136.0,650.0,24.0
+"Cheese, provolone, reduced fat",274.0,24.7,17.6,3.5,138.0,756.0,28.0
+"Cheese, ricotta, whole milk",150.0,7.54,10.2,7.27,219.0,206.0,20.0
+"Cheese, swiss, low fat",179.0,28.4,5.1,3.4,111.0,961.0,36.0
+"Cheese, swiss, low sodium",374.0,28.4,27.4,3.4,111.0,961.0,36.0
+"Cheese, white, queso blanco",310.0,20.4,24.3,2.53,126.0,690.0,29.0
+"Crackers, cheese, low sodium",503.0,10.1,25.3,58.2,106.0,151.0,36.0
+"Crackers, cheese, reduced fat",418.0,10.0,11.7,68.2,141.0,67.0,22.0
+"Crackers, cheese, whole grain",412.0,9.62,16.0,57.3,212.0,128.0,68.0
+"Fast foods, nachos, with cheese",343.0,4.32,21.5,34.9,362.0,63.0,42.0
+Ham and cheese loaf or roll,241.0,13.6,18.7,4.0,294.0,58.0,16.0
+"Lasagna, cheese, frozen, prepared",130.0,6.54,5.33,13.8,182.0,111.0,21.0
+"Lasagna, cheese, frozen, unprepared",145.0,5.06,4.22,21.6,159.0,84.0,19.0
+"Macaroni and Cheese, canned entree",82.0,3.38,2.46,11.5,84.0,35.0,9.0
+"Macaroni and Cheese, canned, microwavable",134.0,5.98,5.99,14.0,72.0,57.0,13.0
+"Macaroni and cheese, frozen entree",149.0,5.6,6.41,17.3,95.0,114.0,17.0
+"McDONALD'S, QUARTER POUNDER with Cheese",258.0,14.6,14.2,20.0,219.0,144.0,22.0
+"Ravioli, cheese-filled, canned",77.0,2.48,1.45,13.6,232.0,33.0,15.0
+"Sauce, cheese, ready-to-serve",174.0,6.71,13.3,6.83,30.0,184.0,9.0
+"Snacks, popcorn, cheese-flavor",526.0,9.3,33.2,51.6,261.0,113.0,91.0
+"Soup, cheese, canned, condensed",82.0,0.8,3.92,11.3,37.0,36.0,12.0
+"WENDY'S, CLASSIC DOUBLE, with cheese",241.0,16.5,14.2,11.7,214.0,58.0,19.0
+"WENDY'S, Double Stack, with cheese",285.0,18.5,16.6,15.4,258.0,73.0,21.0
+"WENDY'S, Jr. Hamburger, with cheese",256.0,13.1,11.5,25.0,178.0,92.0,22.0
+"SUBWAY, steak & cheese sub on white bread with American cheese, lettuce and tomato",183.0,12.3,5.34,21.5,183.0,183.0,22.0
+"Fast foods, submarine sandwich, steak and cheese on white bread with cheese, lettuce and tomato",183.0,12.3,5.34,21.5,183.0,183.0,22.0
+"Babyfood, dinner, macaroni and cheese, junior",61.0,2.6,2.0,8.2,44.0,51.0,7.0
+"Babyfood, dinner, macaroni and cheese, strained",67.0,3.14,2.11,8.95,67.0,66.0,8.0
+"BURGER KING, CROISSAN'WICH with Egg and Cheese",283.0,10.4,15.8,24.8,168.0,231.0,17.0
+"BURGER KING, CROISSAN'WICH with Sausage and Cheese",376.0,13.7,25.4,23.0,205.0,107.0,19.0
+"BURGER KING, DOUBLE WHOPPER, no cheese",252.0,13.9,15.7,13.7,192.0,35.0,18.0
+"BURGER KING, DOUBLE WHOPPER, with cheese",266.0,14.5,17.1,13.5,189.0,78.0,19.0
+"Cheese food, cold pack, American",331.0,19.7,24.5,8.32,363.0,497.0,30.0
+"Cheese food, pasteurized process, swiss",323.0,21.9,24.1,4.5,284.0,723.0,28.0
+"Cheese sauce, prepared from recipe",197.0,10.3,14.9,5.48,142.0,311.0,19.0
+"Cheese spread, pasteurized process, American",290.0,16.4,21.2,8.73,242.0,562.0,29.0
+"Cheese, American, nonfat or fat free",126.0,21.0,0.0,10.5,393.0,789.0,115.0
+"Cheese, cheddar, nonfat or fat free",157.0,32.1,0.0,7.14,66.0,893.0,16.0
+"Cheese, cottage, lowfat, 1% milkfat",72.0,12.4,1.02,2.72,86.0,61.0,5.0
+"Cheese, cottage, lowfat, 2% milkfat",81.0,10.4,2.27,4.76,125.0,111.0,9.0
+"Cheese, dry white, queso seco",325.0,24.5,24.4,2.04,116.0,661.0,27.0
+"Cheese, low fat, cheddar or colby",173.0,24.4,7.0,1.91,66.0,415.0,16.0
+"Cheese, low-sodium, cheddar or colby",398.0,24.4,32.6,1.91,112.0,703.0,27.0
+"Cheese, Mexican, blend, reduced fat",282.0,24.7,19.4,3.41,93.0,1150.0,35.0
+"Cheese, mozzarella, part skim milk",254.0,24.3,15.9,2.77,84.0,782.0,23.0
+"Cheese, ricotta, part skim milk",138.0,11.4,7.91,5.14,125.0,272.0,15.0
+"Cheese, Swiss, nonfat or fat free",127.0,28.4,0.0,3.4,111.0,961.0,36.0
+"Cheesefurter, cheese smokie, pork, beef",328.0,14.1,29.0,1.51,206.0,58.0,13.0
+"Crackers, wheat, sandwich, with cheese filling",497.0,9.8,25.0,58.2,306.0,204.0,54.0
+"Dumpling, potato- or cheese-filled, frozen",195.0,5.26,6.14,29.6,107.0,35.0,16.0
+"Fast foods, burrito, with beans and cheese",205.0,7.35,6.05,31.2,261.0,124.0,34.0
+"Macaroni or noodles with cheese, microwaveable, unprepared",388.0,11.5,6.56,70.8,348.0,328.0,49.0
+"McDONALD'S, Bacon Egg & Cheese Biscuit",304.0,13.4,18.8,22.3,121.0,109.0,12.0
+"McDONALD'S, Bacon, Egg & Cheese McGRIDDLES",272.0,12.0,13.2,26.2,,109.0,
+"McDONALD'S, DOUBLE QUARTER POUNDER with Cheese",262.0,17.0,16.2,14.4,242.0,106.0,21.0
+"McDONALD'S, Sausage, Egg & Cheese McGRIDDLES",283.0,10.8,17.7,22.0,146.0,96.0,14.0
+"Parmesan cheese topping, fat free",370.0,40.0,5.0,40.0,600.0,800.0,40.0
+"Sauce, cheese sauce mix, dry",438.0,7.68,18.3,60.5,428.0,204.0,36.0
+"Sausage, egg and cheese breakfast biscuit",324.0,9.54,22.1,21.6,269.0,136.0,16.0
+"Snacks, potato chips, cheese-flavor",496.0,8.5,27.2,57.7,1530.0,72.0,75.0
+"Snacks, tortilla chips, nacho cheese",519.0,7.36,27.4,60.8,223.0,137.0,75.0
+"WENDY'S, CLASSIC SINGLE Hamburger, no cheese",213.0,12.6,10.6,16.8,195.0,34.0,18.0
+"WENDY'S, CLASSIC SINGLE Hamburger, with cheese",221.0,14.9,11.6,14.2,187.0,75.0,19.0
+"WENDY'S, Jr. Hamburger, without cheese",243.0,12.6,8.75,28.4,175.0,45.0,21.0
+"Babyfood, ravioli, cheese filled, with tomato sauce",99.0,3.6,2.2,16.3,32.0,54.0,7.0
+"Bread, salvadoran sweet cheese (quesadilla salvadorena)",374.0,7.12,17.1,47.8,350.0,73.0,11.0
+"BURGER KING, CROISSAN'WICH with Sausage, Egg and Cheese",308.0,12.1,21.8,15.9,158.0,90.0,17.0
+"Cheese, cottage, creamed, large or small curd",98.0,11.1,4.3,3.38,104.0,83.0,8.0
+"Cheese, cottage, lowfat, 1% milkfat, with vegetables",67.0,10.9,1.0,3.0,86.0,56.0,4.0
+"Cheese, mozzarella, low moisture, part-skim",295.0,23.8,19.8,5.58,188.0,697.0,27.0
+"Cheese, mozzarella, whole milk, low moisture",318.0,21.6,24.6,2.47,75.0,575.0,21.0
+"Cheese, parmesan, dry grated, reduced fat",265.0,20.0,20.0,1.37,125.0,1110.0,38.0
+"Cheese, pasteurized process, American, low fat",180.0,24.6,7.0,3.5,180.0,684.0,24.0
+"Crackers, rye, sandwich-type with cheese filling",481.0,9.2,22.3,60.8,342.0,222.0,37.0
+"Fast foods, biscuit, with egg, cheese, and bacon",301.0,12.0,17.5,24.4,131.0,103.0,15.0
+"Fast foods, burrito, with beans, cheese, and beef",180.0,7.03,6.8,23.4,204.0,90.0,23.0
+"Fast foods, croissant, with egg, cheese, and bacon",289.0,12.9,16.4,22.5,160.0,146.0,17.0
+"Fast foods, croissant, with egg, cheese, and ham",261.0,12.4,15.0,19.0,179.0,95.0,17.0
+"Fast foods, croissant, with egg, cheese, and sausage",308.0,12.1,21.8,15.9,158.0,90.0,17.0
+"Fast foods, english muffin, with cheese and sausage",338.0,13.3,20.7,25.3,179.0,210.0,21.0
+"Frostings, cream cheese-flavor, ready-to-eat",415.0,0.1,17.3,67.3,35.0,3.0,2.0
+"Imitation cheese, american or cheddar, low cholesterol",390.0,25.0,32.0,1.0,55.0,705.0,30.0
+KRAFT VELVEETA Pasteurized Process Cheese Spread,303.0,16.3,22.0,9.8,335.0,466.0,
+"Macaroni and cheese loaf, chicken, pork and beef",228.0,11.8,15.0,11.6,313.0,122.0,27.0
+"Sausage, pork and beef, with cheddar cheese, smoked",296.0,12.9,25.8,2.13,206.0,57.0,13.0
+"Soup, broccoli cheese, canned, condensed, commercial",87.0,2.1,5.3,7.7,207.0,41.0,13.0
+"Swisswurst, pork and beef, with swiss cheese, smoked",307.0,12.7,27.4,1.6,206.0,74.0,13.0
+"Taquitos, frozen, beef and cheese, oven-heated",287.0,9.4,12.8,33.5,174.0,97.0,24.0
+"Taquitos, frozen, chicken and cheese, oven-heated",284.0,9.21,12.5,33.6,155.0,104.0,24.0
+"Tomato products, canned, sauce, with herbs and cheese",59.0,2.13,1.93,10.2,356.0,37.0,19.0
+"Turnover, filled with egg, meat and cheese, frozen",228.0,7.87,12.6,20.7,177.0,79.0,16.0
+"School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Cheese Pizza 50/50 Cheese, frozen",233.0,12.1,7.51,29.3,331.0,207.0,48.0
+"Cheese, cottage, lowfat, 1% milkfat, lactose reduced",74.0,12.4,1.0,3.2,86.0,53.0,5.0
+"Cheese, cottage, lowfat, 1% milkfat, no sodium added",72.0,12.4,1.0,2.7,86.0,61.0,5.0
+"Cheese, mozzarella, low moisture, part-skim, shredded",304.0,23.6,19.7,8.06,131.0,716.0,29.0
+"Cheese, pasteurized process, American, fortified with vitamin D",366.0,18.1,30.7,4.78,132.0,1040.0,26.0
+"Cheese, pasteurized process, cheddar or American, low sodium",376.0,22.2,31.2,1.6,162.0,616.0,22.0
+"Crackers, cheese, sandwich-type with peanut butter filling",496.0,12.4,25.1,56.7,218.0,50.0,56.0
+"Crackers, standard snack-type, sandwich, with cheese filling",477.0,9.3,21.1,61.7,429.0,257.0,36.0
+"Dip, salsa con queso, cheese and salsa- medium",143.0,3.14,9.51,11.1,105.0,98.0,8.0
+"DOMINO'S 14"" Cheese Pizza, Crunchy Thin Crust",298.0,12.3,15.1,28.2,202.0,292.0,24.0
+"Fast foods, breakfast burrito, with egg, cheese, and sausage",277.0,11.1,15.6,23.0,150.0,132.0,18.0
+"Fast foods, english muffin, with egg, cheese, and sausage",286.0,13.4,18.1,17.4,147.0,168.0,17.0
+"Fast foods, fish sandwich, with tartar sauce and cheese",279.0,11.3,14.6,26.4,220.0,120.0,27.0
+"Fast foods, taco with beef, cheese and lettuce, soft",206.0,9.25,9.75,20.2,161.0,123.0,19.0
+"Fast foods, taco with chicken, lettuce and cheese, soft",189.0,13.3,6.35,19.7,217.0,122.0,24.0
+KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce,276.0,12.0,21.0,9.2,240.0,359.0,
+"LITTLE CAESARS 14"" Cheese Pizza, Thin Crust",309.0,16.2,17.0,22.8,177.0,422.0,28.0
+"PAPA JOHN'S 14"" Cheese Pizza, Original Crust",260.0,11.5,9.25,32.7,138.0,166.0,24.0
+"PAPA JOHN'S 14"" Cheese Pizza, Thin Crust",295.0,12.3,15.7,26.3,160.0,238.0,22.0
+"Pasta mix, Italian four cheese lasagna, unprepared",355.0,12.5,2.7,70.3,271.0,55.0,42.0
+"PIZZA HUT 12"" Cheese Pizza, Pan Crust",280.0,11.7,12.6,29.9,168.0,208.0,21.0
+"PIZZA HUT 14"" Cheese Pizza, Pan Crust",276.0,10.8,11.2,32.8,170.0,192.0,21.0
+"PIZZA HUT 14"" Cheese Pizza, Stuffed Crust",274.0,12.2,11.6,30.0,229.0,238.0,22.0
+"Pizza, cheese topping, regular crust, frozen, cooked",268.0,10.4,12.3,29.0,152.0,179.0,23.0
+"Pizza, cheese topping, rising crust, frozen, cooked",260.0,12.4,8.78,32.9,175.0,177.0,26.0
+"Pizza, cheese topping, thin crust, frozen, cooked",263.0,11.9,11.1,28.8,201.0,228.0,24.0
+"Rice mix, cheese flavor, dry mix, unprepared",362.0,8.77,3.51,73.9,351.0,140.0,88.0
+"Salad dressing, blue or roquefort cheese dressing, light",86.0,2.1,2.7,13.2,51.0,68.0,4.0
+"Salad dressing, blue or roquefort cheese, low calorie",99.0,5.1,7.2,2.9,5.0,89.0,7.0
+"Sausage, summer, pork and beef, sticks, with cheddar cheese",426.0,19.4,37.9,1.82,206.0,81.0,13.0
+"Soup, cheese, canned, prepared with equal volume milk",92.0,3.77,5.8,6.47,136.0,115.0,8.0
+"Soup, cheese, canned, prepared with equal volume water",63.0,2.19,4.24,4.26,62.0,57.0,2.0
+"TACO BELL, Original Taco with beef, cheese and lettuce",229.0,8.86,12.7,19.8,209.0,89.0,32.0
+"TACO BELL, Soft Taco with beef, cheese and lettuce",206.0,9.25,9.75,20.2,161.0,123.0,19.0
+"TACO BELL, Soft Taco with chicken, cheese and lettuce",189.0,13.3,6.35,19.7,217.0,122.0,24.0
+"Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased",307.0,13.5,7.23,47.0,89.0,152.0,21.0
+"Cheese food, pasteurized process, American, vitamin D fortified",330.0,16.9,25.6,8.56,255.0,682.0,27.0
+"Cheese product, pasteurized process, American, vitamin D fortified",307.0,16.1,23.1,8.85,295.0,1380.0,34.0
+"Cheese puffs and twists, corn based, baked, low fat",432.0,8.5,12.1,72.4,286.0,357.0,41.0
+"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",403.0,22.9,33.3,3.37,76.0,710.0,27.0
+"Cheese, cottage, nonfat, uncreamed, dry, large or small curd",72.0,10.3,0.29,6.66,137.0,86.0,11.0
+"Cheese, pasteurized process, American, without added vitamin D",371.0,18.1,31.8,3.7,132.0,1040.0,26.0
+"DIGIORNO Pizza, cheese topping, rising crust, frozen, baked",256.0,12.8,8.6,31.8,196.0,192.0,27.0
+"DOMINO'S 14"" Cheese Pizza, Classic Hand-Tossed Crust",257.0,10.8,8.97,33.2,161.0,167.0,24.0
+"DOMINO'S 14"" Cheese Pizza, Ultimate Deep Dish Crust",265.0,10.8,9.83,33.5,169.0,166.0,24.0
+"Fast foods, bagel, with breakfast steak, egg, cheese, and condiments",282.0,16.0,14.1,23.0,145.0,93.0,22.0
+"Fast foods, bagel, with egg, sausage patty, cheese, and condiments",295.0,13.0,17.0,22.6,123.0,94.0,20.0
+"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",343.0,12.2,12.9,44.5,132.0,87.0,22.0
+"Fast foods, english muffin, with egg, cheese, and canadian bacon",228.0,13.6,9.66,21.7,173.0,192.0,20.0
+"Fast foods, griddle cake sandwich, egg, cheese, and bacon",272.0,12.0,13.2,26.2,158.0,109.0,21.0
+"Fast foods, griddle cake sandwich, egg, cheese, and sausage",291.0,10.8,17.7,22.0,146.0,96.0,14.0
+"Fast foods, nachos, with cheese, beans, ground beef, and tomatoes",219.0,6.21,12.5,21.4,298.0,47.0,33.0
+"Fast foods, taco with beef, cheese and lettuce, hard shell",226.0,8.86,12.7,19.8,209.0,89.0,32.0
+"HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",270.0,9.16,15.0,24.7,188.0,152.0,18.0
+KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product,215.0,16.3,9.5,16.2,297.0,418.0,
+"Macaroni and cheese dinner with dry sauce mix, boxed, uncooked",379.0,13.9,4.82,70.1,347.0,146.0,49.0
+"Oscar Mayer, Smokies Sausage Little Cheese (pork, turkey)",315.0,13.5,28.2,1.7,152.0,67.0,21.0
+"PIZZA HUT 12"" Cheese Pizza, Hand-Tossed Crust",271.0,11.9,10.9,31.2,173.0,209.0,22.0
+"PIZZA HUT 14"" Cheese Pizza, Hand-Tossed Crust",275.0,12.0,10.4,33.4,183.0,209.0,24.0
+"Salad dressing, blue or roquefort cheese dressing, commercial, regular",484.0,1.37,51.1,4.77,88.0,37.0,8.0
+"Salad dressing, blue or roquefort cheese dressing, fat-free",115.0,1.52,1.01,25.6,194.0,51.0,15.0
+"Snacks, corn-based, extruded, puffs or twists, cheese-flavor",567.0,5.46,36.5,54.5,180.0,53.0,18.0
+"Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve",65.0,1.16,4.46,5.2,73.0,15.0,5.0
+"Turnover, cheese-filled, tomato-based sauce, frozen, unprepared",235.0,10.2,9.45,27.3,179.0,276.0,23.0
+"Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry",363.0,8.98,5.46,73.0,132.0,418.0,26.0
+"Cereals, QUAKER, Instant Grits Product with American Cheese Flavor, dry",360.0,8.8,4.67,74.2,134.0,418.0,27.0
+"Cereals, QUAKER, Instant Grits, Ham 'n' Cheese flavor, dry",355.0,10.7,4.68,71.1,210.0,409.0,35.0
+"Cheese food, pasteurized process, American, without added vitamin D",330.0,16.9,25.6,8.56,255.0,682.0,27.0
+"DIGIORNO Pizza, cheese topping, thin crispy crust, frozen, baked",247.0,13.0,9.91,26.5,233.0,275.0,27.0
+"DIGIORNO Pizza, pepperoni topping, cheese stuffed crust, frozen, baked",279.0,13.9,11.7,29.5,179.0,226.0,26.0
+"Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce",275.0,11.5,15.1,23.2,173.0,88.0,19.0
+"Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce",222.0,13.8,10.3,18.4,192.0,93.0,20.0
+"JIMMY DEAN, Sausage, Egg, and Cheese Breakfast Biscuit, frozen, unprepared",328.0,9.29,22.9,21.1,292.0,137.0,15.0
+KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product,148.0,22.7,1.0,11.7,236.0,712.0,
+KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product,222.0,19.6,10.6,11.8,345.0,574.0,
+"LITTLE CAESARS 14"" Cheese Pizza, Large Deep Dish Crust",263.0,12.6,10.2,30.1,160.0,224.0,27.0
+"LITTLE CAESARS 14"" Original Round Cheese Pizza, Regular Crust",265.0,13.4,9.54,31.5,170.0,233.0,28.0
+"PIZZA HUT 12"" Cheese Pizza, THIN 'N CRISPY Crust",303.0,15.3,14.1,28.6,191.0,278.0,24.0
+"PIZZA HUT 14"" Cheese Pizza, THIN 'N CRISPY Crust",306.0,13.4,12.8,34.2,197.0,284.0,24.0
+"Snacks, corn-based, extruded, puffs or twists, cheese-flavor, unenriched",558.0,5.76,35.8,54.1,197.0,58.0,20.0
+"Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel",463.0,9.85,16.9,66.5,130.0,197.0,22.0
+"Snacks, potato chips, made from dried potatoes, cheese-flavor",551.0,7.0,37.0,50.6,381.0,110.0,53.0
+"Snacks, tortilla chips, low fat, made with olestra, nacho cheese",318.0,8.44,3.53,65.2,396.0,128.0,99.0
+"Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D",240.0,17.6,14.1,10.6,330.0,529.0,33.0
+"Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)",316.0,27.4,20.4,2.67,63.0,761.0,27.0
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, regular crust",266.0,11.4,9.69,33.3,172.0,188.0,24.0
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, stuffed crust",274.0,12.2,11.6,30.0,229.0,238.0,22.0
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thick crust",271.0,10.8,10.5,33.2,169.0,179.0,23.0
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thin crust",302.0,12.8,14.0,31.2,199.0,288.0,24.0
+"Macaroni or noodles with cheese, made from reduced fat packaged mix, unprepared",297.0,13.1,4.03,52.1,203.0,202.0,35.0
+"Ravioli, cheese with tomato sauce, frozen, not prepared, includes regular and light entrees",111.0,4.52,2.61,17.3,233.0,79.0,20.0
+"Turnover, meat- and cheese-filled, tomato-based sauce, reduced fat, frozen",215.0,9.45,5.51,31.9,117.0,197.0,18.0
+"Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuce, and mayonnaise",257.0,15.4,11.8,22.6,256.0,92.0,31.0
+"Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuce, and mayonnaise",220.0,17.2,8.05,19.9,226.0,95.0,32.0
+"School Lunch, pizza, cheese topping, thick crust, whole grain, frozen, cooked",254.0,14.6,9.27,28.1,303.0,193.0,40.0
+"School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked",247.0,12.7,7.91,31.3,348.0,218.0,51.0
+"Macaroni and cheese, dry mix, prepared with 2% milk and 80% stick margarine from dry mix",190.0,4.89,8.28,23.9,129.0,63.0,17.0
+"School Lunch, pizza, TONY'S SMARTPIZZA Whole Grain 4x6 Pepperoni Pizza 50/50 Cheese, frozen",238.0,12.1,8.19,28.8,363.0,192.0,49.0
+"School Lunch, pizza, BIG DADDY'S LS 16"" 51% Whole Grain Rolled Edge Cheese Pizza, frozen",243.0,13.9,8.81,27.1,288.0,183.0,38.0

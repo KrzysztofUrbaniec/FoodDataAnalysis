@@ -1,53 +1,934 @@
 Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg"
-"Beans, snap, green, canned, regular pack, drained solids",21.0,1.04,0.39,4.11,97.0,36.0,12.7
-"Beans, snap, green, raw",40.0,1.97,0.275,7.41,290.0,40.0,28.2
-"Broccoli, raw",31.0,2.57,0.34,6.27,303.0,46.0,21.0
-"Cabbage, green, raw",31.0,0.961,0.228,6.38,207.0,41.8,13.9
-"Cabbage, red, raw",34.0,1.24,0.214,6.79,269.0,31.0,13.3
-"Carrots, baby, raw",41.0,0.805,0.138,9.08,237.0,42.2,11.1
-"Carrots, frozen, unprepared",37.0,0.81,0.47,7.92,210.0,33.0,10.8
-"Carrots, mature, raw",48.0,0.941,0.351,10.3,280.0,30.5,12.4
-"Celery, raw",17.0,0.492,0.162,3.32,265.0,46.3,10.9
-"Cucumber, with peel, raw",16.0,0.625,0.178,2.95,170.0,16.3,10.1
-"Flour, cassava",357.0,0.918,0.494,87.3,198.0,74.6,33.6
-"Flour, potato",361.0,8.11,0.951,79.9,1270.0,44.1,73.6
-"Garlic, raw",143.0,6.62,0.38,28.2,,,
+"Babyfood, vegetables, garden vegetable, strained",32.0,2.3,0.2,6.8,168.0,28.0,21.0
+"Babyfood, vegetables, mix vegetables junior",36.0,1.4,0.4,8.2,170.0,11.0,11.0
+"Babyfood, vegetables, mix vegetables strained",36.0,1.0,0.5,8.25,127.0,13.0,10.0
+"Snacks, vegetable chips, made from garden vegetables",473.0,5.32,23.3,60.4,838.0,52.0,53.0
+"Babyfood, crackers, vegetable",477.0,8.4,19.6,66.8,245.0,41.0,37.0
+"Cheese, cottage, with vegetables",95.0,10.9,4.2,3.0,86.0,56.0,4.0
+"Babyfood, dinner, beef with vegetables",96.0,2.03,6.93,6.36,127.0,19.0,15.0
+"Babyfood, dinner, pasta with vegetables",60.0,1.7,2.1,8.4,133.0,14.0,24.0
+"Babyfood, vegetables, beets, strained",34.0,1.3,0.1,7.7,182.0,14.0,14.0
+"Babyfood, vegetables, carrots, junior",32.0,0.8,0.2,7.2,202.0,23.0,11.0
+"Babyfood, vegetables, carrots, strained",26.0,0.8,0.1,6.0,196.0,22.0,9.0
+"Babyfood, vegetables, peas, strained",50.0,3.27,0.43,8.36,106.0,18.0,17.0
+"Babyfood, vegetables, squash, junior",24.0,0.81,0.2,5.73,185.0,24.0,14.0
+"Babyfood, vegetables, squash, strained",28.0,0.81,0.2,5.73,185.0,24.0,14.0
+"Lasagna, Vegetable, frozen, baked",139.0,6.87,6.04,14.2,170.0,150.0,21.0
+"Macaroni, vegetable, enriched, cooked",128.0,4.53,0.11,26.6,31.0,11.0,19.0
+"Macaroni, vegetable, enriched, dry",367.0,13.1,1.04,74.9,285.0,34.0,46.0
+"Oil, vegetable, soybean, refined",884.0,0.0,100.0,0.0,0.0,0.0,0.0
+"Salsify, (vegetable oyster), raw",82.0,3.3,0.2,18.6,380.0,60.0,23.0
+"Shortening, vegetable, household, composite",884.0,0.0,100.0,0.0,0.0,1.0,0.0
+"Soup, SWANSON, vegetable broth",6.0,0.23,0.07,1.02,20.0,3.0,1.0
+"Vegetable juice cocktail, canned",22.0,0.93,0.31,3.87,185.0,14.0,11.0
+"Vegetable oil, palm kernel",862.0,0.0,100.0,0.0,0.0,0.0,0.0
+"Vegetables, mixed, frozen, unprepared",72.0,3.33,0.52,13.5,212.0,25.0,24.0
+"Babyfood, dinner, mixed vegetable, junior",34.0,1.01,0.11,7.88,112.0,17.0,13.0
+"Babyfood, dinner, mixed vegetable, strained",41.0,1.2,0.1,9.5,121.0,22.0,11.0
+"Babyfood, dinner, vegetables and beef, junior",77.0,2.21,3.6,8.84,145.0,17.0,10.0
+"Babyfood, dinner, vegetables and beef, strained",77.0,2.21,3.6,8.84,145.0,17.0,10.0
+"Babyfood, dinner, vegetables and chicken, junior",53.0,2.04,1.12,8.66,83.0,27.0,8.0
+"Babyfood, dinner, vegetables and lamb, junior",51.0,2.1,1.7,7.1,95.0,13.0,7.0
+"Babyfood, dinner, vegetables and turkey, junior",53.0,1.72,1.74,7.55,98.0,16.0,9.0
+"Babyfood, dinner, vegetables and turkey, strained",48.0,2.32,0.9,7.62,102.0,27.0,13.0
+"Babyfood, dinner, vegetables chicken, strained",59.0,2.47,1.73,8.42,158.0,27.0,14.0
+"Babyfood, meat, beef with vegetables, toddler",69.0,3.5,2.1,8.72,168.0,11.0,11.0
+"Babyfood, vegetable and brown rice, strained",69.0,1.9,1.5,12.1,135.0,14.0,15.0
+"Babyfood, vegetable, butternut squash and corn",50.0,2.0,0.6,9.26,352.0,32.0,26.0
+"Babyfood, vegetable, green beans and potatoes",62.0,2.2,1.9,9.0,148.0,60.0,20.0
+"Babyfood, vegetables, corn, creamed, junior",65.0,1.4,0.4,16.2,81.0,4.0,8.0
+"Babyfood, vegetables, corn, creamed, strained",57.0,1.4,0.4,14.1,90.0,20.0,8.0
+"Babyfood, vegetables, green beans, junior",24.0,1.2,0.1,5.8,128.0,65.0,22.0
+"Babyfood, vegetables, green beans, strained",27.0,1.2,0.17,6.29,146.0,39.0,20.0
+"Babyfood, vegetables, spinach, creamed, strained",37.0,2.5,1.3,5.7,191.0,89.0,55.0
+"Babyfood, vegetables, sweet potatoes strained",57.0,1.1,0.1,13.2,263.0,16.0,13.0
+"Babyfood, vegetables, sweet potatoes, junior",60.0,1.1,0.1,14.0,243.0,16.0,12.0
+"Egg rolls, vegetable, frozen, prepared",214.0,5.95,6.97,31.8,222.0,50.0,23.0
+"Shortening industrial, lard and vegetable oil",900.0,0.0,100.0,0.0,0.0,0.0,0.0
+"Shortening, household, lard and vegetable oil",900.0,0.0,100.0,0.0,0.0,0.0,0.0
+"Soup, chicken vegetable, canned, condensed",61.0,2.94,2.32,7.01,126.0,14.0,5.0
+"Soup, cream of vegetable, dry, powder",446.0,8.0,24.1,52.1,408.0,134.0,48.0
+"Soup, vegetable beef, canned, condensed",63.0,4.45,1.51,8.11,138.0,13.0,5.0
+"Soup, vegetable broth, ready to serve",5.0,0.24,0.07,0.93,19.0,3.0,1.0
+"Soup, vegetarian vegetable, canned, condensed",59.0,1.72,1.58,9.78,171.0,17.0,6.0
+"Tomato and vegetable juice, low sodium",22.0,0.6,0.1,4.59,193.0,11.0,11.0
+"Vegetables, mixed, canned, drained solids",49.0,2.59,0.25,9.26,291.0,27.0,16.0
+"Vegetables, mixed, canned, solids and liquids",36.0,1.42,0.25,7.13,138.0,21.0,15.0
+"Babyfood, dinner, turkey, rice, and vegetables, toddler",60.0,3.8,1.6,7.5,107.0,11.0,14.0
+"Babyfood, dinner, vegetables and dumplings and beef, junior",48.0,2.1,0.8,8.0,47.0,14.0,7.0
+"Babyfood, dinner, vegetables and dumplings and beef, strained",48.0,2.0,0.9,7.7,46.0,14.0,6.0
+"Babyfood, dinner, vegetables and noodles and turkey, junior",52.0,1.8,1.5,7.6,73.0,32.0,9.0
+"Babyfood, dinner, vegetables and noodles and turkey, strained",44.0,1.2,1.2,6.8,63.0,32.0,8.0
+"Babyfood, dinner, vegetables, noodles and chicken, junior",64.0,1.7,2.2,9.1,59.0,26.0,11.0
+"Babyfood, dinner, vegetables, noodles and chicken, strained",63.0,2.0,2.5,7.9,55.0,28.0,10.0
+"Babyfood, fruit and vegetable, apple and sweet potato",64.0,0.3,0.22,15.3,149.0,8.0,6.0
+"Cheese, cottage, lowfat, 1% milkfat, with vegetables",67.0,10.9,1.0,3.0,86.0,56.0,4.0
+"Potsticker or wonton, pork and vegetable, frozen, unprepared",136.0,8.28,5.52,13.3,284.0,28.0,21.0
+"Soup, beef and vegetables, canned, ready-to-serve",48.0,3.18,1.16,6.16,174.0,18.0,10.0
+"Soup, chicken and vegetable, canned, ready-to-serve",33.0,1.97,0.73,4.68,133.0,14.0,8.0
+"Soup, chunky vegetable, canned, ready-to-serve",39.0,1.14,0.36,7.9,180.0,18.0,10.0
+"Soup, vegetable with beef broth, canned, condensed",66.0,2.42,1.56,10.7,157.0,14.0,5.0
+"Soup, vegetable, canned, low sodium, condensed",65.0,2.2,0.9,12.1,433.0,20.0,25.0
+"Vegetable juice cocktail, low sodium, canned",19.0,0.91,0.32,3.83,204.0,15.0,12.0
+"Vegetable juice, BOLTHOUSE FARMS, DAILY GREENS",31.0,0.49,0.04,8.13,224.0,110.0,11.0
+"Vegetable oil-butter spread, reduced calorie",465.0,0.0,53.0,0.0,6.0,6.0,0.0
+"CAMPBELL'S CHUNKY, Old Fashioned Vegetable Beef Soup",49.0,3.16,1.23,6.24,163.0,17.0,10.0
+"Fast foods, potato, french fried in vegetable oil",312.0,3.43,14.7,41.4,579.0,18.0,35.0
+"Milk, filled, fluid, with blend of hydrogenated vegetable oils",63.0,3.33,3.46,4.74,139.0,128.0,13.0
+"Soup, HEALTHY CHOICE Garden Vegetable Soup, canned",51.0,2.13,0.21,10.0,,16.0,
+Soy sauce made from hydrolyzed vegetable protein,60.0,7.0,0.51,7.84,447.0,17.0,29.0
+"Vegetables, mixed, frozen, cooked, boiled, drained, with salt",60.0,2.86,0.15,13.1,169.0,25.0,22.0
+"Beverages, Mixed vegetable and fruit juice drink, with added nutrients",29.0,0.04,0.01,7.47,19.0,3.0,1.0
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",136.0,1.0,9.97,11.4,191.0,9.0,0.0
+"Fast foods, cheeseburger; single, regular patty, with condiments and vegetables",254.0,13.1,11.5,25.0,178.0,92.0,22.0
+"Margarine-like, vegetable oil spread, 20% fat, with salt",175.0,0.0,19.5,0.4,25.0,0.0,1.0
+"Margarine-like, vegetable oil spread, fat-free, tub",44.0,0.1,3.04,4.34,36.0,8.0,1.0
+"Margarine-like, vegetable oil spread, stick or tub, sweetened",534.0,0.0,52.0,16.7,30.0,0.0,0.0
+"Margarine-like, vegetable oil-butter spread, tub, with salt",362.0,1.0,40.0,1.0,36.0,24.0,2.0
+"Pizza, meat and vegetable topping, regular crust, frozen, cooked",276.0,11.3,14.4,25.1,209.0,152.0,25.0
+"Pizza, meat and vegetable topping, rising crust, frozen, cooked",271.0,12.6,11.8,28.8,189.0,155.0,27.0
+"Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS",517.0,4.13,29.8,58.0,1270.0,79.0,86.0
+"Soup, beef and vegetables, reduced sodium, canned, ready-to-serve",42.0,3.26,0.95,4.99,277.0,17.0,9.0
+"Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve",65.0,1.16,4.46,5.2,73.0,15.0,5.0
+"Soup, chunky vegetable, reduced sodium, canned, ready-to-serve",50.0,1.16,0.51,10.3,349.0,25.0,12.0
+"Soup, turkey vegetable, canned, prepared with equal volume water",30.0,1.28,1.26,3.58,73.0,7.0,2.0
+"Soup, vegetable beef, canned, prepared with equal volume water",31.0,2.23,0.76,4.06,69.0,8.0,3.0
+"Soup, vegetable beef, microwavable, ready-to-serve, single brand",44.0,6.2,0.7,3.3,,,
+"Soup, vegetable chicken, canned, prepared with water, low sodium",69.0,5.1,2.0,8.76,153.0,11.0,4.0
+"Soup, vegetarian vegetable, canned, prepared with equal volume water",28.0,0.86,0.79,4.89,86.0,10.0,3.0
+"Turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen",168.0,7.87,5.51,21.7,167.0,157.0,31.0
+"Vegetables, mixed, frozen, cooked, boiled, drained, without salt",65.0,2.86,0.15,13.1,169.0,25.0,22.0
+"Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and mayonnaise",253.0,15.5,15.6,12.6,202.0,68.0,19.0
+"Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise",268.0,13.7,15.8,17.7,208.0,73.0,18.0
+"Fast foods, hamburger; double, large patty; with condiments, vegetables and mayonnaise",252.0,13.9,15.7,13.7,192.0,35.0,18.0
+"Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise",226.0,11.3,12.4,17.3,188.0,46.0,18.0
+"Margarine-like, vegetable oil spread, 20% fat, without salt",175.0,0.0,19.5,0.4,25.0,0.0,1.0
+"Margarine-like, vegetable oil spread, 60% fat, stick, with salt",537.0,0.12,60.4,0.69,30.0,21.0,2.0
+"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",533.0,0.17,59.8,0.86,30.0,21.0,2.0
+"Margarine-like, vegetable oil spread, fat free, liquid, with salt",43.0,1.5,3.0,2.5,50.0,38.0,4.0
+"Soup, vegetable with beef broth, canned, prepared with equal volume water",33.0,1.21,0.78,5.35,79.0,9.0,3.0
+"Soy sauce, reduced sodium, made from hydrolyzed vegetable protein",90.0,8.19,0.31,14.4,3100.0,11.0,34.0
+"LITTLE CAESARS 14"" Original Round Meat and Vegetable Pizza, Regular Crust",243.0,12.1,11.4,23.1,195.0,167.0,24.0
+"Margarine, margarine-like vegetable oil spread, 67-70% fat, tub",606.0,0.07,68.3,0.59,,,
+"Margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt",450.0,1.0,50.0,1.0,37.0,28.0,2.0
+"Oil, industrial, soy (partially hydrogenated), principal uses popcorn and flavoring vegetables",884.0,0.0,100.0,0.0,0.0,0.0,0.0
+"Soup, vegetable soup, condensed, low sodium, prepared with equal volume water",33.0,1.1,0.45,6.06,217.0,12.0,13.0
+"Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwaved",128.0,6.97,3.89,16.3,230.0,27.0,18.0
+"Beverages, vegetable and fruit juice blend, 100% juice, with added vitamins A, C, E",46.0,0.3,0.01,11.2,101.0,8.0,7.0
+"Crackers, gluten-free, multigrain and vegetable, made with corn starch and white rice flour",456.0,2.5,15.4,76.9,86.0,28.0,15.0
+"Fast Food, Pizza Chain, 14"" pizza, meat and vegetable topping, regular crust",244.0,11.0,10.9,25.4,184.0,120.0,23.0
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt",526.0,0.6,59.2,0.0,30.0,21.0,2.0
+"Oil, vegetable, Natreon canola, high stability, non trans, high oleic (70%)",884.0,0.0,100.0,0.0,,,
+"Vegetables, mixed (corn, lima beans, peas, green beans, carrots) canned, no salt added",37.0,1.4,0.2,7.31,138.0,21.0,15.0
+"Margarine-like, vegetable oil spread, 60% fat, stick, with salt, with added vitamin D",537.0,0.12,60.4,0.69,30.0,21.0,2.0
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt",533.0,0.17,59.8,0.86,30.0,21.0,2.0
+"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",533.0,0.17,59.8,0.86,30.0,21.0,2.0
+"Beverages, Vegetable and fruit juice drink, reduced calorie, with low-calorie sweetener, added vitamin C",4.0,0.0,0.0,1.1,24.0,8.0,1.0
+"Margarine, margarine-type vegetable oil spread, 70% fat, soybean and partially hydrogenated soybean, stick",628.0,0.26,70.2,1.53,46.0,7.0,2.0
+"Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin D",535.0,0.6,59.2,0.0,30.0,21.0,2.0
+"Spanish rice mix, dry mix, prepared (with canola/vegetable oil blend or diced tomatoes and margarine)",125.0,3.27,2.38,22.7,185.0,18.0,13.0
+"Margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin D",339.0,0.51,37.8,0.66,34.0,6.0,1.0
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt, with added vitamin D",542.0,0.17,59.8,0.86,30.0,21.0,2.0
+"Alfalfa seeds, sprouted, raw",23.0,3.99,0.69,2.1,79.0,32.0,27.0
+"Amaranth leaves, cooked, boiled, drained, with salt",21.0,2.11,0.18,4.11,641.0,209.0,55.0
+"Amaranth leaves, cooked, boiled, drained, without salt",21.0,2.11,0.18,4.11,641.0,209.0,55.0
+"Amaranth leaves, raw",23.0,2.46,0.33,4.02,611.0,215.0,55.0
+"Arrowhead, cooked, boiled, drained, with salt",78.0,4.49,0.1,16.1,881.0,7.0,49.0
+"Arrowhead, cooked, boiled, drained, without salt",78.0,4.49,0.1,16.1,881.0,7.0,49.0
+"Arrowhead, raw",99.0,5.33,0.29,20.2,922.0,10.0,51.0
+"Arrowroot, raw",65.0,4.24,0.2,13.4,454.0,6.0,25.0
+"Artichokes, (globe or french), cooked, boiled, drained, with salt",51.0,2.89,0.34,11.4,286.0,21.0,42.0
+"Artichokes, (globe or french), cooked, boiled, drained, without salt",53.0,2.89,0.34,12.0,286.0,21.0,42.0
+"Artichokes, (globe or french), frozen, cooked, boiled, drained, with salt",45.0,3.11,0.5,9.18,264.0,21.0,31.0
+"Artichokes, (globe or french), frozen, cooked, boiled, drained, without salt",45.0,3.11,0.5,9.18,264.0,21.0,31.0
+"Artichokes, (globe or french), frozen, unprepared",38.0,2.63,0.43,7.75,248.0,19.0,27.0
+"Artichokes, (globe or french), raw",47.0,3.27,0.15,10.5,370.0,44.0,60.0
+"Arugula, raw",25.0,2.58,0.66,3.65,369.0,160.0,47.0
+"Asparagus, canned, drained solids",19.0,2.14,0.65,2.46,172.0,16.0,10.0
+"Asparagus, canned, no salt added, solids and liquids",15.0,1.8,0.18,2.48,172.0,15.0,9.0
+"Asparagus, canned, regular pack, solids and liquids",15.0,1.8,0.18,2.48,172.0,15.0,9.0
+"Asparagus, cooked, boiled, drained",22.0,2.4,0.22,4.11,224.0,23.0,14.0
+"Asparagus, cooked, boiled, drained, with salt",22.0,2.4,0.22,4.11,224.0,23.0,14.0
+"Asparagus, frozen, cooked, boiled, drained, with salt",18.0,2.95,0.42,1.92,172.0,18.0,10.0
+"Asparagus, frozen, cooked, boiled, drained, without salt",18.0,2.95,0.42,1.92,172.0,18.0,10.0
+"Asparagus, frozen, unprepared",24.0,3.23,0.23,4.1,253.0,25.0,14.0
+"Asparagus, raw",20.0,2.2,0.12,3.88,202.0,24.0,14.0
+"Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, with salt",32.0,3.6,0.2,6.16,602.0,42.0,94.0
+"Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt",34.0,3.6,0.2,6.68,602.0,42.0,94.0
+"Balsam-pear (bitter gourd), leafy tips, raw",30.0,5.3,0.69,3.29,608.0,84.0,85.0
+"Balsam-pear (bitter gourd), pods, cooked, boiled, drained, with salt",19.0,0.84,0.18,4.32,319.0,9.0,16.0
+"Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt",19.0,0.84,0.18,4.32,319.0,9.0,16.0
+"Balsam-pear (bitter gourd), pods, raw",17.0,1.0,0.17,3.7,296.0,19.0,17.0
+"Bamboo shoots, canned, drained solids",19.0,1.72,0.4,3.22,80.0,8.0,4.0
+"Bamboo shoots, cooked, boiled, drained, with salt",11.0,1.53,0.22,1.52,533.0,12.0,3.0
+"Bamboo shoots, cooked, boiled, drained, without salt",12.0,1.53,0.22,1.92,533.0,12.0,3.0
+"Bamboo shoots, raw",27.0,2.6,0.3,5.2,533.0,13.0,3.0
+"Beans, fava, in pod, raw",88.0,7.92,0.73,17.6,332.0,37.0,33.0
+"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, with salt",33.0,4.83,0.58,4.72,194.0,19.0,23.0
+"Beans, kidney, mature seeds, sprouted, cooked, boiled, drained, without salt",33.0,4.83,0.58,4.72,194.0,19.0,23.0
+"Beans, kidney, mature seeds, sprouted, raw",29.0,4.2,0.5,4.1,187.0,17.0,21.0
+"Beans, mung, mature seeds, sprouted, canned, drained solids",12.0,1.4,0.06,2.14,27.0,14.0,9.0
+"Beans, navy, mature seeds, sprouted, cooked, boiled, drained, with salt",78.0,7.07,0.81,15.0,317.0,16.0,111.0
+"Beans, navy, mature seeds, sprouted, cooked, boiled, drained, without salt",78.0,7.07,0.81,15.0,317.0,16.0,111.0
+"Beans, navy, mature seeds, sprouted, raw",67.0,6.15,0.7,13.0,307.0,15.0,101.0
+"Beans, pinto, immature seeds, frozen, cooked, boiled, drained, with salt",162.0,9.31,0.48,30.9,646.0,52.0,54.0
+"Beans, pinto, immature seeds, frozen, cooked, boiled, drained, without salt",162.0,9.31,0.48,30.9,646.0,52.0,54.0
+"Beans, pinto, immature seeds, frozen, unprepared",170.0,9.8,0.5,32.5,756.0,58.0,60.0
+"Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, with salt",20.0,1.86,0.32,3.5,98.0,15.0,18.0
+"Beans, pinto, mature seeds, sprouted, cooked, boiled, drained, without salt",22.0,1.86,0.32,4.1,98.0,15.0,18.0
+"Beans, pinto, mature seeds, sprouted, raw",62.0,5.25,0.9,11.6,307.0,43.0,53.0
+"Beans, shellie, canned, solids and liquids",30.0,1.76,0.19,6.19,109.0,29.0,15.0
+"Beans, snap, canned, all styles, seasoned, solids and liquids",16.0,0.83,0.2,3.49,93.0,22.0,13.0
+"Beans, snap, green, canned, no salt added, drained solids",22.0,1.12,0.46,4.32,96.0,38.0,13.0
+"Beans, snap, green, canned, no salt added, solids and liquids",15.0,0.8,0.1,3.5,92.0,24.0,13.0
+"Beans, snap, green, canned, regular pack, drained solids",21.0,1.05,0.41,4.19,96.0,37.0,13.0
+"Beans, snap, green, canned, regular pack, solids and liquids",15.0,0.72,0.17,3.27,92.0,29.0,13.0
+"Beans, snap, green, cooked, boiled, drained, with salt",35.0,1.89,0.28,7.88,146.0,44.0,18.0
+"Beans, snap, green, cooked, boiled, drained, without salt",35.0,1.89,0.28,7.88,146.0,44.0,18.0
+"Beans, snap, green, frozen, all styles, microwaved",33.0,1.98,0.41,6.98,237.0,61.0,29.0
+"Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)",33.0,1.79,0.21,7.54,186.0,42.0,22.0
+"Beans, snap, green, frozen, cooked, boiled, drained without salt",28.0,1.49,0.17,6.45,159.0,42.0,19.0
+"Beans, snap, green, frozen, cooked, boiled, drained, with salt",28.0,1.49,0.17,6.45,159.0,42.0,19.0
+"Beans, snap, green, microwaved",33.0,2.31,0.5,6.41,323.0,55.0,28.0
+"Beans, snap, green, raw",31.0,1.83,0.22,6.97,211.0,37.0,25.0
+"Beans, snap, yellow, canned, no salt added, drained solids",20.0,1.15,0.1,4.5,109.0,26.0,13.0
+"Beans, snap, yellow, canned, no salt added, solids and liquids",15.0,0.8,0.1,3.5,98.0,24.0,13.0
+"Beans, snap, yellow, canned, regular pack, drained solids",20.0,1.15,0.1,4.5,109.0,26.0,13.0
+"Beans, snap, yellow, canned, regular pack, solids and liquids",15.0,0.8,0.1,3.5,98.0,24.0,13.0
+"Beans, snap, yellow, cooked, boiled, drained, with salt",35.0,1.89,0.28,7.88,299.0,46.0,25.0
+"Beans, snap, yellow, cooked, boiled, drained, without salt",35.0,1.89,0.28,7.88,299.0,46.0,25.0
+"Beans, snap, yellow, frozen, all styles, unprepared",33.0,1.8,0.21,7.58,186.0,42.0,22.0
+"Beans, snap, yellow, frozen, cooked, boiled, drained, with salt",28.0,1.49,0.17,6.45,126.0,49.0,24.0
+"Beans, snap, yellow, frozen, cooked, boiled, drained, without salt",28.0,1.49,0.17,6.45,126.0,49.0,24.0
+"Beans, snap, yellow, raw",31.0,1.82,0.12,7.13,209.0,37.0,25.0
+"Beet greens, cooked, boiled, drained, with salt",27.0,2.57,0.2,5.46,909.0,114.0,68.0
+"Beet greens, cooked, boiled, drained, without salt",27.0,2.57,0.2,5.46,909.0,114.0,68.0
+"Beet greens, raw",22.0,2.2,0.13,4.33,762.0,117.0,70.0
+"Beets, canned, drained solids",31.0,0.91,0.14,7.21,148.0,15.0,17.0
+"Beets, canned, no salt added, solids and liquids",28.0,0.8,0.07,6.57,142.0,13.0,16.0
+"Beets, canned, regular pack, solids and liquids",30.0,0.73,0.09,7.14,159.0,18.0,18.0
+"Beets, cooked, boiled, drained",44.0,1.68,0.18,9.96,305.0,16.0,23.0
+"Beets, cooked, boiled. drained, with salt",44.0,1.68,0.18,9.96,305.0,16.0,23.0
+"Beets, harvard, canned, solids and liquids",73.0,0.84,0.06,18.2,164.0,11.0,19.0
+"Beets, pickled, canned, solids and liquids",65.0,0.8,0.08,16.3,115.0,11.0,15.0
+"Beets, raw",43.0,1.61,0.17,9.56,325.0,16.0,23.0
+"Borage, cooked, boiled, drained, with salt",25.0,2.09,0.81,3.55,491.0,102.0,57.0
+"Borage, cooked, boiled, drained, without salt",25.0,2.09,0.81,3.55,491.0,102.0,57.0
+"Borage, raw",21.0,1.8,0.7,3.06,470.0,93.0,52.0
+"Broadbeans, immature seeds, cooked, boiled, drained, with salt",62.0,4.8,0.5,10.1,193.0,18.0,31.0
+"Broadbeans, immature seeds, cooked, boiled, drained, without salt",62.0,4.8,0.5,10.1,193.0,18.0,31.0
+"Broadbeans, immature seeds, raw",72.0,5.6,0.6,11.7,250.0,22.0,38.0
+"Broccoli raab, cooked",25.0,3.83,0.52,3.12,343.0,118.0,27.0
+"Broccoli raab, raw",22.0,3.17,0.49,2.85,196.0,108.0,22.0
+"Broccoli, chinese, cooked",22.0,1.14,0.72,3.81,261.0,100.0,18.0
+"Broccoli, chinese, raw",26.0,1.2,0.76,4.67,274.0,105.0,19.0
+"Broccoli, cooked, boiled, drained, with salt",35.0,2.38,0.41,7.18,293.0,40.0,21.0
+"Broccoli, cooked, boiled, drained, without salt",35.0,2.38,0.41,7.18,293.0,40.0,21.0
+"Broccoli, flower clusters, raw",28.0,2.98,0.35,5.06,325.0,48.0,25.0
+"Broccoli, frozen, chopped, cooked, boiled, drained, with salt",28.0,3.1,0.12,5.35,142.0,33.0,13.0
+"Broccoli, frozen, chopped, cooked, boiled, drained, without salt",28.0,3.1,0.12,5.35,142.0,33.0,13.0
+"Broccoli, frozen, chopped, unprepared",26.0,2.81,0.29,4.78,212.0,56.0,18.0
+"Broccoli, frozen, spears, cooked, boiled, drained, with salt",28.0,3.1,0.11,5.35,180.0,51.0,20.0
+"Broccoli, frozen, spears, cooked, boiled, drained, without salt",28.0,3.1,0.11,5.36,180.0,51.0,20.0
+"Broccoli, frozen, spears, unprepared (Includes foods for USDA's Food Distribution Program)",29.0,3.06,0.34,5.35,250.0,41.0,16.0
+"Broccoli, leaves, raw",28.0,2.98,0.35,5.06,325.0,48.0,25.0
+"Broccoli, raw",34.0,2.82,0.37,6.64,316.0,47.0,21.0
+"Broccoli, stalks, raw",28.0,2.98,0.35,5.24,325.0,48.0,25.0
+"Brussels sprouts, cooked, boiled, drained, with salt",36.0,2.55,0.5,7.1,317.0,36.0,20.0
+"Brussels sprouts, cooked, boiled, drained, without salt",36.0,2.55,0.5,7.1,317.0,36.0,20.0
+"Brussels sprouts, frozen, cooked, boiled, drained, with salt",42.0,3.64,0.39,8.32,290.0,26.0,18.0
+"Brussels sprouts, frozen, cooked, boiled, drained, without salt",42.0,3.64,0.39,8.32,290.0,26.0,18.0
+"Brussels sprouts, frozen, unprepared",41.0,3.78,0.41,7.86,370.0,26.0,20.0
+"Brussels sprouts, raw",43.0,3.38,0.3,8.95,389.0,42.0,23.0
+"Burdock root, cooked, boiled, drained, with salt",88.0,2.09,0.14,21.2,360.0,49.0,39.0
+"Burdock root, cooked, boiled, drained, without salt",88.0,2.09,0.14,21.2,360.0,49.0,39.0
+"Burdock root, raw",72.0,1.53,0.15,17.3,308.0,41.0,38.0
+"Butterbur, (fuki), raw",14.0,0.39,0.04,3.61,655.0,103.0,14.0
+"Butterbur, canned",3.0,0.11,0.13,0.38,12.0,34.0,2.0
+"Butterbur, cooked, boiled, drained, with salt",8.0,0.23,0.02,2.16,354.0,59.0,8.0
+"Butterbur, cooked, boiled, drained, without salt",8.0,0.23,0.02,2.16,354.0,59.0,8.0
+"Cabbage, chinese (pak-choi), cooked, boiled, drained, with salt",12.0,1.56,0.16,1.78,371.0,93.0,11.0
+"Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",12.0,1.56,0.16,1.78,371.0,93.0,11.0
+"Cabbage, chinese (pak-choi), raw",13.0,1.5,0.2,2.18,252.0,105.0,19.0
+"Cabbage, chinese (pe-tsai), cooked, boiled, drained, with salt",14.0,1.5,0.17,2.41,225.0,32.0,10.0
+"Cabbage, chinese (pe-tsai), cooked, boiled, drained, without salt",14.0,1.5,0.17,2.41,225.0,32.0,10.0
+"Cabbage, chinese (pe-tsai), raw",16.0,1.2,0.2,3.23,238.0,77.0,13.0
+"Cabbage, common (danish, domestic, and pointed types), freshly harvest, raw",24.0,1.21,0.18,5.37,246.0,47.0,15.0
+"Cabbage, common (danish, domestic, and pointed types), stored, raw",24.0,1.21,0.18,5.37,246.0,47.0,15.0
+"Cabbage, common, cooked, boiled, drained, with salt",23.0,1.27,0.06,5.51,196.0,48.0,15.0
+"Cabbage, cooked, boiled, drained, without salt",23.0,1.27,0.06,5.51,196.0,48.0,15.0
+"Cabbage, japanese style, fresh, pickled",30.0,1.6,0.1,5.67,853.0,48.0,12.0
+"Cabbage, kimchi",15.0,1.1,0.5,2.4,151.0,33.0,14.0
+"Cabbage, mustard, salted",28.0,1.1,0.1,5.63,246.0,67.0,15.0
+"Cabbage, napa, cooked",12.0,1.1,0.17,2.23,87.0,29.0,8.0
+"Cabbage, raw",25.0,1.28,0.1,5.8,170.0,40.0,12.0
+"Cabbage, red, cooked, boiled, drained, with salt",29.0,1.51,0.09,6.94,262.0,42.0,17.0
+"Cabbage, red, cooked, boiled, drained, without salt",29.0,1.51,0.09,6.94,262.0,42.0,17.0
+"Cabbage, red, raw",31.0,1.43,0.16,7.37,243.0,45.0,16.0
+"Cabbage, savoy, cooked, boiled, drained, with salt",24.0,1.8,0.09,5.41,184.0,30.0,24.0
+"Cabbage, savoy, cooked, boiled, drained, without salt",24.0,1.8,0.09,5.41,184.0,30.0,24.0
+"Cabbage, savoy, raw",27.0,2.0,0.1,6.1,230.0,35.0,28.0
+"Cardoon, cooked, boiled, drained, with salt",20.0,0.76,0.11,4.74,392.0,72.0,43.0
+"Cardoon, cooked, boiled, drained, without salt",22.0,0.76,0.11,5.33,392.0,72.0,43.0
+"Cardoon, raw",17.0,0.7,0.1,4.07,400.0,70.0,42.0
+"Carrot juice, canned",40.0,0.95,0.15,9.28,292.0,24.0,14.0
+"Carrot, dehydrated",341.0,8.1,1.49,79.6,2540.0,212.0,118.0
+"Carrots, baby, raw",35.0,0.64,0.13,8.24,237.0,32.0,10.0
+"Carrots, canned, no salt added, drained solids",25.0,0.64,0.19,5.54,179.0,25.0,8.0
+"Carrots, canned, no salt added, solids and liquids",23.0,0.59,0.14,5.36,158.0,31.0,9.0
+"Carrots, canned, regular pack, drained solids",25.0,0.64,0.19,5.54,179.0,25.0,8.0
+"Carrots, canned, regular pack, solids and liquids",23.0,0.58,0.14,5.37,173.0,31.0,9.0
+"Carrots, cooked, boiled, drained, with salt",35.0,0.76,0.18,8.22,235.0,30.0,10.0
+"Carrots, cooked, boiled, drained, without salt",35.0,0.76,0.18,8.22,235.0,30.0,10.0
+"Carrots, frozen, cooked, boiled, drained, with salt",37.0,0.58,0.68,7.73,192.0,35.0,11.0
+"Carrots, frozen, cooked, boiled, drained, without salt",37.0,0.58,0.68,7.73,192.0,35.0,11.0
+"Carrots, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",36.0,0.78,0.46,7.9,235.0,36.0,12.0
+"Carrots, raw",41.0,0.93,0.24,9.58,320.0,33.0,12.0
+"Cassava, raw",160.0,1.36,0.28,38.1,271.0,16.0,21.0
+Catsup,101.0,1.04,0.1,27.4,281.0,15.0,13.0
+"Catsup, low sodium",101.0,1.04,0.1,27.4,281.0,15.0,13.0
+"Cauliflower, cooked, boiled, drained, with salt",23.0,1.84,0.45,4.11,142.0,16.0,9.0
+"Cauliflower, cooked, boiled, drained, without salt",23.0,1.84,0.45,4.11,142.0,16.0,9.0
+"Cauliflower, frozen, cooked, boiled, drained, with salt",17.0,1.61,0.22,3.16,139.0,17.0,9.0
+"Cauliflower, frozen, cooked, boiled, drained, without salt",19.0,1.61,0.22,3.75,139.0,17.0,9.0
+"Cauliflower, frozen, unprepared",24.0,2.01,0.27,4.68,193.0,22.0,12.0
+"Cauliflower, green, cooked, no salt added",32.0,3.04,0.31,6.28,278.0,32.0,19.0
+"Cauliflower, green, cooked, with salt",32.0,3.04,0.31,6.28,278.0,32.0,19.0
+"Cauliflower, green, raw",31.0,2.95,0.3,6.09,300.0,33.0,20.0
+"Cauliflower, raw",25.0,1.92,0.28,4.97,299.0,22.0,15.0
+"Celeriac, cooked, boiled, drained, with salt",27.0,0.96,0.19,5.9,173.0,26.0,12.0
+"Celeriac, cooked, boiled, drained, without salt",27.0,0.96,0.19,5.9,173.0,26.0,12.0
+"Celeriac, raw",42.0,1.5,0.3,9.2,300.0,43.0,20.0
+"Celery, cooked, boiled, drained, with salt",18.0,0.83,0.16,4.0,284.0,42.0,12.0
+"Celery, cooked, boiled, drained, without salt",18.0,0.83,0.16,4.0,284.0,42.0,12.0
+"Celery, raw",14.0,0.69,0.17,2.97,260.0,40.0,11.0
+"Celtuce, raw",18.0,0.85,0.3,3.65,330.0,39.0,28.0
+"Chard, swiss, cooked, boiled, drained, with salt",20.0,1.88,0.08,4.13,549.0,58.0,86.0
+"Chard, swiss, cooked, boiled, drained, without salt",20.0,1.88,0.08,4.13,549.0,58.0,86.0
+"Chard, swiss, raw",19.0,1.8,0.2,3.74,379.0,51.0,81.0
+"Chayote, fruit, cooked, boiled, drained, with salt",22.0,0.62,0.48,4.5,173.0,13.0,12.0
+"Chayote, fruit, cooked, boiled, drained, without salt",24.0,0.62,0.48,5.09,173.0,13.0,12.0
+"Chayote, fruit, raw",19.0,0.82,0.13,4.51,125.0,17.0,12.0
+"Chicory greens, raw",23.0,1.7,0.3,4.7,420.0,100.0,30.0
+"Chicory roots, raw",72.0,1.4,0.2,17.5,290.0,41.0,22.0
+"Chicory, witloof, raw",17.0,0.9,0.1,4.0,211.0,19.0,10.0
+"Chives, freeze-dried",311.0,21.2,3.5,64.3,2960.0,813.0,640.0
+"Chives, raw",30.0,3.27,0.73,4.35,296.0,92.0,42.0
+"Chrysanthemum leaves, raw",24.0,3.36,0.56,3.01,567.0,117.0,32.0
+"Chrysanthemum, garland, cooked, boiled, drained, with salt",20.0,1.64,0.09,4.31,569.0,69.0,18.0
+"Chrysanthemum, garland, cooked, boiled, drained, without salt",20.0,1.64,0.09,4.31,569.0,69.0,18.0
+"Chrysanthemum, garland, raw",24.0,3.36,0.56,3.02,567.0,117.0,32.0
+"Collards, cooked, boiled, drained, with salt",33.0,2.71,0.72,5.65,117.0,141.0,21.0
+"Collards, cooked, boiled, drained, without salt",33.0,2.71,0.72,5.65,117.0,141.0,21.0
+"Collards, frozen, chopped, cooked, boiled, drained, with salt",36.0,2.97,0.41,7.1,251.0,210.0,30.0
+"Collards, frozen, chopped, cooked, boiled, drained, without salt",36.0,2.97,0.41,7.1,251.0,210.0,30.0
+"Collards, frozen, chopped, unprepared",33.0,2.69,0.37,6.46,253.0,201.0,29.0
+"Collards, raw",32.0,3.02,0.61,5.42,213.0,232.0,27.0
+"Coriander (cilantro) leaves, raw",23.0,2.13,0.52,3.67,521.0,67.0,26.0
+"Corn pudding, home prepared",131.0,4.42,5.04,17.0,176.0,39.0,15.0
+"Corn with red and green peppers, canned, solids and liquids",75.0,2.33,0.55,18.2,153.0,5.0,25.0
+"Corn, sweet, white, canned, cream style, no salt added",72.0,1.74,0.42,18.1,134.0,3.0,17.0
+"Corn, sweet, white, canned, cream style, regular pack",74.0,1.74,0.42,18.6,119.0,4.0,15.0
+"Corn, sweet, white, canned, vacuum pack, no salt added",79.0,2.41,0.5,19.4,186.0,5.0,23.0
+"Corn, sweet, white, canned, vacuum pack, regular pack",79.0,2.41,0.5,19.4,186.0,5.0,23.0
+"Corn, sweet, white, canned, whole kernel, drained solids",67.0,2.29,1.22,14.3,132.0,3.0,13.0
+"Corn, sweet, white, canned, whole kernel, no salt added, solids and liquids",64.0,1.95,0.5,15.4,164.0,4.0,16.0
+"Corn, sweet, white, canned, whole kernel, regular pack, solids and liquids",64.0,1.95,0.5,15.4,164.0,4.0,16.0
+"Corn, sweet, white, cooked, boiled, drained, with salt",97.0,3.34,1.41,21.7,252.0,2.0,31.0
+"Corn, sweet, white, cooked, boiled, drained, without salt",97.0,3.34,1.41,21.7,252.0,2.0,31.0
+"Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, with salt",80.0,2.75,0.43,19.6,147.0,4.0,19.0
+"Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt",80.0,2.75,0.43,19.6,147.0,4.0,19.0
+"Corn, sweet, white, frozen, kernels cut off cob, unprepared",88.0,3.02,0.77,20.7,213.0,4.0,18.0
+"Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, with salt",94.0,3.11,0.74,22.3,251.0,3.0,29.0
+"Corn, sweet, white, frozen, kernels on cob, cooked, boiled, drained, without salt",94.0,3.11,0.74,22.3,251.0,3.0,29.0
+"Corn, sweet, white, frozen, kernels on cob, unprepared",98.0,3.28,0.78,23.5,294.0,4.0,32.0
+"Corn, sweet, white, raw",86.0,3.22,1.18,19.0,270.0,2.0,37.0
+"Corn, sweet, yellow, canned, brine pack, regular pack, solids and liquids",61.0,1.95,0.77,13.9,136.0,4.0,15.0
+"Corn, sweet, yellow, canned, cream style, no salt added",72.0,1.74,0.42,18.1,134.0,3.0,17.0
+"Corn, sweet, yellow, canned, cream style, regular pack",72.0,1.74,0.42,18.1,134.0,3.0,17.0
+"Corn, sweet, yellow, canned, drained solids, rinsed with tap water",64.0,2.18,1.43,13.0,116.0,2.0,11.0
+"Corn, sweet, yellow, canned, no salt added, solids and liquids (Includes foods for USDA's Food Distribution Program)",61.0,1.95,0.77,13.9,136.0,4.0,15.0
+"Corn, sweet, yellow, canned, vacuum pack, no salt added",79.0,2.41,0.5,19.4,186.0,5.0,23.0
+"Corn, sweet, yellow, canned, vacuum pack, regular pack",79.0,2.41,0.5,19.4,186.0,5.0,23.0
+"Corn, sweet, yellow, canned, whole kernel, drained solids",67.0,2.29,1.22,14.3,132.0,3.0,13.0
+"Corn, sweet, yellow, cooked, boiled, drained, with salt",96.0,3.41,1.5,21.0,218.0,3.0,26.0
+"Corn, sweet, yellow, cooked, boiled, drained, without salt",96.0,3.41,1.5,21.0,218.0,3.0,26.0
+"Corn, sweet, yellow, frozen, kernels cut off cob, boiled, drained, without salt",81.0,2.55,0.67,19.3,233.0,3.0,28.0
+"Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)",88.0,3.02,0.78,20.7,213.0,4.0,18.0
+"Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, with salt",94.0,3.11,0.74,22.3,251.0,3.0,29.0
+"Corn, sweet, yellow, frozen, kernels on cob, cooked, boiled, drained, without salt",94.0,3.11,0.74,22.3,251.0,3.0,29.0
+"Corn, sweet, yellow, frozen, kernels on cob, unprepared",98.0,3.28,0.78,23.5,294.0,4.0,32.0
+"Corn, sweet, yellow, frozen, kernels, cut off cob, boiled, drained, with salt",79.0,2.55,0.67,18.7,233.0,3.0,28.0
+"Corn, sweet, yellow, raw",86.0,3.27,1.35,18.7,270.0,2.0,37.0
+"Corn, yellow, whole kernel, frozen, microwaved",113.0,3.62,1.42,25.9,276.0,5.0,25.0
+"Cornsalad, raw",21.0,2.0,0.4,3.6,459.0,38.0,13.0
+"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, with salt",94.0,3.17,0.38,19.7,418.0,128.0,52.0
+"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",97.0,3.17,0.38,20.3,418.0,128.0,52.0
+"Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, with salt",131.0,8.49,0.66,23.5,375.0,23.0,50.0
+"Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without salt",132.0,8.49,0.66,23.8,375.0,23.0,50.0
+"Cowpeas (blackeyes), immature seeds, frozen, unprepared",139.0,8.98,0.7,25.1,441.0,26.0,55.0
+"Cowpeas (blackeyes), immature seeds, raw",90.0,2.95,0.35,18.8,431.0,126.0,51.0
+"Cowpeas, leafy tips, cooked, boiled, drained, with salt",22.0,4.67,0.1,2.8,351.0,69.0,62.0
+"Cowpeas, leafy tips, cooked, boiled, drained, without salt",22.0,4.67,0.1,2.8,351.0,69.0,62.0
+"Cowpeas, leafy tips, raw",29.0,4.1,0.25,4.82,455.0,63.0,43.0
+"Cowpeas, young pods with seeds, cooked, boiled, drained, with salt",34.0,2.6,0.3,7.0,196.0,55.0,41.0
+"Cowpeas, young pods with seeds, cooked, boiled, drained, without salt",34.0,2.6,0.3,7.0,196.0,55.0,41.0
+"Cowpeas, young pods with seeds, raw",44.0,3.3,0.3,9.5,215.0,65.0,58.0
+"Cress, garden, cooked, boiled, drained, with salt",23.0,1.9,0.6,3.8,353.0,61.0,26.0
+"Cress, garden, cooked, boiled, drained, without salt",23.0,1.9,0.6,3.8,353.0,61.0,26.0
+"Cress, garden, raw",32.0,2.6,0.7,5.5,606.0,81.0,38.0
+"Cucumber, peeled, raw",10.0,0.59,0.16,2.16,136.0,14.0,12.0
+"Cucumber, with peel, raw",15.0,0.65,0.11,3.63,147.0,16.0,13.0
+"Dandelion greens, cooked, boiled, drained, with salt",33.0,2.0,0.6,6.4,232.0,140.0,24.0
+"Dandelion greens, cooked, boiled, drained, without salt",33.0,2.0,0.6,6.4,232.0,140.0,24.0
+"Dandelion greens, raw",45.0,2.7,0.7,9.2,397.0,187.0,36.0
+"Dock, cooked, boiled, drained, with salt",20.0,1.83,0.64,2.93,321.0,38.0,89.0
+"Dock, cooked, boiled, drained, without salt",20.0,1.83,0.64,2.93,321.0,38.0,89.0
+"Dock, raw",22.0,2.0,0.7,3.2,390.0,44.0,103.0
+"Drumstick leaves, cooked, boiled, drained, with salt",60.0,5.27,0.93,11.2,344.0,151.0,34.0
+"Drumstick leaves, cooked, boiled, drained, without salt",60.0,5.27,0.93,11.2,344.0,151.0,34.0
+"Drumstick leaves, raw",64.0,9.4,1.4,8.28,337.0,185.0,42.0
+"Drumstick pods, cooked, boiled, drained, with salt",36.0,2.09,0.19,8.18,457.0,20.0,42.0
+"Drumstick pods, cooked, boiled, drained, without salt",36.0,2.09,0.19,8.18,457.0,20.0,42.0
+"Drumstick pods, raw",37.0,2.1,0.2,8.53,461.0,30.0,45.0
+"Edamame, frozen, prepared",121.0,11.9,5.2,8.91,436.0,63.0,64.0
+"Edamame, frozen, unprepared",109.0,11.2,4.73,7.61,482.0,60.0,61.0
+"Eggplant, cooked, boiled, drained, with salt",33.0,0.83,0.23,8.14,123.0,6.0,11.0
+"Eggplant, cooked, boiled, drained, without salt",35.0,0.83,0.23,8.73,123.0,6.0,11.0
+"Eggplant, pickled",49.0,0.9,0.7,9.77,12.0,25.0,6.0
+"Eggplant, raw",25.0,0.98,0.18,5.88,229.0,9.0,14.0
+"Endive, raw",17.0,1.25,0.2,3.35,314.0,52.0,15.0
+"Epazote, raw",32.0,0.33,0.52,7.44,633.0,275.0,121.0
+"Eppaw, raw",150.0,4.6,1.8,31.7,340.0,110.0,32.0
+"Escarole, cooked, boiled, drained, no salt added",15.0,1.15,0.18,3.07,245.0,46.0,13.0
+"Fennel, bulb, raw",31.0,1.24,0.2,7.3,414.0,49.0,17.0
+"Fiddlehead ferns, frozen, unprepared",34.0,4.31,0.35,5.74,129.0,24.0,19.0
+"Fiddlehead ferns, raw",34.0,4.55,0.4,5.54,370.0,32.0,34.0
+"Fireweed, leaves, raw",103.0,4.71,2.75,19.2,494.0,429.0,156.0
+"Fungi, Cloud ears, dried",284.0,9.25,0.73,73.0,754.0,159.0,83.0
+"Garlic, raw",149.0,6.36,0.5,33.1,401.0,181.0,25.0
+"Ginger root, pickled, canned, with artificial sweetener",20.0,0.33,0.1,4.83,36.0,74.0,4.0
+"Ginger root, raw",80.0,1.82,0.75,17.8,415.0,16.0,43.0
+"Gourd, dishcloth (towelgourd), cooked, boiled, drained, with salt",54.0,0.66,0.34,13.8,453.0,9.0,20.0
+"Gourd, dishcloth (towelgourd), cooked, boiled, drained, without salt",56.0,0.66,0.34,14.3,453.0,9.0,20.0
+"Gourd, dishcloth (towelgourd), raw",20.0,1.2,0.2,4.35,139.0,20.0,14.0
+"Gourd, white-flowered (calabash), cooked, boiled, drained, with salt",13.0,0.6,0.02,3.1,170.0,24.0,11.0
+"Gourd, white-flowered (calabash), cooked, boiled, drained, without salt",15.0,0.6,0.02,3.69,170.0,24.0,11.0
+"Gourd, white-flowered (calabash), raw",14.0,0.62,0.02,3.39,150.0,26.0,11.0
+"Grape leaves, canned",69.0,4.27,1.97,11.7,29.0,289.0,14.0
+"Grape leaves, raw",93.0,5.6,2.12,17.3,272.0,363.0,95.0
+"Hearts of palm, canned",28.0,2.52,0.62,4.62,177.0,58.0,38.0
+"Hearts of palm, raw",115.0,2.7,0.2,25.6,1810.0,18.0,10.0
+"Hyacinth-beans, immature seeds, cooked, boiled, drained, with salt",50.0,2.95,0.27,9.2,262.0,41.0,42.0
+"Hyacinth-beans, immature seeds, cooked, boiled, drained, without salt",50.0,2.95,0.27,9.2,262.0,41.0,42.0
+"Hyacinth-beans, immature seeds, raw",46.0,2.1,0.2,9.19,252.0,50.0,40.0
+"Jerusalem-artichokes, raw",73.0,2.0,0.01,17.4,429.0,14.0,17.0
+"Jew's ear, (pepeao), raw",25.0,0.48,0.04,6.75,43.0,16.0,25.0
+"Jute, potherb, cooked, boiled, drained, with salt",37.0,3.68,0.2,7.29,550.0,211.0,62.0
+"Jute, potherb, cooked, boiled, drained, without salt",37.0,3.68,0.2,7.29,550.0,211.0,62.0
+"Jute, potherb, raw",34.0,4.65,0.25,5.8,559.0,208.0,64.0
+"Kale, cooked, boiled, drained, with salt",44.0,2.94,1.21,5.3,144.0,150.0,25.0
+"Kale, cooked, boiled, drained, without salt",36.0,2.94,1.21,5.3,144.0,150.0,25.0
+"Kale, frozen, cooked, boiled, drained, with salt",36.0,2.94,1.21,5.3,144.0,150.0,25.0
 "Kale, frozen, cooked, boiled, drained, without salt",36.0,2.94,1.21,5.3,144.0,150.0,25.0
-"Kale, raw",35.0,2.92,1.49,4.42,348.0,254.0,32.7
-"Ketchup, restaurant",117.0,1.11,0.55,26.8,249.0,14.0,13.5
-"Lettuce, cos or romaine, raw",17.0,1.24,0.26,3.24,253.0,35.0,13.7
-"Lettuce, iceberg, raw",17.0,0.742,0.0738,3.37,139.0,14.2,6.31
-"Lettuce, leaf, green, raw",22.0,1.09,0.156,4.07,277.0,39.8,12.8
-"Lettuce, leaf, red, raw",18.0,0.883,0.106,3.26,321.0,42.6,12.4
-"Lettuce, romaine, green, raw",21.0,0.977,0.0712,4.06,260.0,27.6,12.0
-"Mushroom, beech",40.0,2.18,0.449,6.76,376.0,0.432,10.5
-"Mushroom, crimini",30.0,3.09,0.197,4.01,380.0,4.1,10.2
-"Mushroom, enoki",44.0,2.42,0.245,8.14,402.0,1.43,12.8
-"Mushroom, king oyster",46.0,2.41,0.308,8.5,294.0,0.0,13.5
-"Mushroom, lion's mane",43.0,2.5,0.256,7.59,443.0,0.0,11.7
-"Mushroom, maitake",38.0,2.2,0.265,6.6,260.0,0.0,11.0
-"Mushroom, oyster",41.0,2.9,0.188,6.94,282.0,0.0,13.9
-"Mushroom, pioppini",39.0,3.5,0.24,5.76,392.0,0.0,16.0
-"Mushroom, portabella",32.0,2.75,0.312,4.66,349.0,3.24,9.04
-"Mushrooms, shiitake",44.0,2.41,0.195,8.17,243.0,0.766,14.1
-"Mushrooms, white button",31.0,2.89,0.371,4.08,373.0,5.46,10.2
-"Onion rings, breaded, par fried, frozen, prepared, heated in oven",288.0,4.52,14.4,36.3,135.0,28.0,20.4
-"Onions, red, raw",44.0,0.94,0.1,9.93,197.0,17.0,11.4
-"Onions, white, raw",35.0,0.89,0.13,7.68,141.0,21.0,9.3
-"Onions, yellow, raw",38.0,0.83,0.05,8.61,182.0,15.0,9.0
-"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",80.0,4.73,1.15,12.7,109.0,28.2,21.9
-"Peppers, bell, green, raw",23.0,0.715,0.106,4.78,163.0,7.5,9.0
-"Peppers, bell, orange, raw",32.0,0.882,0.156,6.7,201.0,4.9,10.4
-"Peppers, bell, red, raw",31.0,0.896,0.126,6.65,213.0,6.36,11.0
-"Peppers, bell, yellow, raw",31.0,0.819,0.121,6.6,197.0,6.69,10.3
-"Pickles, cucumber, dill or kosher dill",12.0,0.48,0.43,1.99,112.0,54.0,7.1
-"Potatoes, gold, without skin, raw",74.0,1.81,0.264,16.0,446.0,5.94,22.3
-"Potatoes, red, without skin, raw",76.0,2.06,0.248,16.3,472.0,5.13,23.6
-"Potatoes, russet, without skin, raw",83.0,2.27,0.36,17.8,450.0,7.8,25.6
-"Spinach, baby",27.0,2.85,0.619,2.41,582.0,68.4,92.9
-"Spinach, mature",28.0,2.91,0.604,2.64,460.0,66.6,93.0
-"Sweet potatoes, orange flesh, without skin, raw",79.0,1.58,0.375,17.3,486.0,22.3,19.1
-"Tomato juice, with added ingredients, from concentrate, shelf stable",23.0,0.859,0.288,4.32,198.0,9.74,10.4
-"Tomato, roma",22.0,0.696,0.425,3.84,193.0,9.96,8.09
-"Tomatoes, canned, red, ripe, diced",18.0,0.84,0.5,3.32,198.0,30.0,9.8
-"Tomatoes, grape, raw",27.0,0.83,0.63,5.51,260.0,11.0,11.9
+"Kale, frozen, unprepared",28.0,2.66,0.46,4.88,333.0,136.0,18.0
+"Kale, raw",35.0,2.92,1.49,4.42,348.0,254.0,33.0
+"Kanpyo, (dried gourd strips)",258.0,8.58,0.56,65.0,1580.0,280.0,125.0
+"Kohlrabi, cooked, boiled, drained, with salt",29.0,1.8,0.11,6.69,340.0,25.0,19.0
+"Kohlrabi, cooked, boiled, drained, without salt",29.0,1.8,0.11,6.69,340.0,25.0,19.0
+"Kohlrabi, raw",27.0,1.7,0.1,6.2,350.0,24.0,19.0
+"Lambsquarters, cooked, boiled, drained, with salt",32.0,3.2,0.7,5.0,288.0,258.0,23.0
+"Lambsquarters, cooked, boiled, drained, without salt",32.0,3.2,0.7,5.0,288.0,258.0,23.0
+"Lambsquarters, raw",43.0,4.2,0.8,7.3,452.0,309.0,34.0
+"Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, with salt",31.0,0.81,0.2,7.62,87.0,30.0,14.0
+"Leeks, (bulb and lower leaf-portion), cooked, boiled, drained, without salt",31.0,0.81,0.2,7.62,87.0,30.0,14.0
+"Leeks, (bulb and lower leaf-portion), raw",61.0,1.5,0.3,14.2,180.0,59.0,28.0
+"Leeks, (bulb and lower-leaf portion), freeze-dried",321.0,15.2,2.1,74.6,2400.0,360.0,161.0
+"Lemon grass (citronella), raw",99.0,1.82,0.49,25.3,723.0,65.0,60.0
+"Lentils, sprouted, cooked, stir-fried, with salt",101.0,8.8,0.45,21.2,284.0,14.0,35.0
+"Lentils, sprouted, cooked, stir-fried, without salt",101.0,8.8,0.45,21.2,284.0,14.0,35.0
+"Lentils, sprouted, raw",106.0,8.96,0.55,22.1,322.0,25.0,37.0
+"Lettuce, butterhead (includes boston and bibb types), raw",13.0,1.35,0.22,2.23,238.0,35.0,13.0
+"Lettuce, cos or romaine, raw",17.0,1.23,0.3,3.29,247.0,33.0,14.0
+"Lettuce, green leaf, raw",15.0,1.36,0.15,2.87,194.0,36.0,13.0
+"Lettuce, iceberg (includes crisphead types), raw",14.0,0.9,0.14,2.97,141.0,18.0,7.0
+"Lettuce, red leaf, raw",13.0,1.33,0.22,2.26,187.0,33.0,12.0
+"Lima beans, immature seeds, canned, no salt added, solids and liquids",71.0,4.07,0.29,13.3,285.0,28.0,34.0
+"Lima beans, immature seeds, canned, regular pack, solids and liquids",71.0,4.07,0.29,13.3,285.0,28.0,34.0
+"Lima beans, immature seeds, cooked, boiled, drained, with salt",123.0,6.81,0.32,23.6,570.0,32.0,74.0
+"Lima beans, immature seeds, cooked, boiled, drained, without salt",123.0,6.81,0.32,23.6,570.0,32.0,74.0
+"Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, with salt",105.0,6.65,0.3,19.4,411.0,28.0,56.0
+"Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt",105.0,6.65,0.3,19.4,411.0,28.0,56.0
+"Lima beans, immature seeds, frozen, baby, unprepared",132.0,7.59,0.44,25.1,452.0,35.0,50.0
+"Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, with salt",103.0,6.07,0.34,19.3,304.0,30.0,42.0
+"Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without salt",103.0,6.07,0.34,19.3,304.0,30.0,42.0
+"Lima beans, immature seeds, frozen, fordhook, unprepared",106.0,6.4,0.35,19.8,478.0,24.0,38.0
+"Lima beans, immature seeds, raw",113.0,6.84,0.86,20.2,467.0,34.0,58.0
+"Lotus root, cooked, boiled, drained, with salt",66.0,1.58,0.07,16.0,363.0,26.0,22.0
+"Lotus root, cooked, boiled, drained, without salt",66.0,1.58,0.07,16.0,363.0,26.0,22.0
+"Lotus root, raw",74.0,2.6,0.1,17.2,556.0,45.0,23.0
+"Malabar spinach, cooked",23.0,2.98,0.78,2.71,256.0,124.0,48.0
+"Mountain yam, hawaii, cooked, steamed, with salt",82.0,1.73,0.08,20.0,495.0,8.0,10.0
+"Mountain yam, hawaii, cooked, steamed, without salt",82.0,1.73,0.08,20.0,495.0,8.0,10.0
+"Mountain yam, hawaii, raw",67.0,1.34,0.1,16.3,418.0,26.0,12.0
+"Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt",19.0,2.03,0.09,3.6,101.0,12.0,14.0
+"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",21.0,2.03,0.09,4.19,101.0,12.0,14.0
+"Mung beans, mature seeds, sprouted, cooked, stir-fried",50.0,4.3,0.21,10.6,219.0,13.0,33.0
+"Mung beans, mature seeds, sprouted, raw",30.0,3.04,0.18,5.94,149.0,13.0,21.0
+"Mushroom, white, exposed to ultraviolet light, raw",22.0,3.09,0.34,3.26,318.0,3.0,9.0
+"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",22.0,2.5,0.1,4.3,448.0,18.0,9.0
+"Mushrooms, brown, italian, or crimini, raw",22.0,2.5,0.1,4.3,448.0,18.0,9.0
+"Mushrooms, canned, drained solids",25.0,1.87,0.29,5.09,129.0,11.0,15.0
+"Mushrooms, Chanterelle, raw",32.0,1.49,0.53,6.86,506.0,15.0,13.0
+"Mushrooms, enoki, raw",37.0,2.66,0.29,7.81,359.0,0.0,16.0
+"Mushrooms, maitake, raw",31.0,1.94,0.19,6.97,204.0,1.0,10.0
+"Mushrooms, morel, raw",31.0,3.12,0.57,5.1,411.0,43.0,19.0
+"Mushrooms, oyster, raw",33.0,3.31,0.41,6.09,420.0,3.0,18.0
+"Mushrooms, portabella, exposed to ultraviolet light, grilled",29.0,3.28,0.58,4.44,437.0,3.0,13.0
+"Mushrooms, portabella, exposed to ultraviolet light, raw",22.0,2.11,0.35,3.87,364.0,3.0,10.0
+"Mushrooms, portabella, grilled",29.0,3.28,0.58,4.44,437.0,3.0,13.0
+"Mushrooms, portabella, raw",22.0,2.11,0.35,3.87,364.0,3.0,
+"Mushrooms, shiitake, cooked, with salt",56.0,1.56,0.22,14.4,117.0,3.0,14.0
+"Mushrooms, shiitake, cooked, without salt",56.0,1.56,0.22,14.4,117.0,3.0,14.0
+"Mushrooms, shiitake, dried",296.0,9.58,0.99,75.4,1530.0,11.0,132.0
+"Mushrooms, shiitake, raw",34.0,2.24,0.49,6.79,304.0,2.0,20.0
+"Mushrooms, shiitake, stir-fried",39.0,3.45,0.35,7.68,326.0,2.0,19.0
+"Mushrooms, straw, canned, drained solids",32.0,3.83,0.68,4.64,78.0,10.0,7.0
+"Mushrooms, white, cooked, boiled, drained, with salt",28.0,2.17,0.47,5.29,356.0,6.0,12.0
+"Mushrooms, white, cooked, boiled, drained, without salt",28.0,2.17,0.47,5.29,356.0,6.0,12.0
+"Mushrooms, white, microwaved",35.0,3.91,0.46,6.04,488.0,6.0,14.0
+"Mushrooms, white, raw",22.0,3.09,0.34,3.26,318.0,3.0,9.0
+"Mushrooms, white, stir-fried",26.0,3.58,0.33,4.04,396.0,4.0,11.0
+"Mustard greens, cooked, boiled, drained, with salt",26.0,2.56,0.47,4.51,162.0,118.0,13.0
+"Mustard greens, cooked, boiled, drained, without salt",26.0,2.56,0.47,4.51,162.0,118.0,13.0
+"Mustard greens, frozen, cooked, boiled, drained, with salt",19.0,2.27,0.25,3.11,139.0,101.0,13.0
+"Mustard greens, frozen, cooked, boiled, drained, without salt",19.0,2.27,0.25,3.11,139.0,101.0,13.0
+"Mustard greens, frozen, unprepared",20.0,2.49,0.27,3.41,170.0,116.0,15.0
+"Mustard greens, raw",27.0,2.86,0.42,4.67,384.0,115.0,32.0
+"Mustard spinach, (tendergreen), cooked, boiled, drained, with salt",16.0,1.7,0.2,2.8,285.0,158.0,7.0
+"Mustard spinach, (tendergreen), cooked, boiled, drained, without salt",16.0,1.7,0.2,2.8,285.0,158.0,7.0
+"Mustard spinach, (tendergreen), raw",22.0,2.2,0.3,3.9,449.0,210.0,11.0
+"New zealand spinach, cooked, boiled, drained, with salt",12.0,1.3,0.17,2.13,102.0,48.0,32.0
+"New Zealand spinach, cooked, boiled, drained, without salt",12.0,1.3,0.17,2.13,102.0,48.0,32.0
+"New Zealand spinach, raw",14.0,1.5,0.2,2.5,130.0,58.0,39.0
+"Nopales, cooked, without salt",15.0,1.35,0.05,3.28,195.0,164.0,47.0
+"Nopales, raw",16.0,1.32,0.09,3.33,257.0,164.0,52.0
+"Okra, cooked, boiled, drained, with salt",22.0,1.87,0.21,4.51,135.0,77.0,36.0
+"Okra, cooked, boiled, drained, without salt",22.0,1.87,0.21,4.51,135.0,77.0,36.0
+"Okra, frozen, cooked, boiled, drained, with salt",29.0,1.63,0.24,6.41,184.0,74.0,40.0
+"Okra, frozen, cooked, boiled, drained, without salt",29.0,1.63,0.24,6.41,184.0,74.0,40.0
+"Okra, frozen, unprepared",30.0,1.69,0.25,6.63,211.0,81.0,43.0
+"Okra, raw",33.0,1.93,0.19,7.45,299.0,82.0,57.0
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven",276.0,4.14,14.3,33.8,123.0,31.0,17.0
+"Onion rings, breaded, par fried, frozen, unprepared",258.0,3.15,14.1,30.5,190.0,46.0,14.0
+"Onions, canned, solids and liquids",19.0,0.85,0.09,4.02,111.0,45.0,6.0
+"Onions, cooked, boiled, drained, with salt",42.0,1.36,0.19,9.56,166.0,22.0,11.0
+"Onions, cooked, boiled, drained, without salt",44.0,1.36,0.19,10.2,166.0,22.0,11.0
+"Onions, dehydrated flakes",349.0,8.95,0.46,83.3,1620.0,257.0,92.0
+"Onions, frozen, chopped, cooked, boiled, drained, with salt",26.0,0.77,0.1,6.0,108.0,16.0,6.0
+"Onions, frozen, chopped, cooked, boiled, drained, without salt",28.0,0.77,0.1,6.59,108.0,16.0,6.0
+"Onions, frozen, chopped, unprepared",29.0,0.79,0.1,6.82,124.0,17.0,7.0
+"Onions, frozen, whole, cooked, boiled, drained, with salt",26.0,0.71,0.05,6.11,101.0,27.0,8.0
+"Onions, frozen, whole, cooked, boiled, drained, without salt",28.0,0.71,0.05,6.7,101.0,27.0,8.0
+"Onions, frozen, whole, unprepared",35.0,0.89,0.06,8.45,142.0,36.0,10.0
+"Onions, raw",40.0,1.1,0.1,9.34,146.0,23.0,10.0
+"Onions, spring or scallions (includes tops and bulb), raw",32.0,1.83,0.19,7.34,276.0,72.0,20.0
+"Onions, sweet, raw",32.0,0.8,0.08,7.55,119.0,20.0,9.0
+"Onions, welsh, raw",34.0,1.9,0.4,6.5,212.0,18.0,23.0
+"Onions, yellow, sauteed",123.0,0.95,10.8,7.86,133.0,20.0,9.0
+"Onions, young green, tops only",27.0,0.97,0.47,5.74,159.0,52.0,16.0
+"Parsley, freeze-dried",271.0,31.3,5.2,42.4,6300.0,176.0,372.0
+"Parsley, fresh",36.0,2.97,0.79,6.33,554.0,138.0,50.0
+"Parsnips, cooked, boiled, drained, with salt",71.0,1.32,0.3,17.0,367.0,37.0,29.0
+"Parsnips, cooked, boiled, drained, without salt",71.0,1.32,0.3,17.0,367.0,37.0,29.0
+"Parsnips, raw",75.0,1.2,0.3,18.0,375.0,36.0,29.0
+"Peas and carrots, canned, no salt added, solids and liquids",38.0,2.17,0.27,8.48,100.0,23.0,14.0
+"Peas and carrots, canned, regular pack, solids and liquids",38.0,2.17,0.27,8.48,100.0,23.0,14.0
+"Peas and carrots, frozen, cooked, boiled, drained, with salt",48.0,3.09,0.42,10.1,158.0,23.0,16.0
+"Peas and carrots, frozen, cooked, boiled, drained, without salt",48.0,3.09,0.42,10.1,158.0,23.0,16.0
+"Peas and carrots, frozen, unprepared",53.0,3.4,0.47,11.2,194.0,27.0,18.0
+"Peas and onions, canned, solids and liquids",51.0,3.28,0.38,8.57,96.0,17.0,16.0
+"Peas and onions, frozen, cooked, boiled, drained, with salt",45.0,2.54,0.2,8.63,117.0,14.0,13.0
+"Peas and onions, frozen, cooked, boiled, drained, without salt",45.0,2.54,0.2,8.63,117.0,14.0,13.0
+"Peas and onions, frozen, unprepared",70.0,3.98,0.32,13.5,203.0,23.0,21.0
+"Peas, edible-podded, boiled, drained, without salt",42.0,3.27,0.23,7.05,240.0,42.0,26.0
+"Peas, edible-podded, cooked, boiled, drained, with salt",40.0,3.27,0.23,6.46,240.0,42.0,26.0
+"Peas, edible-podded, frozen, cooked, boiled, drained, with salt",50.0,3.5,0.38,8.43,217.0,59.0,28.0
+"Peas, edible-podded, frozen, cooked, boiled, drained, without salt",52.0,3.5,0.38,9.02,217.0,59.0,28.0
+"Peas, edible-podded, frozen, unprepared",42.0,2.8,0.3,7.2,192.0,50.0,23.0
+"Peas, edible-podded, raw",42.0,2.8,0.2,7.55,200.0,43.0,24.0
+"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared",68.0,4.47,0.8,11.4,106.0,23.0,18.0
+"Peas, green, canned, drained solids, rinsed in tap water",71.0,4.33,0.95,11.8,105.0,24.0,18.0
+"Peas, green, canned, no salt added, drained solids",69.0,4.42,0.35,12.6,173.0,20.0,17.0
+"Peas, green, canned, no salt added, solids and liquids",53.0,3.19,0.3,9.75,100.0,18.0,17.0
+"Peas, green, canned, regular pack, solids and liquids",58.0,3.01,0.48,10.6,106.0,20.0,19.0
+"Peas, green, canned, seasoned, solids and liquids",50.0,3.09,0.27,9.25,122.0,15.0,15.0
+"Peas, green, cooked, boiled, drained, with salt",84.0,5.36,0.22,15.6,271.0,27.0,39.0
+"Peas, green, cooked, boiled, drained, without salt",84.0,5.36,0.22,15.6,271.0,27.0,39.0
+"Peas, green, frozen, cooked, boiled, drained, with salt",78.0,5.15,0.27,14.3,110.0,24.0,22.0
+"Peas, green, frozen, cooked, boiled, drained, without salt",78.0,5.15,0.27,14.3,110.0,24.0,22.0
+"Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",77.0,5.22,0.4,13.6,153.0,22.0,26.0
+"Peas, green, raw",81.0,5.42,0.4,14.4,244.0,25.0,33.0
+"Peas, mature seeds, sprouted, cooked, boiled, drained, with salt",98.0,7.05,0.51,17.1,268.0,26.0,41.0
+"Peas, mature seeds, sprouted, cooked, boiled, drained, without salt",98.0,7.05,0.51,17.1,268.0,26.0,41.0
+"Peas, mature seeds, sprouted, raw",124.0,8.8,0.68,27.1,381.0,36.0,56.0
+"Pepeao, dried",298.0,4.82,0.44,81.0,708.0,113.0,146.0
+"Pepper, banana, raw",27.0,1.66,0.45,5.35,256.0,14.0,17.0
+"Peppers, ancho, dried",281.0,11.9,8.2,51.4,2410.0,61.0,113.0
+"Peppers, chili, green, canned",21.0,0.72,0.27,4.6,113.0,36.0,4.0
+"Peppers, hot chile, sun-dried",324.0,10.6,5.81,69.9,1870.0,45.0,88.0
+"Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids",21.0,0.9,0.1,5.1,187.0,7.0,14.0
+"Peppers, hot chili, green, raw",40.0,2.0,0.2,9.46,340.0,18.0,25.0
+"Peppers, hot chili, red, canned, excluding seeds, solids and liquids",21.0,0.9,0.1,5.1,187.0,7.0,14.0
+"Peppers, hot chili, red, raw",40.0,1.87,0.44,8.81,322.0,14.0,23.0
+"Peppers, hot pickled, canned",22.0,0.8,0.4,4.56,113.0,61.0,6.0
+"Peppers, hungarian, raw",29.0,0.8,0.41,6.7,202.0,12.0,16.0
+"Peppers, jalapeno, canned, solids and liquids",27.0,0.92,0.94,4.74,193.0,23.0,15.0
+"Peppers, jalapeno, raw",29.0,0.91,0.37,6.5,248.0,12.0,15.0
+"Peppers, pasilla, dried",345.0,12.4,15.8,51.1,2220.0,97.0,130.0
+"Peppers, serrano, raw",32.0,1.74,0.44,6.7,305.0,11.0,22.0
+"Peppers, sweet, green, canned, solids and liquids",18.0,0.8,0.3,3.9,146.0,41.0,11.0
+"Peppers, sweet, green, cooked, boiled, drained, with salt",26.0,0.92,0.2,6.11,166.0,9.0,10.0
+"Peppers, sweet, green, cooked, boiled, drained, without salt",28.0,0.92,0.2,6.7,166.0,9.0,10.0
+"Peppers, sweet, green, frozen, chopped, boiled, drained, without salt",18.0,0.95,0.18,3.9,72.0,8.0,7.0
+"Peppers, sweet, green, frozen, chopped, cooked, boiled, drained, with salt",16.0,0.95,0.18,3.31,72.0,8.0,7.0
+"Peppers, sweet, green, frozen, chopped, unprepared",20.0,1.08,0.21,4.45,91.0,9.0,8.0
+"Peppers, sweet, green, raw",20.0,0.86,0.17,4.64,175.0,10.0,10.0
+"Peppers, sweet, green, sauteed",116.0,0.78,11.8,4.22,134.0,8.0,8.0
+"Peppers, sweet, red, canned, solids and liquids",18.0,0.8,0.3,3.9,146.0,41.0,11.0
+"Peppers, sweet, red, cooked, boiled, drained, with salt",26.0,0.92,0.2,6.11,166.0,9.0,10.0
+"Peppers, sweet, red, cooked, boiled, drained, without salt",28.0,0.92,0.2,6.7,166.0,9.0,10.0
+"Peppers, sweet, red, freeze-dried",314.0,17.9,3.0,68.7,3170.0,134.0,188.0
+"Peppers, sweet, red, frozen, chopped, boiled, drained, with salt",16.0,0.95,0.18,3.31,72.0,8.0,7.0
+"Peppers, sweet, red, frozen, chopped, boiled, drained, without salt",16.0,0.95,0.18,3.31,72.0,8.0,7.0
+"Peppers, sweet, red, frozen, chopped, unprepared",20.0,1.08,0.21,4.45,91.0,9.0,8.0
+"Peppers, sweet, red, raw",26.0,0.99,0.3,6.03,211.0,7.0,12.0
+"Peppers, sweet, red, sauteed",133.0,1.04,12.8,6.57,193.0,7.0,12.0
+"Peppers, sweet, yellow, raw",27.0,1.0,0.21,6.32,212.0,11.0,12.0
+"Pickle relish, hamburger",129.0,0.63,0.54,34.5,76.0,4.0,7.0
+"Pickle relish, hot dog",91.0,1.5,0.46,23.4,78.0,5.0,19.0
+"Pickle relish, sweet",130.0,0.37,0.47,35.1,25.0,3.0,5.0
+"Pickles, chowchow, with cauliflower onion mustard, sweet",121.0,1.5,0.9,26.6,200.0,23.0,21.0
+"Pickles, cucumber, dill or kosher dill",12.0,0.5,0.3,2.41,117.0,57.0,7.0
+"Pickles, cucumber, dill, reduced sodium",12.0,0.5,0.3,2.41,117.0,57.0,7.0
+"Pickles, cucumber, sour",11.0,0.33,0.2,2.26,23.0,0.0,4.0
+"Pickles, cucumber, sour, low sodium",11.0,0.33,0.2,2.26,23.0,0.0,4.0
+"Pickles, cucumber, sweet (includes bread and butter pickles)",91.0,0.58,0.41,21.2,100.0,61.0,7.0
+"Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)",122.0,0.37,0.26,33.7,32.0,4.0,4.0
+"Pigeonpeas, immature seeds, cooked, boiled, drained, with salt",111.0,5.96,1.36,19.5,456.0,41.0,40.0
+"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",111.0,5.96,1.36,19.5,456.0,41.0,40.0
+"Pigeonpeas, immature seeds, raw",136.0,7.2,1.64,23.9,552.0,42.0,68.0
+"Pimento, canned",23.0,1.1,0.3,5.1,158.0,6.0,6.0
+Poi,112.0,0.38,0.14,27.2,183.0,16.0,24.0
+"Pokeberry shoots, (poke), cooked, boiled, drained, with salt",20.0,2.3,0.4,3.1,184.0,53.0,14.0
+"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",20.0,2.3,0.4,3.1,184.0,53.0,14.0
+"Pokeberry shoots, (poke), raw",23.0,2.6,0.4,3.7,242.0,53.0,18.0
+Potato flour,357.0,6.9,0.34,83.1,1000.0,65.0,65.0
+Potato pancakes,268.0,6.08,14.8,27.8,622.0,32.0,36.0
+"Potato puffs, frozen, oven-heated",192.0,2.13,9.05,27.3,287.0,14.0,17.0
+"Potato puffs, frozen, unprepared",178.0,1.93,8.71,24.8,247.0,13.0,16.0
+"Potato salad, home-prepared",143.0,2.68,8.2,11.2,254.0,19.0,15.0
+"Potato wedges, frozen (Includes foods for USDA's Food Distribution Program)",129.0,2.7,2.2,25.5,394.0,15.0,19.0
+"Potatoes, au gratin, dry mix, prepared with water, whole milk and butter",93.0,2.3,4.12,12.8,219.0,83.0,15.0
+"Potatoes, au gratin, dry mix, unprepared",314.0,8.9,3.7,74.3,990.0,311.0,64.0
+"Potatoes, au gratin, home-prepared from recipe using butter",134.0,5.06,7.59,11.3,396.0,119.0,20.0
+"Potatoes, au gratin, home-prepared from recipe using margarine",132.0,5.06,7.59,11.3,396.0,119.0,20.0
+"Potatoes, baked, flesh and skin, with salt",93.0,2.5,0.13,21.2,535.0,15.0,28.0
+"Potatoes, baked, flesh and skin, without salt",93.0,2.5,0.13,21.2,535.0,15.0,28.0
+"Potatoes, baked, flesh, with salt",93.0,1.96,0.1,21.6,391.0,5.0,25.0
+"Potatoes, baked, flesh, without salt",93.0,1.96,0.1,21.6,391.0,5.0,25.0
+"Potatoes, baked, skin only, with salt",198.0,4.29,0.1,46.1,573.0,34.0,43.0
+"Potatoes, baked, skin, without salt",198.0,4.29,0.1,46.1,573.0,34.0,43.0
+"Potatoes, boiled, cooked in skin, flesh, with salt",87.0,1.87,0.1,20.1,379.0,5.0,22.0
+"Potatoes, boiled, cooked in skin, flesh, without salt",87.0,1.87,0.1,20.1,379.0,5.0,22.0
+"Potatoes, boiled, cooked in skin, skin, with salt",78.0,2.86,0.1,17.2,407.0,45.0,30.0
+"Potatoes, boiled, cooked in skin, skin, without salt",78.0,2.86,0.1,17.2,407.0,45.0,30.0
+"Potatoes, boiled, cooked without skin, flesh, with salt",86.0,1.71,0.1,20.0,328.0,8.0,20.0
+"Potatoes, boiled, cooked without skin, flesh, without salt",86.0,1.71,0.1,20.0,328.0,8.0,20.0
+"Potatoes, canned, drained solids",60.0,1.41,0.21,13.6,229.0,5.0,14.0
+"Potatoes, canned, drained solids, no salt added",60.0,1.4,0.2,13.6,229.0,5.0,14.0
+"Potatoes, canned, solids and liquids",44.0,1.2,0.11,9.89,205.0,39.0,14.0
+"Potatoes, flesh and skin, raw",77.0,2.05,0.09,17.5,425.0,12.0,23.0
+"Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",158.0,2.75,5.48,25.6,478.0,12.0,24.0
+"Potatoes, french fried, all types, salt added in processing, frozen, unprepared",147.0,2.24,4.66,24.8,408.0,9.0,21.0
+"Potatoes, french fried, all types, salt not added in processing, frozen, as purchased",147.0,2.24,4.66,24.8,408.0,9.0,21.0
+"Potatoes, french fried, all types, salt not added in processing, frozen, oven-heated",168.0,2.66,5.22,28.7,451.0,12.0,26.0
+"Potatoes, french fried, cottage-cut, salt not added in processing, frozen, as purchased",153.0,2.42,5.78,24.0,338.0,7.0,16.0
+"Potatoes, french fried, cottage-cut, salt not added in processing, frozen, oven-heated",218.0,3.44,8.2,34.0,480.0,10.0,22.0
+"Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, as purchased",146.0,2.34,4.99,24.0,380.0,13.0,21.0
+"Potatoes, french fried, crinkle or regular cut, salt added in processing, frozen, oven-heated",161.0,2.51,5.13,27.5,471.0,13.0,28.0
+"Potatoes, french fried, cross cut, frozen, unprepared",187.0,2.7,10.0,23.0,310.0,13.0,
+"Potatoes, french fried, shoestring, salt added in processing, frozen, as purchased",163.0,2.16,6.24,25.6,379.0,11.0,21.0
+"Potatoes, french fried, shoestring, salt added in processing, frozen, oven-heated",194.0,2.9,6.76,31.7,505.0,12.0,25.0
+"Potatoes, french fried, steak cut, salt not added in processing, frozen, unprepared",134.0,2.4,3.42,24.3,360.0,13.0,
+"Potatoes, french fried, steak fries, salt added in processing, frozen, as purchased",130.0,2.19,3.39,23.5,400.0,9.0,21.0
+"Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated",148.0,2.57,3.76,27.0,459.0,10.0,23.0
+"Potatoes, french fried, wedge cut, frozen, unprepared",162.0,2.56,7.47,22.2,381.0,14.0,
+"Potatoes, frozen, french fried, par fried, cottage-cut, prepared, heated in oven, with salt",218.0,3.44,8.2,34.0,480.0,10.0,22.0
+"Potatoes, frozen, french fried, par fried, extruded, prepared, heated in oven, without salt",333.0,3.55,18.7,39.7,539.0,12.0,23.0
+"Potatoes, frozen, french fried, par fried, extruded, unprepared",260.0,2.83,15.0,30.2,430.0,9.0,18.0
+"Potatoes, frozen, whole, cooked, boiled, drained, with salt",63.0,1.98,0.13,13.9,287.0,7.0,11.0
+"Potatoes, frozen, whole, cooked, boiled, drained, without salt",65.0,1.98,0.13,14.5,287.0,7.0,11.0
+"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",219.0,2.65,11.6,28.5,496.0,17.0,28.0
+"Potatoes, hash brown, frozen, plain, unprepared",82.0,2.06,0.62,17.7,285.0,10.0,11.0
+"Potatoes, hash brown, frozen, with butter sauce, prepared",178.0,2.46,8.79,24.1,327.0,33.0,15.0
+"Potatoes, hash brown, frozen, with butter sauce, unprepared",135.0,1.87,6.66,18.3,248.0,25.0,11.0
+"Potatoes, hash brown, home-prepared",265.0,3.0,12.5,35.1,576.0,14.0,35.0
+"Potatoes, hash brown, refrigerated, prepared, pan-fried in canola oil",242.0,3.24,10.3,34.0,704.0,10.0,32.0
+"Potatoes, hash brown, refrigerated, unprepared",84.0,1.75,0.08,19.2,425.0,6.0,19.0
+"Potatoes, mashed, dehydrated, flakes without milk, dry form",354.0,8.34,0.41,81.2,1100.0,27.0,66.0
+"Potatoes, mashed, dehydrated, granules with milk, dry form",357.0,10.9,1.1,77.7,1850.0,142.0,74.0
+"Potatoes, mashed, dehydrated, granules without milk, dry form",372.0,8.22,0.54,85.5,703.0,41.0,98.0
+"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and butter added",97.0,1.77,5.13,10.9,164.0,32.0,11.0
+"Potatoes, mashed, dehydrated, prepared from flakes without milk, whole milk and margarine added",113.0,1.9,5.6,15.0,233.0,49.0,18.0
+"Potatoes, mashed, dehydrated, prepared from granules with milk, water and margarine added",116.0,2.13,4.8,16.1,155.0,35.0,20.0
+"Potatoes, mashed, dehydrated, prepared from granules without milk, whole milk and butter added",108.0,2.05,4.96,14.4,144.0,35.0,19.0
+"Potatoes, mashed, home-prepared, whole milk added",83.0,1.91,0.57,17.6,296.0,24.0,18.0
+"Potatoes, mashed, home-prepared, whole milk and butter added",113.0,1.86,4.22,16.8,284.0,24.0,18.0
+"Potatoes, mashed, home-prepared, whole milk and margarine added",113.0,1.96,4.2,16.9,326.0,21.0,19.0
+"Potatoes, mashed, prepared from granules, without milk, whole milk and margarine",108.0,2.05,4.93,14.4,145.0,35.0,19.0
+"Potatoes, mashed, ready-to-eat",106.0,1.97,5.01,13.3,274.0,34.0,14.0
+"Potatoes, microwaved, cooked in skin, flesh and skin, without salt",105.0,2.44,0.1,24.2,447.0,11.0,27.0
+"Potatoes, microwaved, cooked in skin, flesh, with salt",100.0,2.1,0.1,23.3,411.0,5.0,25.0
+"Potatoes, microwaved, cooked in skin, flesh, without salt",100.0,2.1,0.1,23.3,411.0,5.0,25.0
+"Potatoes, microwaved, cooked in skin, skin, without salt",132.0,4.39,0.1,29.6,650.0,46.0,37.0
+"Potatoes, microwaved, cooked, in skin, flesh and skin, with salt",105.0,2.44,0.1,24.2,447.0,11.0,27.0
+"Potatoes, microwaved, cooked, in skin, skin with salt",132.0,4.39,0.1,29.6,650.0,46.0,37.0
+"Potatoes, o'brien, frozen, prepared",204.0,2.22,13.2,21.9,473.0,20.0,34.0
+"Potatoes, o'brien, frozen, unprepared",76.0,1.83,0.14,17.5,249.0,13.0,18.0
+"Potatoes, o'brien, home-prepared",81.0,2.35,1.28,15.5,266.0,36.0,18.0
+"Potatoes, raw, skin",58.0,2.57,0.1,12.4,413.0,30.0,23.0
+"Potatoes, red, flesh and skin, baked",87.0,2.3,0.15,19.6,545.0,9.0,28.0
+"Potatoes, red, flesh and skin, raw",70.0,1.89,0.14,15.9,455.0,10.0,22.0
+"Potatoes, roasted, salt added in processing, frozen, unprepared",127.0,2.22,1.81,26.2,450.0,15.0,
+"Potatoes, Russet, flesh and skin, baked",95.0,2.63,0.13,21.4,550.0,18.0,30.0
+"Potatoes, russet, flesh and skin, raw (Includes foods for USDA's Food Distribution Program)",79.0,2.14,0.08,18.1,417.0,13.0,23.0
+"Potatoes, scalloped, dry mix, prepared with water, whole milk and butter",93.0,2.12,4.3,12.8,203.0,36.0,14.0
+"Potatoes, scalloped, dry mix, unprepared",358.0,7.77,4.59,73.9,905.0,62.0,59.0
+"Potatoes, scalloped, home-prepared with butter",88.0,2.87,3.68,10.8,378.0,57.0,19.0
+"Potatoes, scalloped, home-prepared with margarine",88.0,2.87,3.68,10.8,378.0,57.0,19.0
+"Potatoes, white, flesh and skin, baked",92.0,2.1,0.15,21.1,544.0,10.0,27.0
+"Potatoes, white, flesh and skin, raw",69.0,1.68,0.1,15.7,407.0,9.0,21.0
+"Potatoes, yellow fleshed, french fried, frozen, unprepared",162.0,2.47,5.84,25.0,447.0,9.0,
+"Potatoes, yellow fleshed, hash brown, shredded, salt added in processing, frozen, unprepared",81.0,2.04,0.07,18.0,398.0,9.0,
+"Potatoes, yellow fleshed, roasted, salt added in processing, frozen, unprepared",119.0,1.99,1.85,23.4,444.0,11.0,
+"Pumpkin flowers, cooked, boiled, drained, without salt",15.0,1.09,0.08,3.3,106.0,37.0,25.0
+"Pumpkin flowers, raw",15.0,1.03,0.07,3.28,173.0,39.0,24.0
+"Pumpkin leaves, cooked, boiled, drained, with salt",21.0,2.72,0.22,3.39,438.0,43.0,38.0
+"Pumpkin leaves, cooked, boiled, drained, without salt",21.0,2.72,0.22,3.39,438.0,43.0,38.0
+"Pumpkin leaves, raw",19.0,3.15,0.4,2.33,436.0,39.0,38.0
+"Pumpkin pie mix, canned",104.0,1.09,0.13,26.4,138.0,37.0,16.0
+"Pumpkin, canned, with salt",34.0,1.1,0.28,8.09,206.0,26.0,23.0
+"Pumpkin, canned, without salt",34.0,1.1,0.28,8.09,206.0,26.0,23.0
+"Pumpkin, cooked, boiled, drained, with salt",18.0,0.72,0.07,4.31,230.0,15.0,9.0
+"Pumpkin, cooked, boiled, drained, without salt",20.0,0.72,0.07,4.9,230.0,15.0,9.0
+"Pumpkin, flowers, cooked, boiled, drained, with salt",15.0,1.09,0.08,3.18,106.0,37.0,25.0
+"Pumpkin, raw",26.0,1.0,0.1,6.5,340.0,21.0,12.0
+"Purslane, cooked, boiled, drained, with salt",18.0,1.49,0.19,3.55,488.0,78.0,67.0
+"Purslane, cooked, boiled, drained, without salt",18.0,1.49,0.19,3.55,488.0,78.0,67.0
+"Purslane, raw",20.0,2.03,0.36,3.39,494.0,65.0,68.0
+"Radicchio, raw",23.0,1.43,0.25,4.48,302.0,19.0,13.0
+"Radish seeds, sprouted, raw",43.0,3.81,2.53,3.6,86.0,51.0,44.0
+"Radishes, hawaiian style, pickled",28.0,1.1,0.3,5.2,333.0,28.0,8.0
+"Radishes, oriental, cooked, boiled, drained, with salt",17.0,0.67,0.24,3.43,285.0,17.0,9.0
+"Radishes, oriental, cooked, boiled, drained, without salt",17.0,0.67,0.24,3.43,285.0,17.0,9.0
+"Radishes, oriental, dried",271.0,7.9,0.72,63.4,3490.0,629.0,170.0
+"Radishes, oriental, raw",18.0,0.6,0.1,4.1,227.0,27.0,16.0
+"Radishes, raw",16.0,0.68,0.1,3.4,233.0,25.0,10.0
+"Radishes, white icicle, raw",14.0,1.1,0.1,2.63,280.0,27.0,9.0
+"Rutabagas, cooked, boiled, drained, with salt",30.0,0.93,0.18,6.84,216.0,18.0,10.0
+"Rutabagas, cooked, boiled, drained, without salt",30.0,0.93,0.18,6.84,216.0,18.0,10.0
+"Rutabagas, raw",37.0,1.08,0.16,8.62,305.0,43.0,20.0
+"Salsify, cooked, boiled, drained, with salt",68.0,2.73,0.17,15.4,283.0,47.0,18.0
+"Salsify, cooked, boiled, drained, without salt",68.0,2.73,0.17,15.4,283.0,47.0,18.0
+"Sauerkraut, canned, solids and liquids",19.0,0.91,0.14,4.28,170.0,30.0,13.0
+"Seaweed, agar, dried",306.0,6.21,0.3,80.9,1120.0,625.0,770.0
+"Seaweed, agar, raw",26.0,0.54,0.03,6.75,226.0,54.0,67.0
+"Seaweed, Canadian Cultivated EMI-TSUNOMATA, dry",259.0,15.3,1.39,46.2,2940.0,299.0,692.0
+"Seaweed, Canadian Cultivated EMI-TSUNOMATA, rehydrated",31.0,1.86,0.17,5.62,358.0,36.0,84.0
+"Seaweed, irishmoss, raw",49.0,1.51,0.16,12.3,63.0,72.0,144.0
+"Seaweed, kelp, raw",43.0,1.68,0.56,9.57,89.0,168.0,121.0
+"Seaweed, laver, raw",35.0,5.81,0.28,5.11,356.0,70.0,2.0
+"Seaweed, spirulina, dried",290.0,57.5,7.72,23.9,1360.0,120.0,195.0
+"Seaweed, spirulina, raw",26.0,5.92,0.39,2.42,127.0,12.0,19.0
+"Seaweed, wakame, raw",45.0,3.03,0.64,9.14,50.0,150.0,107.0
+"Sesbania flower, cooked, steamed, with salt",21.0,1.14,0.05,5.1,107.0,22.0,12.0
+"Sesbania flower, cooked, steamed, without salt",22.0,1.14,0.05,5.23,107.0,22.0,12.0
+"Sesbania flower, raw",27.0,1.28,0.04,6.73,184.0,19.0,12.0
+"Shallots, freeze-dried",348.0,12.3,0.5,80.7,1650.0,183.0,104.0
+"Shallots, raw",72.0,2.5,0.1,16.8,334.0,37.0,21.0
+"Soybeans, green, cooked, boiled, drained, with salt",141.0,12.4,6.4,11.0,539.0,145.0,60.0
+"Soybeans, green, cooked, boiled, drained, without salt",141.0,12.4,6.4,11.0,539.0,145.0,60.0
+"Soybeans, green, raw",147.0,13.0,6.8,11.0,620.0,197.0,65.0
+"Soybeans, mature seeds, sprouted, cooked, steamed",81.0,8.47,4.45,6.53,355.0,59.0,60.0
+"Soybeans, mature seeds, sprouted, cooked, steamed, with salt",81.0,8.47,4.45,6.53,355.0,59.0,60.0
+"Soybeans, mature seeds, sprouted, cooked, stir-fried",125.0,13.1,7.1,9.4,567.0,82.0,96.0
+"Soybeans, mature seeds, sprouted, cooked, stir-fried, with salt",125.0,13.1,7.1,9.4,567.0,82.0,96.0
+"Soybeans, mature seeds, sprouted, raw",122.0,13.1,6.7,9.57,484.0,67.0,72.0
+Spinach souffle,172.0,7.89,13.0,5.9,231.0,165.0,30.0
+"Spinach, canned, no salt added, solids and liquids",19.0,2.11,0.37,2.92,230.0,83.0,56.0
+"Spinach, canned, regular pack, drained solids",23.0,2.81,0.5,3.4,346.0,127.0,76.0
+"Spinach, canned, regular pack, solids and liquids",19.0,2.11,0.37,2.92,230.0,83.0,56.0
+"Spinach, cooked, boiled, drained, with salt",23.0,2.97,0.26,3.75,466.0,136.0,87.0
+"Spinach, cooked, boiled, drained, without salt",23.0,2.97,0.26,3.75,466.0,136.0,87.0
+"Spinach, frozen, chopped or leaf, cooked, boiled, drained, with salt",34.0,4.01,0.87,4.8,302.0,153.0,82.0
+"Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",34.0,4.01,0.87,4.8,302.0,153.0,82.0
+"Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)",29.0,3.63,0.57,4.21,346.0,129.0,75.0
+"Spinach, raw",23.0,2.86,0.39,3.63,558.0,99.0,79.0
+"Squash, summer, all varieties, cooked, boiled, drained, with salt",20.0,0.91,0.31,4.31,192.0,27.0,24.0
+"Squash, summer, all varieties, cooked, boiled, drained, without salt",20.0,0.91,0.31,4.31,192.0,27.0,24.0
+"Squash, summer, all varieties, raw",16.0,1.21,0.18,3.35,262.0,15.0,17.0
+"Squash, summer, crookneck and straightneck, canned, drained, solid, without salt",13.0,0.61,0.07,2.96,96.0,12.0,13.0
+"Squash, summer, crookneck and straightneck, cooked, boiled, drained, with salt",19.0,1.04,0.39,3.79,177.0,22.0,16.0
+"Squash, summer, crookneck and straightneck, cooked, boiled, drained, without salt",19.0,1.04,0.39,3.79,177.0,22.0,16.0
+"Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, with salt",25.0,1.28,0.2,5.54,253.0,20.0,27.0
+"Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, without salt",25.0,1.28,0.2,5.54,253.0,20.0,27.0
+"Squash, summer, crookneck and straightneck, frozen, unprepared",20.0,0.83,0.14,4.8,209.0,18.0,23.0
+"Squash, summer, crookneck and straightneck, raw",19.0,1.01,0.27,3.88,222.0,21.0,20.0
+"Squash, summer, scallop, cooked, boiled, drained, with salt",16.0,1.03,0.17,3.3,140.0,15.0,19.0
+"Squash, summer, scallop, cooked, boiled, drained, without salt",16.0,1.03,0.17,3.3,140.0,15.0,19.0
+"Squash, summer, scallop, raw",18.0,1.2,0.2,3.84,182.0,19.0,23.0
+"Squash, summer, zucchini, includes skin, cooked, boiled, drained, with salt",15.0,1.14,0.36,2.69,264.0,18.0,19.0
+"Squash, summer, zucchini, includes skin, cooked, boiled, drained, without salt",15.0,1.14,0.36,2.69,264.0,18.0,19.0
+"Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, with salt",14.0,1.15,0.13,2.97,194.0,17.0,13.0
+"Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, without salt",17.0,1.15,0.13,3.56,194.0,17.0,13.0
+"Squash, summer, zucchini, includes skin, frozen, unprepared",17.0,1.16,0.13,3.58,218.0,18.0,13.0
+"Squash, summer, zucchini, includes skin, raw",17.0,1.21,0.32,3.11,261.0,16.0,18.0
+"Squash, summer, zucchini, italian style, canned",29.0,1.03,0.11,6.85,274.0,17.0,14.0
+"Squash, winter, acorn, cooked, baked, with salt",56.0,1.12,0.14,14.6,437.0,44.0,43.0
+"Squash, winter, acorn, cooked, baked, without salt",56.0,1.12,0.14,14.6,437.0,44.0,43.0
+"Squash, winter, acorn, cooked, boiled, mashed, with salt",34.0,0.67,0.08,8.79,263.0,26.0,26.0
+"Squash, winter, acorn, cooked, boiled, mashed, without salt",34.0,0.67,0.08,8.79,263.0,26.0,26.0
+"Squash, winter, acorn, raw",40.0,0.8,0.1,10.4,347.0,33.0,32.0
+"Squash, winter, all varieties, cooked, baked, with salt",37.0,0.89,0.35,8.85,241.0,22.0,13.0
+"Squash, winter, all varieties, cooked, baked, without salt",37.0,0.89,0.35,8.85,241.0,22.0,13.0
+"Squash, winter, all varieties, raw",34.0,0.95,0.13,8.59,350.0,28.0,14.0
+"Squash, winter, butternut, cooked, baked, with salt",40.0,0.9,0.09,10.5,284.0,41.0,29.0
+"Squash, winter, butternut, cooked, baked, without salt",40.0,0.9,0.09,10.5,284.0,41.0,29.0
+"Squash, winter, butternut, frozen, cooked, boiled, with salt",39.0,1.23,0.07,10.0,133.0,19.0,9.0
+"Squash, winter, butternut, frozen, cooked, boiled, without salt",39.0,1.23,0.07,10.0,133.0,19.0,9.0
+"Squash, winter, butternut, frozen, unprepared",57.0,1.76,0.1,14.4,212.0,29.0,14.0
+"Squash, winter, butternut, raw",45.0,1.0,0.1,11.7,352.0,48.0,34.0
+"Squash, winter, hubbard, baked, with salt",50.0,2.48,0.62,10.8,358.0,17.0,22.0
+"Squash, winter, hubbard, baked, without salt",50.0,2.48,0.62,10.8,358.0,17.0,22.0
+"Squash, winter, hubbard, cooked, boiled, mashed, with salt",30.0,1.48,0.37,6.46,214.0,10.0,13.0
+"Squash, winter, hubbard, cooked, boiled, mashed, without salt",30.0,1.48,0.37,6.46,214.0,10.0,13.0
+"Squash, winter, hubbard, raw",40.0,2.0,0.5,8.7,320.0,14.0,19.0
+"Squash, winter, spaghetti, cooked, boiled, drained, or baked, with salt",27.0,0.66,0.26,6.46,117.0,21.0,11.0
+"Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt",27.0,0.66,0.26,6.46,117.0,21.0,11.0
+"Squash, winter, spaghetti, raw",31.0,0.64,0.57,6.91,108.0,23.0,12.0
+"Squash, zucchini, baby, raw",21.0,2.71,0.4,3.11,459.0,21.0,33.0
+"Succotash, (corn and limas), canned, with cream style corn",77.0,2.64,0.54,17.6,183.0,11.0,1.0
+"Succotash, (corn and limas), canned, with whole kernel corn, solids and liquids",63.0,2.6,0.49,14.0,163.0,11.0,19.0
+"Succotash, (corn and limas), cooked, boiled, drained, with salt",111.0,5.07,0.8,24.4,410.0,17.0,53.0
+"Succotash, (corn and limas), cooked, boiled, drained, without salt",115.0,5.07,0.8,24.4,410.0,17.0,53.0
+"Succotash, (corn and limas), frozen, cooked, boiled, drained, with salt",93.0,4.31,0.89,20.0,265.0,15.0,23.0
+"Succotash, (corn and limas), frozen, cooked, boiled, drained, without salt",93.0,4.31,0.89,20.0,265.0,15.0,23.0
+"Succotash, (corn and limas), frozen, unprepared",93.0,4.31,0.89,19.9,295.0,16.0,24.0
+"Succotash, (corn and limas), raw",99.0,5.03,1.02,19.6,369.0,18.0,48.0
+"Sweet potato leaves, cooked, steamed, with salt",35.0,2.18,0.34,7.38,312.0,33.0,48.0
+"Sweet potato leaves, cooked, steamed, without salt",35.0,2.18,0.34,7.38,312.0,33.0,48.0
+"Sweet potato leaves, raw",42.0,2.49,0.51,8.82,508.0,78.0,70.0
+"Sweet Potato puffs, frozen, unprepared",161.0,1.36,3.58,30.7,248.0,57.0,
+"Sweet potato, canned, mashed",101.0,1.98,0.2,23.2,210.0,30.0,24.0
+"Sweet potato, canned, syrup pack, drained solids",108.0,1.28,0.32,25.4,193.0,17.0,12.0
+"Sweet potato, canned, syrup pack, solids and liquids",89.0,0.98,0.2,20.9,185.0,15.0,13.0
+"Sweet potato, canned, vacuum pack",91.0,1.65,0.2,21.1,312.0,22.0,22.0
+"Sweet potato, cooked, baked in skin, flesh, with salt",90.0,2.01,0.15,20.7,475.0,38.0,27.0
+"Sweet potato, cooked, baked in skin, flesh, without salt",90.0,2.01,0.15,20.7,475.0,38.0,27.0
+"Sweet potato, cooked, boiled, without skin",76.0,1.37,0.14,17.7,230.0,27.0,18.0
+"Sweet potato, cooked, boiled, without skin, with salt",76.0,1.37,0.14,17.7,230.0,27.0,18.0
+"Sweet potato, cooked, candied, home-prepared",164.0,0.89,3.54,32.1,178.0,26.0,13.0
+"Sweet potato, frozen, cooked, baked, with salt",100.0,1.71,0.12,23.4,377.0,35.0,21.0
+"Sweet potato, frozen, cooked, baked, without salt",100.0,1.71,0.12,23.4,377.0,35.0,21.0
+"Sweet potato, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",96.0,1.71,0.18,22.2,365.0,37.0,22.0
+"Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",86.0,1.57,0.05,20.1,337.0,30.0,25.0
+"Sweet Potatoes, french fried, crosscut, frozen, unprepared",209.0,1.7,11.1,25.5,244.0,39.0,
+"Sweet Potatoes, french fried, frozen as packaged, salt added in processing",182.0,2.16,8.92,35.6,409.0,52.0,26.0
+"Taro leaves, cooked, steamed, without salt",24.0,2.72,0.41,4.02,460.0,86.0,20.0
+"Taro leaves, raw",42.0,4.98,0.74,6.7,648.0,107.0,45.0
+"Taro shoots, cooked, without salt",14.0,0.73,0.08,3.2,344.0,14.0,8.0
+"Taro shoots, raw",11.0,0.92,0.09,2.32,332.0,12.0,8.0
+"Taro, cooked, with salt",142.0,0.52,0.11,34.6,484.0,18.0,30.0
+"Taro, cooked, without salt",142.0,0.52,0.11,34.6,484.0,18.0,30.0
+"Taro, leaves, cooked, steamed, with salt",24.0,2.72,0.41,3.89,460.0,86.0,20.0
+"Taro, raw",112.0,1.5,0.2,26.5,591.0,43.0,33.0
+"Taro, shoots, cooked, with salt",14.0,0.73,0.08,3.19,344.0,14.0,8.0
+"Taro, tahitian, cooked, with salt",44.0,4.16,0.68,6.85,623.0,149.0,51.0
+"Taro, tahitian, cooked, without salt",44.0,4.16,0.68,6.85,623.0,149.0,51.0
+"Taro, tahitian, raw",44.0,2.79,0.97,6.91,606.0,129.0,47.0
+"Tomatillos, raw",32.0,0.96,1.02,5.84,268.0,7.0,20.0
+"Tomato juice, canned, with salt added",17.0,0.85,0.29,3.53,217.0,10.0,11.0
+"Tomato juice, canned, without salt added",17.0,0.85,0.29,3.53,217.0,10.0,11.0
+Tomato powder,302.0,12.9,0.44,74.7,1930.0,166.0,178.0
+"Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",82.0,4.32,0.47,18.9,1010.0,36.0,42.0
+"Tomato products, canned, puree, with salt added",38.0,1.65,0.21,8.98,439.0,18.0,23.0
+"Tomato products, canned, puree, without salt added",38.0,1.65,0.21,8.98,439.0,18.0,23.0
+"Tomato products, canned, sauce",24.0,1.2,0.3,5.31,297.0,14.0,15.0
+"Tomato products, canned, sauce, spanish style",33.0,1.44,0.27,7.24,369.0,17.0,19.0
+"Tomato products, canned, sauce, with herbs and cheese",59.0,2.13,1.93,10.2,356.0,37.0,19.0
+"Tomato products, canned, sauce, with mushrooms",35.0,1.45,0.13,8.43,380.0,13.0,19.0
+"Tomato products, canned, sauce, with onions",42.0,1.56,0.19,9.94,413.0,17.0,19.0
+"Tomato products, canned, sauce, with onions, green peppers, and celery",41.0,0.94,0.74,8.77,398.0,13.0,21.0
+"Tomato products, canned, sauce, with tomato tidbits",32.0,1.32,0.39,7.09,373.0,10.0,20.0
+"Tomato sauce, canned, no salt added",24.0,1.2,0.3,5.31,297.0,14.0,15.0
+"Tomatoes, crushed, canned",32.0,1.64,0.28,7.29,293.0,34.0,20.0
+"Tomatoes, green, raw",23.0,1.2,0.2,5.1,204.0,13.0,10.0
+"Tomatoes, orange, raw",16.0,1.16,0.19,3.18,212.0,5.0,8.0
+"Tomatoes, red, ripe, canned, packed in tomato juice",16.0,0.79,0.25,3.47,191.0,33.0,10.0
+"Tomatoes, red, ripe, canned, packed in tomato juice, no salt added",16.0,0.79,0.25,3.47,191.0,33.0,10.0
+"Tomatoes, red, ripe, canned, stewed",26.0,0.91,0.19,6.19,207.0,34.0,12.0
+"Tomatoes, red, ripe, canned, with green chilies",15.0,0.69,0.08,3.62,107.0,20.0,11.0
+"Tomatoes, red, ripe, cooked",18.0,0.95,0.11,4.01,218.0,11.0,9.0
+"Tomatoes, red, ripe, cooked, stewed",79.0,1.96,2.68,13.0,247.0,26.0,15.0
+"Tomatoes, red, ripe, cooked, with salt",18.0,0.95,0.11,4.01,218.0,11.0,9.0
+"Tomatoes, red, ripe, raw, year round average",18.0,0.88,0.2,3.89,237.0,10.0,11.0
+"Tomatoes, sun-dried",258.0,14.1,2.97,55.8,3430.0,110.0,194.0
+"Tomatoes, sun-dried, packed in oil, drained",213.0,5.06,14.1,23.3,1560.0,47.0,81.0
+"Tomatoes, yellow, raw",15.0,0.98,0.26,2.98,258.0,11.0,12.0
+"Tree fern, cooked, with salt",40.0,0.29,0.07,10.8,5.0,8.0,5.0
+"Tree fern, cooked, without salt",40.0,0.29,0.07,11.0,5.0,8.0,5.0
+"Turnip greens and turnips, frozen, cooked, boiled, drained, with salt",34.0,2.99,0.38,4.74,216.0,128.0,24.0
+"Turnip greens and turnips, frozen, cooked, boiled, drained, without salt",35.0,2.99,0.38,4.85,216.0,128.0,24.0
+"Turnip greens and turnips, frozen, unprepared",21.0,2.46,0.19,3.39,82.0,114.0,18.0
+"Turnip greens, canned, no salt added",19.0,1.36,0.3,2.81,141.0,118.0,20.0
+"Turnip greens, canned, solids and liquids",14.0,1.36,0.3,2.42,141.0,118.0,20.0
+"Turnip greens, cooked, boiled, drained, with salt",20.0,1.14,0.23,4.36,203.0,137.0,22.0
+"Turnip greens, cooked, boiled, drained, without salt",20.0,1.14,0.23,4.36,203.0,137.0,22.0
+"Turnip greens, frozen, cooked, boiled, drained, with salt",29.0,3.35,0.42,4.98,224.0,152.0,26.0
+"Turnip greens, frozen, cooked, boiled, drained, without salt",29.0,3.35,0.42,4.98,224.0,152.0,26.0
+"Turnip greens, frozen, unprepared",22.0,2.47,0.31,3.67,184.0,118.0,27.0
+"Turnip greens, raw",32.0,1.5,0.3,7.13,296.0,190.0,31.0
+"Turnips, cooked, boiled, drained, with salt",22.0,0.71,0.08,5.06,135.0,22.0,8.0
+"Turnips, cooked, boiled, drained, without salt",22.0,0.71,0.08,5.06,177.0,33.0,9.0
+"Turnips, frozen, cooked, boiled, drained, with salt",21.0,1.53,0.24,3.73,182.0,32.0,14.0
+"Turnips, frozen, cooked, boiled, drained, without salt",23.0,1.53,0.24,4.35,182.0,32.0,14.0
+"Turnips, frozen, unprepared",16.0,1.04,0.16,2.94,137.0,23.0,10.0
+"Turnips, raw",28.0,0.9,0.1,6.43,191.0,30.0,11.0
+"Vinespinach, (basella), raw",19.0,1.8,0.3,3.4,510.0,109.0,65.0
+"Wasabi, root, raw",109.0,4.8,0.63,23.5,568.0,128.0,69.0
+"Water convolvulus, cooked, boiled, drained, with salt",20.0,2.08,0.24,3.7,284.0,54.0,30.0
+"Water convolvulus, cooked, boiled, drained, without salt",20.0,2.08,0.24,3.7,284.0,54.0,30.0
+"Water convolvulus,raw",19.0,2.6,0.2,3.13,312.0,77.0,71.0
+"Waterchestnuts, chinese, (matai), raw",97.0,1.4,0.1,23.9,584.0,11.0,22.0
+"Waterchestnuts, chinese, canned, solids and liquids",50.0,0.88,0.06,12.3,118.0,4.0,5.0
+"Watercress, raw",11.0,2.3,0.1,1.29,330.0,120.0,21.0
+"Waxgourd, (chinese preserving melon), cooked, boiled, drained, with salt",11.0,0.4,0.2,2.45,5.0,18.0,10.0
+"Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",14.0,0.4,0.2,3.04,5.0,18.0,10.0
+"Waxgourd, (chinese preserving melon), raw",13.0,0.4,0.2,3.0,6.0,19.0,10.0
+"Winged bean leaves, raw",74.0,5.85,1.1,14.1,176.0,224.0,8.0
+"Winged bean tuber, raw",148.0,11.6,0.9,28.1,586.0,30.0,24.0
+"Winged bean, immature seeds, cooked, boiled, drained, with salt",37.0,5.31,0.66,3.21,274.0,61.0,30.0
+"Winged beans, immature seeds, cooked, boiled, drained, without salt",38.0,5.31,0.66,3.21,274.0,61.0,30.0
+"Winged beans, immature seeds, raw",49.0,6.95,0.87,4.31,223.0,84.0,34.0
+"Yam, cooked, boiled, drained, or baked, with salt",114.0,1.49,0.14,27.0,670.0,14.0,18.0
+"Yam, cooked, boiled, drained, or baked, without salt",116.0,1.49,0.14,27.5,670.0,14.0,18.0
+"Yam, raw",118.0,1.53,0.17,27.9,816.0,17.0,21.0
+"Yambean (jicama), cooked, boiled, drained, with salt",36.0,0.72,0.09,8.23,135.0,11.0,11.0
+"Yambean (jicama), cooked, boiled, drained, without salt",38.0,0.72,0.09,8.82,135.0,11.0,11.0
+"Yambean (jicama), raw",38.0,0.72,0.09,8.82,150.0,12.0,12.0
+"Yardlong bean, cooked, boiled, drained, with salt",47.0,2.53,0.1,9.17,290.0,44.0,42.0
+"Yardlong bean, cooked, boiled, drained, without salt",47.0,2.53,0.1,9.18,290.0,44.0,42.0
+"Yardlong bean, raw",47.0,2.8,0.4,8.35,240.0,50.0,44.0
+"Yautia (tannier), raw",98.0,1.46,0.4,23.6,598.0,9.0,24.0
+Yeast extract spread,185.0,23.9,0.9,20.4,2100.0,67.0,180.0
