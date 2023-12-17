@@ -37,7 +37,7 @@ def choose_foods(data):
             data_copy[category] = dataframe[dataframe['Description'].str.contains(', raw|Raisins|, dried|Dates', regex=True, case=False)]
         if category == 'vegetable':
             data_copy[category] = dataframe[dataframe['Description'].str.contains(', raw', regex=True, case=False) &
-                                            ~dataframe['Description'].str.contains('Pizza|mixed|macaroni', regex=True, case=False)]
+                                            ~dataframe['Description'].str.contains('Pizza|mixed|macaroni|fruit|Beans', regex=True, case=False)]
     return data_copy
 
 def save_final_datasets(data, dirpath):
@@ -62,6 +62,9 @@ def make_distribution_plot(df,type='box',nrows=4,figsize=(8,6)):
             axes.axis('off')
     fig.tight_layout()
     return ax
+
+def find_unique_food_types(df):
+    return df['Description'].apply(lambda x: x.split(',')[0]).unique()
 
 def find_IQR_outliers(df):
     outlier_indices = dict()
