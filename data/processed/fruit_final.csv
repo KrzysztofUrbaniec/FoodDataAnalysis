@@ -1,120 +1,189 @@
-,Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference","Potassium, K","Calcium, Ca","Magnesium, Mg",Category
-3,"Chayote, fruit, raw",19.0,0.82,0.13,4.51,125.0,17.0,12.0,fruit
-25,"Passion-fruit juice, purple, raw",51.0,0.39,0.05,13.6,278.0,4.0,17.0,fruit
-26,"Passion-fruit juice, yellow, raw",60.0,0.67,0.18,14.4,278.0,4.0,17.0,fruit
-27,"Passion-fruit, (granadilla), purple, raw",97.0,2.2,0.7,23.4,348.0,12.0,29.0,fruit
-164,"Abiyuch, raw",69.0,1.5,0.1,17.6,304.0,8.0,24.0,fruit
-165,"Acerola juice, raw",23.0,0.4,0.3,4.8,97.0,10.0,12.0,fruit
-166,"Acerola, (west indian cherry), raw",32.0,0.4,0.3,7.69,146.0,12.0,18.0,fruit
-182,"Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",63.0,0.2,0.18,15.2,109.0,7.0,5.0,fruit
-183,"Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",57.0,0.25,0.12,13.7,108.0,7.0,5.0,fruit
-184,"Apples, raw, golden delicious, with skin",57.0,0.28,0.15,13.6,100.0,6.0,5.0,fruit
-185,"Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",58.0,0.44,0.19,13.6,120.0,5.0,5.0,fruit
-186,"Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)",59.0,0.27,0.2,14.1,104.0,6.0,5.0,fruit
-187,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",52.0,0.26,0.17,13.8,107.0,6.0,5.0,fruit
-188,"Apples, raw, without skin",48.0,0.27,0.13,12.8,90.0,5.0,4.0,fruit
-189,"Apples, raw, without skin, cooked, boiled",53.0,0.26,0.36,13.6,88.0,5.0,3.0,fruit
-190,"Apples, raw, without skin, cooked, microwave",56.0,0.28,0.42,14.4,93.0,5.0,3.0,fruit
-211,"Apricots, raw",48.0,1.4,0.39,11.1,259.0,13.0,10.0,fruit
-212,"Avocados, raw, all commercial varieties",160.0,2.0,14.7,8.53,485.0,12.0,29.0,fruit
-213,"Avocados, raw, California",167.0,1.96,15.4,8.64,507.0,13.0,29.0,fruit
-214,"Avocados, raw, Florida",120.0,2.23,10.1,7.82,351.0,10.0,24.0,fruit
-216,"Bananas, raw",89.0,1.09,0.33,22.8,358.0,5.0,27.0,fruit
-220,"Blackberries, raw",43.0,1.39,0.49,9.61,162.0,29.0,20.0,fruit
-227,"Blueberries, raw",57.0,0.74,0.33,14.5,77.0,6.0,6.0,fruit
-232,"Breadfruit, raw",103.0,1.07,0.23,27.1,490.0,17.0,25.0,fruit
-233,"Carambola, (starfruit), raw",31.0,1.04,0.33,6.73,133.0,3.0,10.0,fruit
-234,"Carissa, (natal-plum), raw",62.0,0.5,1.3,13.6,260.0,11.0,16.0,fruit
-235,"Cherimoya, raw",75.0,1.57,0.68,17.7,287.0,10.0,17.0,fruit
-242,"Cherries, sour, red, raw",50.0,1.0,0.3,12.2,173.0,16.0,9.0,fruit
-249,"Cherries, sweet, raw",63.0,1.06,0.2,16.0,222.0,13.0,11.0,fruit
-252,"Clementines, raw",47.0,0.85,0.15,12.0,177.0,30.0,10.0,fruit
-253,"Crabapples, raw",76.0,0.4,0.3,20.0,194.0,18.0,7.0,fruit
-255,"Cranberries, raw",46.0,0.46,0.13,12.0,80.0,8.0,6.0,fruit
-262,"Currants, european black, raw",63.0,1.4,0.41,15.4,322.0,55.0,24.0,fruit
-263,"Currants, red and white, raw",56.0,1.4,0.2,13.8,275.0,33.0,13.0,fruit
-265,"Custard-apple, (bullock's-heart), raw",101.0,1.7,0.6,25.2,382.0,30.0,18.0,fruit
-268,"Durian, raw or frozen",147.0,1.47,5.33,27.1,436.0,6.0,30.0,fruit
-269,"Elderberries, raw",73.0,0.66,0.5,18.4,280.0,38.0,5.0,fruit
-270,"Feijoa, raw",61.0,0.71,0.42,15.2,172.0,17.0,9.0,fruit
-277,"Figs, raw",74.0,0.75,0.3,19.2,232.0,35.0,17.0,fruit
-280,"Gooseberries, raw",44.0,0.88,0.58,10.2,198.0,25.0,10.0,fruit
-285,"Grapefruit juice, pink, raw",39.0,0.5,0.1,9.2,162.0,9.0,12.0,fruit
-291,"Grapefruit juice, white, raw",39.0,0.5,0.1,9.2,162.0,9.0,12.0,fruit
-292,"Grapefruit, raw, pink and red and white, all areas",32.0,0.63,0.1,8.08,139.0,12.0,8.0,fruit
-293,"Grapefruit, raw, pink and red, all areas",42.0,0.77,0.14,10.7,135.0,22.0,9.0,fruit
-294,"Grapefruit, raw, pink and red, California and Arizona",37.0,0.5,0.1,9.69,147.0,11.0,9.0,fruit
-295,"Grapefruit, raw, pink and red, Florida",30.0,0.55,0.1,7.5,127.0,15.0,8.0,fruit
-296,"Grapefruit, raw, white, all areas",33.0,0.69,0.1,8.41,148.0,12.0,9.0,fruit
-297,"Grapefruit, raw, white, California",37.0,0.88,0.1,9.09,143.0,12.0,9.0,fruit
-298,"Grapefruit, raw, white, Florida",32.0,0.63,0.1,8.19,150.0,15.0,9.0,fruit
-302,"Grapes, american type (slip skin), raw",67.0,0.63,0.35,17.2,191.0,14.0,5.0,fruit
-305,"Grapes, muscadine, raw",57.0,0.81,0.47,13.9,203.0,37.0,14.0,fruit
-306,"Grapes, red or green (European type, such as Thompson seedless), raw",69.0,0.72,0.16,18.1,191.0,10.0,7.0,fruit
-307,"Groundcherries, (cape-gooseberries or poha), raw",53.0,1.9,0.7,11.2,,9.0,,fruit
-312,"Guavas, common, raw",68.0,2.55,0.95,14.3,417.0,18.0,22.0,fruit
-313,"Guavas, strawberry, raw",69.0,0.58,0.6,17.4,292.0,21.0,17.0,fruit
-316,"Jackfruit, raw",95.0,1.72,0.64,23.2,448.0,24.0,29.0,fruit
-317,"Java-plum, (jambolan), raw",60.0,0.72,0.23,15.6,79.0,19.0,15.0,fruit
-321,"Jujube, raw",79.0,1.2,0.2,20.2,250.0,21.0,10.0,fruit
-322,"Kiwifruit, green, raw",61.0,1.14,0.52,14.7,312.0,34.0,17.0,fruit
-323,"Kiwifruit, ZESPRI SunGold, raw",63.0,1.02,0.28,15.8,315.0,17.0,12.0,fruit
-324,"Kumquats, raw",71.0,1.88,0.86,15.9,186.0,62.0,20.0,fruit
-328,"Lemon juice, raw",22.0,0.35,0.24,6.9,103.0,6.0,6.0,fruit
-329,"Lemon peel, raw",47.0,1.5,0.3,16.0,160.0,134.0,15.0,fruit
-330,"Lemons, raw, without peel",29.0,1.1,0.3,9.32,138.0,26.0,8.0,fruit
-332,"Lime juice, raw",25.0,0.42,0.07,8.42,117.0,14.0,8.0,fruit
-333,"Limes, raw",30.0,0.7,0.2,10.5,102.0,33.0,6.0,fruit
-335,"Litchis, raw",66.0,0.83,0.44,16.5,171.0,5.0,10.0,fruit
-338,"Longans, raw",60.0,1.31,0.1,15.1,266.0,1.0,10.0,fruit
-339,"Loquats, raw",47.0,0.43,0.2,12.1,266.0,16.0,13.0,fruit
-340,"Mammy-apple, (mamey), raw",51.0,0.5,0.5,12.5,47.0,11.0,16.0,fruit
-343,"Mangos, raw",60.0,0.82,0.38,15.0,168.0,11.0,10.0,fruit
-347,"Melons, cantaloupe, raw",34.0,0.84,0.19,8.16,267.0,9.0,12.0,fruit
-348,"Melons, casaba, raw",28.0,1.11,0.1,6.58,182.0,11.0,11.0,fruit
-349,"Melons, honeydew, raw",36.0,0.54,0.14,9.09,228.0,6.0,10.0,fruit
-350,"Mulberries, raw",43.0,1.44,0.39,9.8,194.0,39.0,18.0,fruit
-354,"Nectarines, raw",44.0,1.06,0.32,10.6,201.0,6.0,9.0,fruit
-355,"Oheloberries, raw",28.0,0.38,0.22,6.84,38.0,7.0,6.0,fruit
-368,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",45.0,0.7,0.2,10.4,200.0,11.0,11.0,fruit
-369,"Orange peel, raw",97.0,1.5,0.2,25.0,212.0,161.0,22.0,fruit
-372,"Oranges, raw, all commercial varieties",47.0,0.94,0.12,11.8,181.0,40.0,10.0,fruit
-373,"Oranges, raw, California, valencias",49.0,1.04,0.3,11.9,179.0,40.0,10.0,fruit
-374,"Oranges, raw, Florida",46.0,0.7,0.21,11.5,169.0,43.0,10.0,fruit
-375,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",49.0,0.91,0.15,12.5,166.0,43.0,11.0,fruit
-376,"Oranges, raw, with peel",63.0,1.3,0.3,15.5,196.0,70.0,14.0,fruit
-379,"Papayas, raw",43.0,0.47,0.26,10.8,182.0,20.0,21.0,fruit
-396,"Peaches, yellow, raw",39.0,0.91,0.25,9.54,190.0,6.0,9.0,fruit
-399,"Pears, asian, raw",42.0,0.5,0.23,10.6,121.0,4.0,8.0,fruit
-410,"Pears, raw",57.0,0.36,0.14,15.2,116.0,9.0,7.0,fruit
-411,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",63.0,0.39,0.16,15.0,101.0,9.0,6.0,fruit
-412,"Pears, raw, bosc (Includes foods for USDA's Food Distribution Program)",67.0,0.36,0.09,16.1,122.0,10.0,7.0,fruit
-413,"Pears, raw, green anjou (Includes foods for USDA's Food Distribution Program)",66.0,0.44,0.1,15.8,127.0,11.0,7.0,fruit
-414,"Pears, raw, red anjou",62.0,0.33,0.14,14.9,123.0,11.0,7.0,fruit
-416,"Persimmons, japanese, raw",70.0,0.58,0.19,18.6,161.0,8.0,9.0,fruit
-417,"Persimmons, native, raw",127.0,0.8,0.4,33.5,310.0,27.0,,fruit
-430,"Pineapple, raw, all varieties",50.0,0.54,0.12,13.1,109.0,13.0,12.0,fruit
-431,"Pineapple, raw, extra sweet variety",51.0,0.53,0.11,13.5,108.0,13.0,12.0,fruit
-432,"Pineapple, raw, traditional varieties",45.0,0.55,0.13,11.8,125.0,13.0,12.0,fruit
-433,"Pitanga, (surinam-cherry), raw",33.0,0.8,0.4,7.49,103.0,9.0,12.0,fruit
-436,"Plantains, green, raw",152.0,1.25,0.07,36.7,431.0,2.0,41.0,fruit
-438,"Plantains, yellow, raw",122.0,1.3,0.35,31.9,487.0,3.0,36.0,fruit
-448,"Plums, raw",46.0,0.7,0.28,11.4,157.0,6.0,7.0,fruit
-450,"Pomegranates, raw",83.0,1.67,1.17,18.7,236.0,10.0,12.0,fruit
-451,"Prickly pears, raw",41.0,0.73,0.51,9.57,220.0,56.0,85.0,fruit
-457,"Pummelo, raw",38.0,0.76,0.04,9.62,216.0,4.0,6.0,fruit
-458,"Quinces, raw",57.0,0.4,0.1,15.3,197.0,11.0,8.0,fruit
-468,"Raspberries, raw",52.0,1.2,0.65,11.9,151.0,25.0,22.0,fruit
-472,"Rhubarb, raw",21.0,0.9,0.2,4.54,288.0,86.0,12.0,fruit
-473,"Rose-apples, raw",25.0,0.6,0.3,5.7,123.0,29.0,5.0,fruit
-474,"Roselle, raw",49.0,0.96,0.64,11.3,208.0,215.0,51.0,fruit
-475,"Rowal, raw",111.0,2.3,2.0,23.9,131.0,15.0,32.0,fruit
-477,"Sapodilla, raw",83.0,0.44,1.1,20.0,193.0,21.0,12.0,fruit
-478,"Sapote, mamey, raw",124.0,1.45,0.46,32.1,454.0,18.0,11.0,fruit
-479,"Soursop, raw",66.0,1.0,0.3,16.8,278.0,14.0,21.0,fruit
-483,"Strawberries, raw",32.0,0.67,0.3,7.68,153.0,16.0,13.0,fruit
-484,"Sugar-apples, (sweetsop), raw",94.0,2.06,0.29,23.6,247.0,24.0,21.0,fruit
-486,"Tamarinds, raw",239.0,2.8,0.6,62.5,628.0,74.0,92.0,fruit
-487,"Tangerine juice, raw",43.0,0.5,0.2,10.1,178.0,18.0,8.0,fruit
-491,"Tangerines, (mandarin oranges), raw",53.0,0.81,0.31,13.3,166.0,37.0,12.0,fruit
-492,"Watermelon, raw",30.0,0.61,0.15,7.55,112.0,7.0,10.0,fruit
+,Description,Energy,Protein,Total lipid (fat),"Carbohydrate, by difference",Water,Ash,"Fiber, total dietary","Potassium, K","Magnesium, Mg","Sodium, Na",Category
+3,"Chayote, fruit, raw",19.0,0.82,0.13,4.51,94.2,0.3,1.7,125.0,12.0,2.0,fruit
+25,"Passion-fruit juice, purple, raw",51.0,0.39,0.05,13.6,85.6,0.34,0.2,278.0,17.0,6.0,fruit
+26,"Passion-fruit juice, yellow, raw",60.0,0.67,0.18,14.4,84.2,0.49,0.2,278.0,17.0,6.0,fruit
+27,"Passion-fruit, (granadilla), purple, raw",97.0,2.2,0.7,23.4,72.9,0.8,10.4,348.0,29.0,28.0,fruit
+72,"Beverages, Fruit punch drink, frozen concentrate",162.0,0.2,0.0,41.4,58.2,0.2,0.4,44.0,6.0,8.0,fruit
+90,"Beverages, citrus fruit juice drink, frozen concentrate",162.0,1.2,0.1,40.2,57.4,1.1,0.2,393.0,20.0,3.0,fruit
+92,"Beverages, fruit punch juice drink, frozen concentrate",175.0,0.3,0.7,43.1,55.5,0.5,0.2,270.0,11.0,10.0,fruit
+110,"Beverages, Fruit punch drink, frozen concentrate, prepared with water",46.0,0.06,0.0,11.7,88.2,0.13,0.1,13.0,2.0,5.0,fruit
+121,"Beverages, citrus fruit juice drink, frozen concentrate, prepared with water",46.0,0.34,0.03,11.4,87.8,0.38,0.1,112.0,6.0,4.0,fruit
+123,"Beverages, fruit punch juice drink, frozen concentrate, prepared with water",42.0,0.07,0.17,11.4,88.2,0.2,0.0,66.0,3.0,5.0,fruit
+164,"Abiyuch, raw",69.0,1.5,0.1,17.6,79.9,0.9,5.3,304.0,24.0,20.0,fruit
+165,"Acerola juice, raw",23.0,0.4,0.3,4.8,94.3,0.2,0.3,97.0,12.0,3.0,fruit
+166,"Acerola, (west indian cherry), raw",32.0,0.4,0.3,7.69,91.4,0.2,1.1,146.0,18.0,7.0,fruit
+170,"Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid",47.0,0.14,0.1,11.5,87.9,0.32,0.1,126.0,5.0,7.0,fruit
+171,"Apple juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added ascorbic acid",47.0,0.14,0.1,11.5,87.9,0.32,0.1,126.0,5.0,7.0,fruit
+172,"Apple juice, frozen concentrate, unsweetened, undiluted, with added ascorbic acid",166.0,0.51,0.37,41.0,57.0,1.12,,448.0,17.0,25.0,fruit
+173,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",166.0,0.51,0.37,41.0,57.0,1.12,0.4,448.0,17.0,25.0,fruit
+177,"Apples, dried, sulfured, stewed, with added sugar",83.0,0.2,0.07,20.7,78.8,0.24,1.9,98.0,3.0,19.0,fruit
+178,"Apples, dried, sulfured, stewed, without added sugar",57.0,0.22,0.07,15.3,84.1,0.26,2.0,105.0,4.0,20.0,fruit
+179,"Apples, dried, sulfured, uncooked",243.0,0.93,0.32,65.9,31.8,1.1,8.7,450.0,16.0,87.0,fruit
+180,"Apples, frozen, unsweetened, heated (Includes foods for USDA's Food Distribution Program)",47.0,0.29,0.33,12.0,87.2,0.23,1.3,76.0,3.0,3.0,fruit
+181,"Apples, frozen, unsweetened, unheated (Includes foods for USDA's Food Distribution Program)",48.0,0.28,0.32,12.3,86.8,0.24,1.3,77.0,3.0,3.0,fruit
+182,"Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",63.0,0.2,0.18,15.2,84.2,0.24,2.1,109.0,5.0,1.0,fruit
+183,"Apples, raw, gala, with skin (Includes foods for USDA's Food Distribution Program)",57.0,0.25,0.12,13.7,85.8,0.2,2.3,108.0,5.0,1.0,fruit
+184,"Apples, raw, golden delicious, with skin",57.0,0.28,0.15,13.6,85.8,0.16,2.4,100.0,5.0,2.0,fruit
+185,"Apples, raw, granny smith, with skin (Includes foods for USDA's Food Distribution Program)",58.0,0.44,0.19,13.6,85.5,0.29,2.8,120.0,5.0,1.0,fruit
+186,"Apples, raw, red delicious, with skin (Includes foods for USDA's Food Distribution Program)",59.0,0.27,0.2,14.1,85.3,0.14,2.3,104.0,5.0,1.0,fruit
+187,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",52.0,0.26,0.17,13.8,85.6,0.19,2.4,107.0,5.0,1.0,fruit
+188,"Apples, raw, without skin",48.0,0.27,0.13,12.8,86.7,0.17,1.3,90.0,4.0,0.0,fruit
+189,"Apples, raw, without skin, cooked, boiled",53.0,0.26,0.36,13.6,85.5,0.28,2.4,88.0,3.0,1.0,fruit
+190,"Apples, raw, without skin, cooked, microwave",56.0,0.28,0.42,14.4,84.6,0.26,2.8,93.0,3.0,1.0,fruit
+207,"Apricots, dried, sulfured, stewed, with added sugar",113.0,1.17,0.15,29.3,68.4,0.98,4.1,443.0,15.0,3.0,fruit
+208,"Apricots, dried, sulfured, stewed, without added sugar",85.0,1.2,0.18,22.2,75.6,0.91,2.6,411.0,11.0,4.0,fruit
+209,"Apricots, dried, sulfured, uncooked",241.0,3.39,0.51,62.6,30.9,2.57,7.3,1160.0,32.0,10.0,fruit
+210,"Apricots, frozen, sweetened",98.0,0.7,0.1,25.1,73.3,0.8,2.2,229.0,9.0,4.0,fruit
+211,"Apricots, raw",48.0,1.4,0.39,11.1,86.4,0.75,2.0,259.0,10.0,1.0,fruit
+212,"Avocados, raw, all commercial varieties",160.0,2.0,14.7,8.53,73.2,1.58,6.7,485.0,29.0,7.0,fruit
+213,"Avocados, raw, California",167.0,1.96,15.4,8.64,72.3,1.66,6.8,507.0,29.0,8.0,fruit
+214,"Avocados, raw, Florida",120.0,2.23,10.1,7.82,78.8,1.08,5.6,351.0,24.0,2.0,fruit
+216,"Bananas, raw",89.0,1.09,0.33,22.8,74.9,0.82,2.6,358.0,27.0,1.0,fruit
+219,"Blackberries, frozen, unsweetened",64.0,1.18,0.43,15.7,82.2,0.51,5.0,140.0,22.0,1.0,fruit
+220,"Blackberries, raw",43.0,1.39,0.49,9.61,88.2,0.37,5.3,162.0,20.0,1.0,fruit
+224,"Blueberries, dried, sweetened",317.0,2.5,2.5,80.0,14.8,0.73,7.5,214.0,18.0,3.0,fruit
+225,"Blueberries, frozen, sweetened",85.0,0.4,0.13,22.0,77.4,0.12,2.2,60.0,2.0,1.0,fruit
+226,"Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",51.0,0.42,0.64,12.2,86.6,0.18,2.7,54.0,5.0,1.0,fruit
+227,"Blueberries, raw",57.0,0.74,0.33,14.5,84.2,0.24,2.4,77.0,6.0,1.0,fruit
+229,"Blueberries, wild, frozen (Includes foods for USDA's Food Distribution Program)",57.0,0.0,0.16,13.8,85.8,0.19,4.4,68.0,7.0,3.0,fruit
+231,"Boysenberries, frozen, unsweetened",50.0,1.1,0.26,12.2,85.9,0.54,5.3,139.0,16.0,1.0,fruit
+232,"Breadfruit, raw",103.0,1.07,0.23,27.1,70.6,0.93,4.9,490.0,25.0,2.0,fruit
+233,"Carambola, (starfruit), raw",31.0,1.04,0.33,6.73,91.4,0.52,2.8,133.0,10.0,2.0,fruit
+234,"Carissa, (natal-plum), raw",62.0,0.5,1.3,13.6,84.2,0.4,,260.0,16.0,3.0,fruit
+235,"Cherimoya, raw",75.0,1.57,0.68,17.7,79.4,0.65,3.0,287.0,17.0,7.0,fruit
+241,"Cherries, sour, red, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",46.0,0.92,0.44,11.0,87.2,0.42,1.6,124.0,9.0,1.0,fruit
+242,"Cherries, sour, red, raw",50.0,1.0,0.3,12.2,86.1,0.4,1.6,173.0,9.0,3.0,fruit
+249,"Cherries, sweet, raw",63.0,1.06,0.2,16.0,82.2,0.48,2.1,222.0,11.0,0.0,fruit
+250,"Cherries, tart, dried, sweetened (Includes foods for USDA's Food Distribution Program)",333.0,1.25,0.73,80.4,16.6,0.97,2.5,376.0,22.0,13.0,fruit
+252,"Clementines, raw",47.0,0.85,0.15,12.0,86.6,0.4,1.7,177.0,10.0,1.0,fruit
+253,"Crabapples, raw",76.0,0.4,0.3,20.0,78.9,0.42,,194.0,7.0,1.0,fruit
+254,"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",308.0,0.17,1.09,82.8,15.8,0.15,5.3,49.0,4.0,5.0,fruit
+255,"Cranberries, raw",46.0,0.46,0.13,12.0,87.3,0.12,3.6,80.0,6.0,2.0,fruit
+262,"Currants, european black, raw",63.0,1.4,0.41,15.4,82.0,0.86,,322.0,24.0,2.0,fruit
+263,"Currants, red and white, raw",56.0,1.4,0.2,13.8,84.0,0.66,4.3,275.0,13.0,1.0,fruit
+264,"Currants, zante, dried",290.0,3.43,0.22,77.0,17.6,1.77,4.4,777.0,36.0,43.0,fruit
+265,"Custard-apple, (bullock's-heart), raw",101.0,1.7,0.6,25.2,71.5,1.0,2.4,382.0,18.0,4.0,fruit
+268,"Durian, raw or frozen",147.0,1.47,5.33,27.1,65.0,1.12,3.8,436.0,30.0,2.0,fruit
+269,"Elderberries, raw",73.0,0.66,0.5,18.4,79.8,0.64,7.0,280.0,5.0,6.0,fruit
+270,"Feijoa, raw",61.0,0.71,0.42,15.2,83.3,0.38,6.4,172.0,9.0,3.0,fruit
+275,"Figs, dried, stewed",107.0,1.42,0.4,27.6,69.8,0.8,4.2,294.0,29.0,4.0,fruit
+276,"Figs, dried, uncooked",249.0,3.3,0.93,63.9,30.0,1.86,9.8,680.0,68.0,10.0,fruit
+277,"Figs, raw",74.0,0.75,0.3,19.2,79.1,0.66,2.9,232.0,17.0,1.0,fruit
+278,"Goji berries, dried",349.0,14.3,0.39,77.1,7.5,0.78,13.0,,,298.0,fruit
+280,"Gooseberries, raw",44.0,0.88,0.58,10.2,87.9,0.49,4.3,198.0,10.0,1.0,fruit
+285,"Grapefruit juice, pink, raw",39.0,0.5,0.1,9.2,90.0,0.2,,162.0,12.0,1.0,fruit
+289,"Grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume water",41.0,0.55,0.13,9.73,89.3,0.28,0.1,136.0,11.0,1.0,fruit
+290,"Grapefruit juice, white, frozen concentrate, unsweetened, undiluted",146.0,1.97,0.48,34.6,62.0,0.99,0.4,484.0,38.0,3.0,fruit
+291,"Grapefruit juice, white, raw",39.0,0.5,0.1,9.2,90.0,0.2,0.1,162.0,12.0,1.0,fruit
+292,"Grapefruit, raw, pink and red and white, all areas",32.0,0.63,0.1,8.08,90.9,0.31,1.1,139.0,8.0,0.0,fruit
+293,"Grapefruit, raw, pink and red, all areas",42.0,0.77,0.14,10.7,88.1,0.36,1.6,135.0,9.0,0.0,fruit
+294,"Grapefruit, raw, pink and red, California and Arizona",37.0,0.5,0.1,9.69,89.3,0.4,,147.0,9.0,1.0,fruit
+295,"Grapefruit, raw, pink and red, Florida",30.0,0.55,0.1,7.5,91.6,0.29,1.1,127.0,8.0,0.0,fruit
+296,"Grapefruit, raw, white, all areas",33.0,0.69,0.1,8.41,90.5,0.33,1.1,148.0,9.0,0.0,fruit
+297,"Grapefruit, raw, white, California",37.0,0.88,0.1,9.09,89.6,0.35,,143.0,9.0,0.0,fruit
+298,"Grapefruit, raw, white, Florida",32.0,0.63,0.1,8.19,90.8,0.32,,150.0,9.0,0.0,fruit
+302,"Grapes, american type (slip skin), raw",67.0,0.63,0.35,17.2,81.3,0.57,0.9,191.0,5.0,2.0,fruit
+305,"Grapes, muscadine, raw",57.0,0.81,0.47,13.9,84.3,0.5,3.9,203.0,14.0,1.0,fruit
+306,"Grapes, red or green (European type, such as Thompson seedless), raw",69.0,0.72,0.16,18.1,80.5,0.48,0.9,191.0,7.0,2.0,fruit
+307,"Groundcherries, (cape-gooseberries or poha), raw",53.0,1.9,0.7,11.2,85.4,0.8,,,,,fruit
+312,"Guavas, common, raw",68.0,2.55,0.95,14.3,80.8,1.39,5.4,417.0,22.0,2.0,fruit
+313,"Guavas, strawberry, raw",69.0,0.58,0.6,17.4,80.7,0.8,5.4,292.0,17.0,37.0,fruit
+316,"Jackfruit, raw",95.0,1.72,0.64,23.2,73.5,0.94,1.5,448.0,29.0,2.0,fruit
+317,"Java-plum, (jambolan), raw",60.0,0.72,0.23,15.6,83.1,0.36,,79.0,15.0,14.0,fruit
+320,"Jujube, Chinese, fresh, dried",281.0,4.72,0.5,72.5,20.2,2.08,6.0,217.0,,5.0,fruit
+321,"Jujube, raw",79.0,1.2,0.2,20.2,77.9,0.51,,250.0,10.0,3.0,fruit
+322,"Kiwifruit, green, raw",61.0,1.14,0.52,14.7,83.1,0.61,3.0,312.0,17.0,3.0,fruit
+323,"Kiwifruit, ZESPRI SunGold, raw",63.0,1.02,0.28,15.8,82.4,0.47,1.4,315.0,12.0,3.0,fruit
+324,"Kumquats, raw",71.0,1.88,0.86,15.9,80.8,0.52,6.5,186.0,20.0,10.0,fruit
+328,"Lemon juice, raw",22.0,0.35,0.24,6.9,92.3,0.21,0.3,103.0,6.0,1.0,fruit
+329,"Lemon peel, raw",47.0,1.5,0.3,16.0,81.6,0.6,10.6,160.0,15.0,6.0,fruit
+330,"Lemons, raw, without peel",29.0,1.1,0.3,9.32,89.0,0.3,2.8,138.0,8.0,2.0,fruit
+332,"Lime juice, raw",25.0,0.42,0.07,8.42,90.8,0.31,0.4,117.0,8.0,2.0,fruit
+333,"Limes, raw",30.0,0.7,0.2,10.5,88.3,0.3,2.8,102.0,6.0,2.0,fruit
+334,"Litchis, dried",277.0,3.8,1.2,70.7,22.3,2.0,4.6,1110.0,42.0,3.0,fruit
+335,"Litchis, raw",66.0,0.83,0.44,16.5,81.8,0.44,1.3,171.0,10.0,1.0,fruit
+336,"Loganberries, frozen",55.0,1.52,0.31,13.0,84.6,0.54,5.3,145.0,21.0,1.0,fruit
+337,"Longans, dried",286.0,4.9,0.4,74.0,17.6,3.1,,658.0,46.0,48.0,fruit
+338,"Longans, raw",60.0,1.31,0.1,15.1,82.8,0.7,1.1,266.0,10.0,0.0,fruit
+339,"Loquats, raw",47.0,0.43,0.2,12.1,86.7,0.5,1.7,266.0,13.0,1.0,fruit
+340,"Mammy-apple, (mamey), raw",51.0,0.5,0.5,12.5,86.2,0.3,3.0,47.0,16.0,15.0,fruit
+342,"Mango, dried, sweetened",319.0,2.45,1.18,78.6,16.6,1.19,2.4,279.0,20.0,162.0,fruit
+343,"Mangos, raw",60.0,0.82,0.38,15.0,83.5,0.36,1.6,168.0,10.0,1.0,fruit
+346,"Melon balls, frozen",33.0,0.84,0.25,7.94,90.3,0.71,0.7,280.0,14.0,31.0,fruit
+347,"Melons, cantaloupe, raw",34.0,0.84,0.19,8.16,90.2,0.65,0.9,267.0,12.0,16.0,fruit
+348,"Melons, casaba, raw",28.0,1.11,0.1,6.58,91.8,0.36,0.9,182.0,11.0,9.0,fruit
+349,"Melons, honeydew, raw",36.0,0.54,0.14,9.09,89.8,0.41,0.8,228.0,10.0,18.0,fruit
+350,"Mulberries, raw",43.0,1.44,0.39,9.8,87.7,0.69,1.7,194.0,18.0,10.0,fruit
+352,"Nance, frozen, unsweetened",73.0,0.66,1.16,17.0,80.6,0.57,7.5,244.0,20.0,3.0,fruit
+353,"Naranjilla (lulo) pulp, frozen, unsweetened",25.0,0.44,0.22,5.9,93.0,0.39,1.1,200.0,11.0,4.0,fruit
+354,"Nectarines, raw",44.0,1.06,0.32,10.6,87.6,0.48,1.7,201.0,9.0,0.0,fruit
+355,"Oheloberries, raw",28.0,0.38,0.22,6.84,92.3,0.26,,38.0,6.0,1.0,fruit
+364,"Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water",37.0,0.6,0.06,8.8,90.1,0.47,0.2,158.0,10.0,4.0,fruit
+365,"Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added calcium",37.0,0.6,0.06,8.47,90.1,0.81,0.2,158.0,10.0,4.0,fruit
+366,"Orange juice, frozen concentrate, unsweetened, undiluted",148.0,2.4,0.25,35.2,60.6,1.6,1.0,629.0,35.0,7.0,fruit
+367,"Orange juice, frozen concentrate, unsweetened, undiluted, with added calcium",147.0,2.4,0.25,33.9,60.6,2.92,1.0,629.0,35.0,7.0,fruit
+368,"Orange juice, raw (Includes foods for USDA's Food Distribution Program)",45.0,0.7,0.2,10.4,88.3,0.4,0.2,200.0,11.0,1.0,fruit
+369,"Orange peel, raw",97.0,1.5,0.2,25.0,72.5,0.8,10.6,212.0,22.0,3.0,fruit
+372,"Oranges, raw, all commercial varieties",47.0,0.94,0.12,11.8,86.8,0.44,2.4,181.0,10.0,0.0,fruit
+373,"Oranges, raw, California, valencias",49.0,1.04,0.3,11.9,86.3,0.42,2.5,179.0,10.0,0.0,fruit
+374,"Oranges, raw, Florida",46.0,0.7,0.21,11.5,87.1,0.41,2.4,169.0,10.0,0.0,fruit
+375,"Oranges, raw, navels (Includes foods for USDA's Food Distribution Program)",49.0,0.91,0.15,12.5,86.0,0.43,2.2,166.0,11.0,1.0,fruit
+376,"Oranges, raw, with peel",63.0,1.3,0.3,15.5,82.3,0.6,4.5,196.0,14.0,2.0,fruit
+379,"Papayas, raw",43.0,0.47,0.26,10.8,88.1,0.39,1.7,182.0,21.0,8.0,fruit
+391,"Peaches, dried, sulfured, stewed, with added sugar",103.0,1.06,0.22,26.6,71.4,0.73,2.4,292.0,12.0,2.0,fruit
+392,"Peaches, dried, sulfured, stewed, without added sugar",77.0,1.16,0.25,19.7,78.1,0.8,2.7,320.0,13.0,2.0,fruit
+393,"Peaches, dried, sulfured, uncooked",239.0,3.61,0.76,61.3,31.8,2.5,8.2,996.0,42.0,7.0,fruit
+394,"Peaches, frozen, sliced, sweetened",94.0,0.63,0.13,24.0,74.7,0.53,1.8,130.0,5.0,6.0,fruit
+396,"Peaches, yellow, raw",39.0,0.91,0.25,9.54,88.9,0.43,1.5,190.0,9.0,0.0,fruit
+399,"Pears, asian, raw",42.0,0.5,0.23,10.6,88.2,0.37,3.6,121.0,8.0,0.0,fruit
+407,"Pears, dried, sulfured, stewed, with added sugar",140.0,0.86,0.29,37.1,61.2,0.51,5.8,245.0,15.0,3.0,fruit
+408,"Pears, dried, sulfured, stewed, without added sugar",127.0,0.91,0.31,33.8,64.4,0.54,6.4,258.0,16.0,3.0,fruit
+409,"Pears, dried, sulfured, uncooked",262.0,1.87,0.63,69.7,26.7,1.11,7.5,533.0,33.0,6.0,fruit
+410,"Pears, raw",57.0,0.36,0.14,15.2,84.0,0.32,3.1,116.0,7.0,1.0,fruit
+411,"Pears, raw, bartlett (Includes foods for USDA's Food Distribution Program)",63.0,0.39,0.16,15.0,84.1,0.3,3.1,101.0,6.0,1.0,fruit
+412,"Pears, raw, bosc (Includes foods for USDA's Food Distribution Program)",67.0,0.36,0.09,16.1,83.2,0.28,3.1,122.0,7.0,1.0,fruit
+413,"Pears, raw, green anjou (Includes foods for USDA's Food Distribution Program)",66.0,0.44,0.1,15.8,83.3,0.37,3.1,127.0,7.0,1.0,fruit
+414,"Pears, raw, red anjou",62.0,0.33,0.14,14.9,84.2,0.35,3.0,123.0,7.0,1.0,fruit
+415,"Persimmons, japanese, dried",274.0,1.38,0.59,73.4,23.0,1.59,14.5,802.0,31.0,2.0,fruit
+416,"Persimmons, japanese, raw",70.0,0.58,0.19,18.6,80.3,0.33,3.6,161.0,9.0,1.0,fruit
+417,"Persimmons, native, raw",127.0,0.8,0.4,33.5,64.4,0.9,,310.0,,1.0,fruit
+421,"Pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water",51.0,0.4,0.03,12.7,86.6,0.3,0.2,132.0,14.0,1.0,fruit
+422,"Pineapple juice, frozen concentrate, unsweetened, undiluted",179.0,1.3,0.1,44.3,53.1,1.2,0.7,472.0,35.0,3.0,fruit
+429,"Pineapple, frozen, chunks, sweetened",86.0,0.4,0.1,22.2,77.1,0.2,1.1,100.0,10.0,2.0,fruit
+430,"Pineapple, raw, all varieties",50.0,0.54,0.12,13.1,86.0,0.22,1.4,109.0,12.0,1.0,fruit
+431,"Pineapple, raw, extra sweet variety",51.0,0.53,0.11,13.5,85.7,0.2,1.4,108.0,12.0,1.0,fruit
+432,"Pineapple, raw, traditional varieties",45.0,0.55,0.13,11.8,87.2,0.27,,125.0,12.0,1.0,fruit
+433,"Pitanga, (surinam-cherry), raw",33.0,0.8,0.4,7.49,90.8,0.5,,103.0,12.0,3.0,fruit
+436,"Plantains, green, raw",152.0,1.25,0.07,36.7,61.1,0.92,2.2,431.0,41.0,2.0,fruit
+438,"Plantains, yellow, raw",122.0,1.3,0.35,31.9,65.2,1.15,1.7,487.0,36.0,4.0,fruit
+445,"Plums, dried (prunes), stewed, with added sugar",124.0,1.09,0.22,32.9,65.1,0.73,3.8,312.0,19.0,2.0,fruit
+446,"Plums, dried (prunes), stewed, without added sugar",107.0,0.96,0.16,28.1,69.7,1.16,3.1,321.0,18.0,1.0,fruit
+447,"Plums, dried (prunes), uncooked",240.0,2.18,0.38,63.9,30.9,2.64,7.1,732.0,41.0,2.0,fruit
+448,"Plums, raw",46.0,0.7,0.28,11.4,87.2,0.37,1.4,157.0,7.0,0.0,fruit
+450,"Pomegranates, raw",83.0,1.67,1.17,18.7,77.9,0.53,4.0,236.0,12.0,3.0,fruit
+451,"Prickly pears, raw",41.0,0.73,0.51,9.57,87.6,1.64,3.6,220.0,85.0,5.0,fruit
+457,"Pummelo, raw",38.0,0.76,0.04,9.62,89.1,0.48,1.0,216.0,6.0,1.0,fruit
+458,"Quinces, raw",57.0,0.4,0.1,15.3,83.8,0.4,1.9,197.0,8.0,4.0,fruit
+459,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",299.0,3.3,0.25,79.3,15.5,1.68,4.5,744.0,36.0,26.0,fruit
+460,"Raisins, golden, seedless",301.0,3.28,0.2,80.0,14.9,1.61,3.3,746.0,35.0,24.0,fruit
+461,"Raisins, seeded",296.0,2.52,0.54,78.5,16.6,1.89,6.8,825.0,30.0,28.0,fruit
+464,"Raspberries, frozen, red, sweetened",103.0,0.7,0.16,26.2,72.8,0.24,4.4,114.0,13.0,1.0,fruit
+465,"Raspberries, frozen, red, unsweetened",56.0,1.15,0.81,12.6,85.0,0.48,4.3,184.0,23.0,4.0,fruit
+468,"Raspberries, raw",52.0,1.2,0.65,11.9,85.8,0.46,6.5,151.0,22.0,1.0,fruit
+470,"Rhubarb, frozen, cooked, with sugar",116.0,0.39,0.05,31.2,67.8,0.56,2.0,96.0,12.0,1.0,fruit
+471,"Rhubarb, frozen, uncooked",21.0,0.55,0.11,5.1,93.5,0.72,1.8,108.0,18.0,2.0,fruit
+472,"Rhubarb, raw",21.0,0.9,0.2,4.54,93.6,0.76,1.8,288.0,12.0,4.0,fruit
+473,"Rose-apples, raw",25.0,0.6,0.3,5.7,93.0,0.4,,123.0,5.0,0.0,fruit
+474,"Roselle, raw",49.0,0.96,0.64,11.3,86.6,0.51,,208.0,51.0,6.0,fruit
+475,"Rowal, raw",111.0,2.3,2.0,23.9,71.4,0.4,6.2,131.0,32.0,4.0,fruit
+477,"Sapodilla, raw",83.0,0.44,1.1,20.0,78.0,0.5,5.3,193.0,12.0,12.0,fruit
+478,"Sapote, mamey, raw",124.0,1.45,0.46,32.1,64.9,1.12,5.4,454.0,11.0,7.0,fruit
+479,"Soursop, raw",66.0,1.0,0.3,16.8,81.2,0.7,3.3,278.0,21.0,14.0,fruit
+481,"Strawberries, frozen, sweetened, sliced",96.0,0.53,0.13,25.9,73.2,0.24,1.9,98.0,7.0,3.0,fruit
+482,"Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",35.0,0.43,0.11,9.13,90.0,0.37,2.1,148.0,11.0,2.0,fruit
+483,"Strawberries, raw",32.0,0.67,0.3,7.68,91.0,0.4,2.0,153.0,13.0,1.0,fruit
+484,"Sugar-apples, (sweetsop), raw",94.0,2.06,0.29,23.6,73.2,0.78,4.4,247.0,21.0,9.0,fruit
+486,"Tamarinds, raw",239.0,2.8,0.6,62.5,31.4,2.7,5.1,628.0,92.0,28.0,fruit
+487,"Tangerine juice, raw",43.0,0.5,0.2,10.1,88.9,0.3,0.2,178.0,8.0,1.0,fruit
+491,"Tangerines, (mandarin oranges), raw",53.0,0.81,0.31,13.3,85.2,0.38,1.8,166.0,12.0,2.0,fruit
+492,"Watermelon, raw",30.0,0.61,0.15,7.55,91.4,0.25,0.4,112.0,10.0,1.0,fruit
