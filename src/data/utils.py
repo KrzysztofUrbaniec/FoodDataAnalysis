@@ -96,5 +96,5 @@ def find_top_n_percent_of_samples(df,n,drop_cols=None):
     
     for column in df_numeric.columns:
         percentile_rank = df[column].rank(pct=True) * 100
-        results[column] = df[percentile_rank >= (100-n)]
+        results[column] = df[percentile_rank >= (100-n)].sort_values(by=column,ascending=False)
     return results
