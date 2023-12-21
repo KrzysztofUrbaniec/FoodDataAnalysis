@@ -9,6 +9,7 @@ import pandas as pd
 import seaborn as sns
 
 def load_data(dirpath):
+    '''Loads the data from .csv files and saves them in a dictionary with keys corresponding to file names.'''
     dfs = {}
     for filename in os.listdir(dirpath):
         if filename.endswith('.csv'):
@@ -17,6 +18,7 @@ def load_data(dirpath):
     return dfs
 
 def merge_data(data):
+    '''Merges individual dataframes stored in a dictionary into one.'''
     columns = data['fruit'].columns
     final_df = pd.DataFrame(columns=columns)
     for food in data.values():
@@ -25,12 +27,14 @@ def merge_data(data):
     return final_df
 
 def add_food_type(data):
+    '''Adds category to particular products for easier classification and data extraction.'''
     data_copy = copy.copy(data)
     for category, dataframe in data_copy.items():
         dataframe['Category'] = category
     return data_copy
 
 def choose_foods(data):
+    '''Extracts only products that meet specific criteria from fetched FDC product/nutrition data.'''
     data_copy = copy.copy(data)
     for category, dataframe in data_copy.items():
         if category == 'fruit':
@@ -41,6 +45,7 @@ def choose_foods(data):
     return data_copy
 
 def save_final_datasets(data, dirpath):
+    '''Saves processed datasets with _final suffix.'''
     files = os.listdir(dirpath)
     for category, dataframe in data.items():
         filename = category + '_final' + '.csv'
@@ -48,6 +53,7 @@ def save_final_datasets(data, dirpath):
             dataframe.to_csv(os.path.join(dirpath,filename))
 
 def make_distribution_plot(df,type='box',nrows=4,figsize=(8,6)):
+    '''Creates a grid of histograms or boxplots displaying distributions of all numerical columns from the dataframe. Returns Axes class instance (subplots).'''
     df_numeric = df.select_dtypes('number')
     ncols = int(np.ceil(len(df_numeric.columns) / nrows))
     fig, ax = plt.subplots(figsize=figsize,ncols=ncols,nrows=nrows)
@@ -64,9 +70,12 @@ def make_distribution_plot(df,type='box',nrows=4,figsize=(8,6)):
     return ax
 
 def find_unique_food_types(df):
+    '''Attempts to find food types based on sample names and FDC's naming convention.'''
     return df['Description'].apply(lambda x: x.split(',')[0]).unique()
 
 def find_IQR_outliers(df):
+    '''Finds outliers in numericals columns of the dataframe according to +- 1.5 * IQR rule, commonly used for boxplots.
+    Returns a dictionary with keys corresponding to column names and values corresponding to indices of samples from the original dataframe.'''
     outlier_indices = dict()
     df_numeric = df.select_dtypes('number')
     for quantity in df_numeric.columns:
@@ -79,6 +88,7 @@ def find_IQR_outliers(df):
     return outlier_indices
 
 def count_outlier_dried_fruits(df,outlier_indices):
+    '''Computes % of dried fruits among outliers in particular nutrient.'''
     data = dict()
     for quantity, indices in outlier_indices.items():
         filtered_df = df.loc[indices]
@@ -88,6 +98,8 @@ def count_outlier_dried_fruits(df,outlier_indices):
     return final_df
 
 def find_top_n_percent_of_samples(df,n,drop_cols=None):
+    '''Allows to find top n % of samples in the set dataframe's numerical columns, potentially reduced by drop_cols.
+    Returns a dictionary with keys corresponding to column names and values corresponding to filtered versions of original dataframe.'''
     results = dict()
     df_copy = df.copy()
     if drop_cols is not None:
@@ -98,3 +110,29 @@ def find_top_n_percent_of_samples(df,n,drop_cols=None):
         percentile_rank = df[column].rank(pct=True) * 100
         results[column] = df[percentile_rank >= (100-n)].sort_values(by=column,ascending=False)
     return results
+
+def ntile(df, column, n, reverse_rank=False):
+    '''Divides a set of values into n approximately equal parts and assigns successive ranks to each part.
+    Analogous to SQL's NTILE(n) function. Highest values are ranked with 1 if reverse_rank=False.'''
+    
+    values = df[column].sort_values(ascending=False)
+    nan_mask = values.isna()
+    nan_count = nan_mask.sum()
+    
+    # Calculate bin sizes 
+    total_values = len(values) - nan_count
+    bin_sizes = np.full(n, total_values // n) # Create n bins of equal sizes
+    bin_sizes[:total_values % n] += 1 # Distribute the remainder evenly between the bins
+    
+    if reverse_rank is False:
+        bins = np.concatenate([np.full(size, i + 1) for i, size in enumerate(bin_sizes)])
+    else:
+        bins = np.concatenate([np.full(size, n - i) for i, size in enumerate(bin_sizes)])
+
+    lowest_rank = bins.max() if reverse_rank is False else 1
+    
+    ranks = pd.Series(np.nan, index=values.index) # Create Series initially full of NaNs
+    ranks[~nan_mask] = bins[:total_values]  # Assign ranks to non-NaN values
+    ranks[nan_mask] = lowest_rank # Always set lowest rank for NaN values
+    
+    return ranks
