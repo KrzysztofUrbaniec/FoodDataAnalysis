@@ -135,4 +135,4 @@ def ntile(df, column, n, reverse_rank=False):
     ranks[~nan_mask] = bins[:total_values]  # Assign ranks to non-NaN values
     ranks[nan_mask] = lowest_rank # Always set lowest rank for NaN values
     
-    return ranks
+    return ranks.astype(int)
