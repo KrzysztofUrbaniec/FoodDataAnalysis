@@ -97,6 +97,16 @@ def count_outlier_dried_fruits(df,outlier_indices):
     final_df = pd.DataFrame(data).transpose().rename({0:'#Dried',1:'%Dried'},axis=1)
     return final_df
 
+def create_comparison_boxplot(df,columns_to_compare):
+    '''Creates a set of boxplots to compare selected nutrients between raw and dried fruits.'''
+    df_copy = df.copy()
+    columns_to_drop = df_copy.columns.drop(['fruit_type'] + columns_to_compare) 
+    df_melted = pd.melt(frame=df_copy.drop(columns_to_drop,axis=1),id_vars='fruit_type',var_name='Nutrient',value_name='Value')
+    fig, ax = plt.subplots(figsize=(10,8))
+    sns.boxplot(df_melted,x='Nutrient',y='Value',hue='fruit_type',ax=ax)
+    ax.legend(title='Type')
+    return ax
+
 def find_top_n_percent_of_samples(df,n,drop_cols=None):
     '''Allows to find top n % of samples in the set dataframe's numerical columns, potentially reduced by drop_cols.
     Returns a dictionary with keys corresponding to column names and values corresponding to filtered versions of original dataframe.'''
